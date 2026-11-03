@@ -153,7 +153,7 @@ def main():
         AL.check(s, row["quote"], None if "error" in st else st, now, acfg, state, new_alerts)
         AL.check_news(s, row["news"], now, state, new_alerts)
         out["stocks"].append(row)
-    send_telegram(new_alerts)
+    send_telegram(new_alerts or ([{"type": "Test", "text": f"Telegram is connected. No new alerts at {out['collected_at_kl']}."}] if force else []))
     alerts_list = AL.prune(state, alerts_list + new_alerts, now)
     (data / "latest.json").write_text(json.dumps(out, indent=1, ensure_ascii=False))
     (data / "daily_stats.json").write_text(json.dumps(stats_all, indent=1))

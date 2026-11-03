@@ -1,0 +1,28 @@
+{
+ "updated_kl": "2026-11-03T16:36+08:00",
+ "rules": {
+  "volume_multiple": 2.0,
+  "price_sigma": 2.0,
+  "price_min_pct": 3.0
+ },
+ "alerts": [
+  {
+   "time_kl": "2026-11-03T16:36+08:00",
+   "code": "5199",
+   "type": "Volume",
+   "text": "Hibiscus (5199): volume 9,054,900 is 2.5x the normal pace for this time of day (20-day avg 3,716,460/day). Price -5.73%."
+  },
+  {
+   "time_kl": "2026-11-03T16:36+08:00",
+   "code": "5199",
+   "type": "Price",
+   "text": "Hibiscus (5199): -5.73% today, 2.4x its normal daily move (about 2.36%). Last RM 2.140."
+  },
+  {
+   "time_kl": "2026-11-03T16:36+08:00",
+   "code": "2089",
+   "type": "Volume",
+   "text": "United Plantations (2089): volume 644,400 is 2.1x the normal pace for this time of day (20-day avg 308,680/day). Price +1.64%."
+  }
+ ]
+}

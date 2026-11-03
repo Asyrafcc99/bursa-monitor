@@ -1,5 +1,5 @@
 {
- "collected_at_kl": "2026-11-03T16:30+08:00",
+ "collected_at_kl": "2026-11-03T16:36+08:00",
  "stocks": [
   {
    "code": "5321",
@@ -7,6 +7,12 @@
    "short": "Keyfield",
    "sector": "OIL & GAS",
    "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5321",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 397565,
+    "daily_move_sd_pct": 2.22,
+    "as_of": "2026-11-03"
+   },
    "quote": {
     "price": 1.37,
     "prev_close": 1.37,
@@ -50,6 +56,12 @@
    "short": "Lianson Fleet",
    "sector": "OIL & GAS",
    "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5255",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 79440,
+    "daily_move_sd_pct": 1.18,
+    "as_of": "2026-11-03"
+   },
    "quote": {
     "price": 1.5,
     "prev_close": 1.5,
@@ -86,10 +98,10 @@
      "source": "BusinessToday Malaysia"
     },
     {
-     "title": "Lianson adds Malaysia's first DP2 heavy-lift vessel - NST Online",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS2pMN0Z2YUFLTzZCU1AxLVFHal9LOUpZcC1GazhQZGVUWW0wenI0NGRCeUlPeGt2Mm5feGR3WTc0Znd2N3dlbUZ2R0IxbkVOai1wZHV6Z3VBWE14dENLbW0xRXlHX3N1QzYtcUpsZEp2QkRreGh5VGpTZThfb0g1bTZaOGFqTlZNMEtWd3RXQXJ4YmVLRzFiQ1ZHVnhfa1F3UDJraFVLVkNFX0xU0gGyAUFVX3lxTE5wQUl4Mng4V0ljYjdlR25EY3Zxb2MyaUV0bDZsYnpaZ0tuelc5RVp2QkpoZC1RU3IyM2tqRnBpSHB4VDJfZjBNa3l2UmVXaDNLWV9IaWlGUjRsa2x5d2NSR1MzTWEwanFQVDBvU1phQXJ1b2VtYkctMTlOc0NEVzc0TEgxS1dZYVpZZDNzci16ODdVX1gxODJGZld1Ykt3N3NVc1dTTEw2eUNpMmYxallGSlE?oc=5",
-     "published": "Fri, 30 Oct 2026 12:53:38 GMT",
-     "source": "NST Online"
+     "title": "Lianson Fleet Group adds muscle to offshore capabilities with acquisition of heavy-lift vessel - The Sun Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSm5BUXlGZWZXanVMLWZYRWZMbVJHN1RYRVl3ZTY4VGFuWUxNR3hKdmNvMTRiMXRKZ3lVLTV1VW1CODB1MGdsVWpOVTdfYmR3bmlQNXRVUTdOQ1FpejMzdzcxbEg1MnVHR0twUVJZZzlhUEtFOU9WdkNTZnpnNlVHLVp5ZExnSjB6VTdtcDNpYnRaYlc2M01yb2d5Vk9jQXBlSzhsV0xpZUphUmRKMTRHNTE2WVU2VXNVNWJGWXVqRQ?oc=5",
+     "published": "Sun, 01 Nov 2026 09:51:55 GMT",
+     "source": "The Sun Malaysia"
     }
    ]
   },
@@ -99,12 +111,18 @@
    "short": "Dayang",
    "sector": "OIL & GAS",
    "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5141",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 2677245,
+    "daily_move_sd_pct": 2.32,
+    "as_of": "2026-11-03"
+   },
    "quote": {
     "price": 1.34,
     "prev_close": 1.36,
     "change_pct": -1.47,
-    "volume": 1303700,
-    "price_time_kl": "2026-11-03T16:14+08:00",
+    "volume": 1310500,
+    "price_time_kl": "2026-11-03T16:16+08:00",
     "currency": "MYR",
     "source": "Yahoo Finance",
     "delayed": "Delayed about 15 min"
@@ -136,6 +154,12 @@
    "short": "Deleum",
    "sector": "OIL & GAS",
    "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5132",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 309450,
+    "daily_move_sd_pct": 1.26,
+    "as_of": "2026-11-03"
+   },
    "quote": {
     "price": 0.905,
     "prev_close": 0.91,
@@ -161,12 +185,18 @@
    "short": "Dialog Group",
    "sector": "OIL & GAS",
    "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/7277",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 6870215,
+    "daily_move_sd_pct": 1.7,
+    "as_of": "2026-11-03"
+   },
    "quote": {
     "price": 2.08,
     "prev_close": 2.14,
     "change_pct": -2.8,
-    "volume": 3086900,
-    "price_time_kl": "2026-11-03T16:14+08:00",
+    "volume": 3244900,
+    "price_time_kl": "2026-11-03T16:21+08:00",
     "currency": "MYR",
     "source": "Yahoo Finance",
     "delayed": "Delayed about 15 min"
@@ -210,12 +240,18 @@
    "short": "Yinson",
    "sector": "OIL & GAS",
    "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/7293",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 2711355,
+    "daily_move_sd_pct": 1.55,
+    "as_of": "2026-11-03"
+   },
    "quote": {
-    "price": 2.22,
+    "price": 2.23,
     "prev_close": 2.24,
-    "change_pct": -0.89,
-    "volume": 2032200,
-    "price_time_kl": "2026-11-03T16:15+08:00",
+    "change_pct": -0.45,
+    "volume": 2321100,
+    "price_time_kl": "2026-11-03T16:20+08:00",
     "currency": "MYR",
     "source": "Yahoo Finance",
     "delayed": "Delayed about 15 min"
@@ -259,12 +295,18 @@
    "short": "Velesto",
    "sector": "OIL & GAS",
    "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5243",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 19921315,
+    "daily_move_sd_pct": 3.29,
+    "as_of": "2026-11-03"
+   },
    "quote": {
     "price": 0.185,
     "prev_close": 0.185,
     "change_pct": 0.0,
-    "volume": 6536000,
-    "price_time_kl": "2026-11-03T16:10+08:00",
+    "volume": 6632300,
+    "price_time_kl": "2026-11-03T16:22+08:00",
     "currency": "MYR",
     "source": "Yahoo Finance",
     "delayed": "Delayed about 15 min"
@@ -302,23 +344,23 @@
    "short": "Hibiscus",
    "sector": "OIL & GAS",
    "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5199",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 3716460,
+    "daily_move_sd_pct": 2.36,
+    "as_of": "2026-11-03"
+   },
    "quote": {
     "price": 2.14,
     "prev_close": 2.27,
     "change_pct": -5.73,
-    "volume": 8765800,
-    "price_time_kl": "2026-11-03T16:15+08:00",
+    "volume": 9054900,
+    "price_time_kl": "2026-11-03T16:22+08:00",
     "currency": "MYR",
     "source": "Yahoo Finance",
     "delayed": "Delayed about 15 min"
    },
    "news": [
-    {
-     "title": "Datasonic Group Berhad (5216.KL) stock price, news, quote and history - Yahoo Finance Singapore",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTdjhhV3NOWmpoMTZkU0tWc2Rua1FqRlloUlNTdy00czBzR1dmd0lkbXQ4VG83RmJwdGRsQmRfRUEwOTVoOGJqdTdPaHFxVUVRanlGRHZn?oc=5",
-     "published": "Fri, 30 Oct 2026 07:00:00 GMT",
-     "source": "Yahoo Finance Singapore"
-    },
     {
      "title": "Zonetail Inc Company Profile & Introduction - Moomoo",
      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNLUtQNTd1andTbUdBOFZwQmp6eHRjd0cxejJ5NE44SFI4U2NIUW1EQ3RNSVYyV1BfSHBSUlFza3diVTFFZ2REOVpncHQxMUJ1WkU1YkZCYVhzM0JWU0VjWTNXWEY1dEF5NVRNaWNjdkthaHAySElaeW9OQ3BjaVNxV29rU2ZRa0VUYVJoN01xN0FsZmUzU09EcDJsaEtSZmVtb2szU1oyd0FUUUdzVEpta0FCaVU1M2RxalgwcTY3a3BXU1pBREs3dXc3ZEJGdktlb2RWTDBYY0J1VEJGZmZyVS1PcUhjQU1GWWlaNmhoX0hQYjBtM0d6OUdSTGctUWFib09wOW5vNnFyTm5TWmJHZmJnQUxRVzd5RmFnWHhCNnppNExtWXhkNVU5WmV4R1RjVzZwTGRmSzVTaFFZQkI1SFdpNFRWRjlHYk5NdXpMU25OUDJjd2lHdnlqaW81akZzdTNYUGo0UVNlOUpvTE1UcTBmOEtRbktwcnZuSEpmTHR0eWozalgyN2djZlp3VklFczJ3ejVhc05GTy1z?oc=5",
@@ -333,12 +375,18 @@
    "short": "Vantris Energy",
    "sector": "OIL & GAS",
    "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5218",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 1399745,
+    "daily_move_sd_pct": 2.58,
+    "as_of": "2026-11-03"
+   },
    "quote": {
     "price": 0.27,
     "prev_close": 0.265,
     "change_pct": 1.89,
-    "volume": 1035300,
-    "price_time_kl": "2026-11-03T16:14+08:00",
+    "volume": 1095700,
+    "price_time_kl": "2026-11-03T16:22+08:00",
     "currency": "MYR",
     "source": "Yahoo Finance",
     "delayed": "Delayed about 15 min"
@@ -364,12 +412,18 @@
    "short": "Ta Ann",
    "sector": "PLANTATION",
    "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5012",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 219925,
+    "daily_move_sd_pct": 0.87,
+    "as_of": "2026-11-03"
+   },
    "quote": {
     "price": 5.84,
     "prev_close": 5.8,
     "change_pct": 0.69,
-    "volume": 77000,
-    "price_time_kl": "2026-11-03T15:57+08:00",
+    "volume": 77100,
+    "price_time_kl": "2026-11-03T16:19+08:00",
     "currency": "MYR",
     "source": "Yahoo Finance",
     "delayed": "Delayed about 15 min"
@@ -388,12 +442,6 @@
      "source": "NST Online"
     },
     {
-     "title": "United Plantations Berhad (2089.KL) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKcXphZlVjWk9jUWJyY2lwa1hCanRSbGNHc1BLYjhOM2hwQzN6ZFNVWlBaM0hmMURCbjk3T1NNRWJlT1FFVVUtc0RPTnJBNkdCMkRGNjE2WlZpRWV0N2RiTkNJZHprZw?oc=5",
-     "published": "Mon, 02 Nov 2026 22:04:33 GMT",
-     "source": "Yahoo! Finance Canada"
-    },
-    {
      "title": "What to expect on Bursa Malaysia this Monday - Focus Malaysia",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vQm5rOUFoaDU3TnpDMUcyejB4MVBZZzQ4Q1F0clhYLUYwNERzZDluWHZyX3puZl9tUWlmODZvYTdVYVpiUW1hLXdJSnNiVl8zaG1FRDQ0bWg4Y0lOQ29IbDkwbW9aRzM5Uk9PVVJ6WXBsWjJXaVZNekpVTnVGS0U?oc=5",
      "published": "Mon, 02 Nov 2026 01:38:06 GMT",
@@ -404,6 +452,12 @@
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYjdrQlpOYXkzQ3J4aGJrNUdHQmxRWXQ1cGV4NHRIRjNXZjQ1aHdHc2lhMHgwVk9MZXppN0JhVlQ1S1RHSVdUc1AtVTJjc3NFNFBSZUY3YTJnRXA3X0lsU2FObHdpa25WUlhMd1RVdmdMeFNKdmZqc2Z3SU16aGlEX1Y0RTFWcEFpWi11WjU3TFhNS2ZHaDhLeFNmN1BHdHc?oc=5",
      "published": "Fri, 30 Oct 2026 00:33:34 GMT",
      "source": "Sarawak Tribune"
+    },
+    {
+     "title": "Marine Plywood Market To 2035: Shipbuilding and Infrastructure Demand Drive Growth - News and Statistics - IndexBox",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ2U4aElOekg2MVhtcEdITHlvU2hISTNYOHZpV3djMHRzeFBDa3ZuMGNLNGFZQm9idVVxX1ZNYkE3RHJ3YUp2MllFSHlRM29xVzktUHBSbVNxVFdVcWVSdDZrTFFOTmgyT1NWbGZjTmNQNnhiVDRHWEY5TVFMei1uX2hTNmtXYlZaT19oMmM2d1NQMXNERlFjU0RYS21DN1VhVGNZNnR4aW51dnB6TnhvLWZZQmxSZEdOLXIxWllxamFYd196TE44?oc=5",
+     "published": "Mon, 02 Nov 2026 04:41:04 GMT",
+     "source": "IndexBox"
     }
    ]
   },
@@ -413,6 +467,12 @@
    "short": "Hap Seng Plantations",
    "sector": "PLANTATION",
    "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5138",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 239325,
+    "daily_move_sd_pct": 0.86,
+    "as_of": "2026-11-03"
+   },
    "quote": {
     "price": 2.26,
     "prev_close": 2.26,
@@ -462,12 +522,18 @@
    "short": "SD Guthrie",
    "sector": "PLANTATION",
    "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5285",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 8021280,
+    "daily_move_sd_pct": 1.28,
+    "as_of": "2026-11-03"
+   },
    "quote": {
-    "price": 5.96,
+    "price": 5.95,
     "prev_close": 5.84,
-    "change_pct": 2.05,
-    "volume": 4113900,
-    "price_time_kl": "2026-11-03T16:15+08:00",
+    "change_pct": 1.88,
+    "volume": 4681700,
+    "price_time_kl": "2026-11-03T16:22+08:00",
     "currency": "MYR",
     "source": "Yahoo Finance",
     "delayed": "Delayed about 15 min"
@@ -511,12 +577,18 @@
    "short": "United Plantations",
    "sector": "PLANTATION",
    "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/2089",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 308680,
+    "daily_move_sd_pct": 0.98,
+    "as_of": "2026-11-03"
+   },
    "quote": {
-    "price": 29.76,
+    "price": 29.78,
     "prev_close": 29.3,
-    "change_pct": 1.57,
-    "volume": 638200,
-    "price_time_kl": "2026-11-03T16:15+08:00",
+    "change_pct": 1.64,
+    "volume": 644400,
+    "price_time_kl": "2026-11-03T16:21+08:00",
     "currency": "MYR",
     "source": "Yahoo Finance",
     "delayed": "Delayed about 15 min"
@@ -527,12 +599,6 @@
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNnp1ckZnbWk1STBXRmlnUmFXLUkyWW1DOTZZdGRPQXRLYmdwLWRXR3pSdFhlSm1oOUVkd1dJT2hveFdfN25FM0R2V1JjZTk1MVVzZVNXU2dQV21fdk5DckpQcHFfOXZIM2ZTT3FpOGZrU256X3RfTlpwSEdjemR0Mkt1UzlQMmpTNzN6cXJB?oc=5",
      "published": "Sat, 31 Oct 2026 03:34:11 GMT",
      "source": "BusinessToday Malaysia"
-    },
-    {
-     "title": "United Plantations Berhad (2089.KL) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKcXphZlVjWk9jUWJyY2lwa1hCanRSbGNHc1BLYjhOM2hwQzN6ZFNVWlBaM0hmMURCbjk3T1NNRWJlT1FFVVUtc0RPTnJBNkdCMkRGNjE2WlZpRWV0N2RiTkNJZHprZw?oc=5",
-     "published": "Mon, 02 Nov 2026 22:04:33 GMT",
-     "source": "Yahoo! Finance Canada"
     },
     {
      "title": "Kenanga initiates coverage on United Plantation­s with RM37 target price - PressReader",
@@ -551,6 +617,12 @@
      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdUFid1lfZjZTYU5rcDQ0emJEQzZfV3I4UmRVWDBhUUM4b2RHdjlDZkpCZHBlMGRLcXZXMklwbXpYRjlhNTFhLVAzNk8tUmh2UTlWajVpMkpBcHJaUE85TWc3a2YyYVFmR0hlWlZVTkdUZUUtcElrTG5vSF8yODVtb1ZiN21oc3lyelR1R3REWVZVM2drUzF5Y2xaSXN0bllYcWVIWGk4YmpYcGR6YVFvTVp4My13SnhZOVROVmRTMA?oc=5",
      "published": "Mon, 02 Nov 2026 01:36:00 GMT",
      "source": "Free Malaysia Today"
+    },
+    {
+     "title": "Bursa’s Biggest Weekly Movers: Nestlé Rallies, MPI Slumps On Friday - BusinessToday Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOGpRbUJYaWhtc0gtcThXY3RPM2gtZmFpRHFQZUFjSGVjdW9yZlVTMFZRTXNPWEdJSUhvamluVXFXbGtFOTQ5SWxHdnZQbjhkbTUxTmlnalNHMkkyZWQ4MUVIOEdNeXpmT25tTVBaYUhxcVc4TEw3SUNTLXE1MnV1b1lhc3R1a0hzaHZabV9lU1pGYkw2TUJQd2tFZm1IdWM1bWVhS1VlTEp2MGVCU1E?oc=5",
+     "published": "Sun, 01 Nov 2026 01:15:00 GMT",
+     "source": "BusinessToday Malaysia"
     }
    ]
   },
@@ -560,12 +632,18 @@
    "short": "Johor Plantations",
    "sector": "PLANTATION",
    "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5323",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 2950180,
+    "daily_move_sd_pct": 1.46,
+    "as_of": "2026-11-03"
+   },
    "quote": {
     "price": 1.78,
     "prev_close": 1.75,
     "change_pct": 1.71,
-    "volume": 978900,
-    "price_time_kl": "2026-11-03T16:15+08:00",
+    "volume": 1104200,
+    "price_time_kl": "2026-11-03T16:23+08:00",
     "currency": "MYR",
     "source": "Yahoo Finance",
     "delayed": "Delayed about 15 min"
@@ -596,10 +674,10 @@
      "source": "The Star"
     },
     {
-     "title": "Planters to benefit from higher CPO prices - KLSE Screener",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNTJzWTVlUS05S1JIY2VrVEtDZEhhMDNWSkNBMzgydzk2aTJRX0N4ZjRuWVhkNnBWTDJqbG4xaDI5Z0FLN0Y2bENqTzdXVDdzMTFuaUtKM3JRa3RMWXQyUEg0TE1HQjZQZE1hMTVqcmVST1lscTJibmpzaHExakpXLW9WTThoTFI3MVlzVTF5ZVBxbklLdkdr?oc=5",
-     "published": "Sun, 01 Nov 2026 23:10:25 GMT",
-     "source": "KLSE Screener"
+     "title": "JPG (5323) Stock Forum - Moomoo",
+     "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPUTNCWXB6TVJmQU9SdFdVLXdkZ0JteVItX1pxOXc3STdSRjRBbml5aURjSHJFbDZUMUUzV005OUFMMlF1amdwSGNpTjRBSlBBTE1vQkZiaV9wd3BxSWNEZjE2TjVIakFMSWJMQlNwdnRqT2laWU1DU3hwMU4wMXRwc0hwQlF3UmhTLXZFLXRoR25OTVJLQXZ1dWZkTjRmQ2hHX2tva0FNZjdsdG9Xbkw1TThvdkU3Mm1KaWxNZkJvaTBZVVlYaVZZcDJxbnNUazdHWE9PeS1VQUd3Q2xSR1dsVnJ0NGhtUnQtYWJoWXExazZ0NHFSTGtLQnl3S3NsbF96aGl2U1ZGTnpDa1ZVWUk1TzRMVWNVazBjSkJSdWVSWG1HaldwYVRmVG9tdi1zd3M4bTFvUzZVNlVsQjVXQ0RxWnBKMXJFZXhIenBKSjBoZ3BMLVk2NFhmcF91YTB6YkIyT2s0QmtsX2NVVldXNDltTnU5SkVhMm5heVhPSU1PLW9VMzh2a2ZVcXNPWWhvM1U?oc=5",
+     "published": "Thu, 29 Oct 2026 17:24:36 GMT",
+     "source": "Moomoo"
     }
    ]
   },
@@ -609,12 +687,18 @@
    "short": "IOI Corp",
    "sector": "PLANTATION",
    "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/1961",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 9480855,
+    "daily_move_sd_pct": 0.92,
+    "as_of": "2026-11-03"
+   },
    "quote": {
     "price": 4.45,
     "prev_close": 4.46,
     "change_pct": -0.22,
-    "volume": 3514800,
-    "price_time_kl": "2026-11-03T16:16+08:00",
+    "volume": 4205400,
+    "price_time_kl": "2026-11-03T16:23+08:00",
     "currency": "MYR",
     "source": "Yahoo Finance",
     "delayed": "Delayed about 15 min"
@@ -658,12 +742,18 @@
    "short": "KLK",
    "sector": "PLANTATION",
    "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/2445",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 664940,
+    "daily_move_sd_pct": 1.76,
+    "as_of": "2026-11-03"
+   },
    "quote": {
-    "price": 21.08,
+    "price": 21.0,
     "prev_close": 21.0,
-    "change_pct": 0.38,
-    "volume": 265400,
-    "price_time_kl": "2026-11-03T16:15+08:00",
+    "change_pct": 0.0,
+    "volume": 299400,
+    "price_time_kl": "2026-11-03T16:22+08:00",
     "currency": "MYR",
     "source": "Yahoo Finance",
     "delayed": "Delayed about 15 min"
@@ -707,12 +797,18 @@
    "short": "Jaya Tiasa",
    "sector": "PLANTATION",
    "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/4383",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 1301535,
+    "daily_move_sd_pct": 1.26,
+    "as_of": "2026-11-03"
+   },
    "quote": {
     "price": 0.895,
     "prev_close": 0.9,
     "change_pct": -0.56,
-    "volume": 324300,
-    "price_time_kl": "2026-11-03T16:10+08:00",
+    "volume": 453900,
+    "price_time_kl": "2026-11-03T16:22+08:00",
     "currency": "MYR",
     "source": "Yahoo Finance",
     "delayed": "Delayed about 15 min"
@@ -725,20 +821,26 @@
    "short": "Sarawak Oil Palms",
    "sector": "PLANTATION",
    "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5126",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 318305,
+    "daily_move_sd_pct": 1.87,
+    "as_of": "2026-11-03"
+   },
    "quote": {
     "price": 5.5,
     "prev_close": 5.43,
     "change_pct": 1.29,
-    "volume": 237300,
-    "price_time_kl": "2026-11-03T16:14+08:00",
+    "volume": 239400,
+    "price_time_kl": "2026-11-03T16:22+08:00",
     "currency": "MYR",
     "source": "Yahoo Finance",
     "delayed": "Delayed about 15 min"
    },
    "news": [
     {
-     "title": "Bursa Malaysia turns lower in early trade after opening higher - NST Online",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNekxRRWtsVUhLTXdsU3dDQ0JfUHhCSXFYMkkzMXd1WEtIanRaZ1FpeFlBLU5HUEo2WG5jS1R2QTg4dVhQRFVqa2Ywa0Q1cFVoM0t6blBkNFpEck1ydk9XazNXR251WUtQbE5RUi1uN3VrbTkxNjZvcGduV1ZYc3FRU0lJS1lKWmN4VFBkbS1JSWFfcVRuYXgwNWNvZFRwdkx5b2Ytb0RoUWhyREZLdUJrU1VFOW5JMHBjWVF2TElfWUcxRVdpdGVJY0Rib9IBvgFBVV95cUxQbDZtRnlZSHFtcDdjeGF3WGlXX2pObXdYZDJjdGh6Rm1mcndXME9JN1dLaXh0dFRfcFZEeXRRUTlsRHBIZmhyaHk0RFVEeDlqMW14N1I2Nk1ySWF6NDBvNlNNalRlcU5mZHRoTmJRbDBJUnQzQXdFZ21iYTIwXzZKOUF6T1o4QmJsTUhzbmlDak5jSmZiRHl1dF9jWGdGVmdzTzdXaF9ucG5aWnNZUXhjTUJkV053NHAzVlNtN2l3?oc=5",
+     "title": "CPO set to rise in first half of 2026 as El Nino hits supply - NST Online",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ3lQaG5jY1lrWl9ZX25RZ0FEQzk1NE03NlZvVTZESi1uZEIzVF91WGVvbUVNR2ZnM1hKWGdhOWU5dm5SZEJQQ2w3Z0FhRzZfY0ZNOW5YNUpHa3MtMFpvdVpTd2xWSkljNktqUEtZUGdFbmhfRnB4b3M0ankzYm1Ea3F5OTlvNWZ5b1J1alNMTGRZeTJvbVhtVzZvY2RIcTdGY0VyMEJwQ2tTNTZjeFVkQ3dWZm56cFFBMEZJNtIBrwFBVV95cUxPNVJjSFFISTFfcTY2QTA2VURENUVRbTNMOXREcWltc2NEWm94Rm5lRlFwRzZKWXZDa0IxQzM2VV9uQTd3eFFrNmN0ZnJvb0txM1VTbTFmMUhoMmNLR25JREhrSm80YlpQdTJqa2d5a0Rid09mQjNMMG1nSlYyU0VIcnFKaXFBQzUxT0VUaGNpajBWWG9PazM2QVg1MHhYTXpiMVZyc0E4akRtRExQZVZn?oc=5",
      "published": "Fri, 30 Oct 2026 04:00:00 GMT",
      "source": "NST Online"
     },
@@ -759,6 +861,12 @@
      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQlU0OXdwRVhCSFM1MGt2cnVQVnl0U3lqNkRwd2RhcmdxN1JuQm5jZ09JOEtmSDRBcjFtanlveEZJRnBkZzRKY3pVUGJzRzFpejVFNWxxWk5XeW1OUXlBelRXWTFReTZRWW1QdWY2OEdkQ2lQc2psS050SDZieHZvVlRBT2NDd1NQVnI4a0pISFk2ZVIzWWljUkZoX2s?oc=5",
      "published": "Sat, 31 Oct 2026 11:24:44 GMT",
      "source": "Sarawak Tribune"
+    },
+    {
+     "title": "Bursa Malaysia turns lower in early trade after opening higher - NST Online",
+     "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxPR1kxc2JxclIyVlI5bDY3NTNJbkFxWEgtLTNZQ1lzMk5fanNJVndzU2lhd2VVU0p4cEd0ZmpVOU92N0huTktaM2pQLUJqOVNJYTVXaFBMalBVNEZTT0hMeFI1NkVueDAzN0M2SW1nRkxvQ1lzcF9BZy1zOTdRcEJTNmliZm5lYkE4ZTVudkhFd0lsSnozUGJEdmJXWTRYbWNVRlBXYWhyUFFaYXBDR1FTSWZFbEJTcXhEQzdzYnJ5MjczemF6c2JCdU9QNHkzVzQ3MUthTWVla1NRa0FyZURZY1FOajVyal9fTlpmX09yWVE4MzZhTDhHbHZOanducW1LYVkya0JjQmFzQ3IzeEtLa19TXy1YLVd5ZUJmYUxVYm5Qa2Z6eTlucTROb0dhV0FLZVZuT0tSbHkzR0hqS2ZIUU9VblB0a192cHY3VHR4ejhVNndoX2w1MG1XRlFUbVQ5bmpacFgtV1Rad0xVN0pCU0JLRnpJeGxZT2hScWNEZklyOE1UU2stZjgwYk9USFlkX3g5WXFtWnJMVm4xUDczaVdQVEhZcFhqSmZ2N3VRMEsxR3PSAb4BQVVfeXFMUGw2bUZ5WUhxbXA3Y3hhd1hpV19qTm13WGQyY3RoekZtZnJ3VzBPSTdXS2l4dHRUX3BWRHl0UVE5bERwSGZocmh5NERVRHg5ajFteDdSNjZNcklhejQwbzZTTWpUZXFOZmR0aE5iUWwwSVJ0M0F3RWdtYmEyMF82SjlBek9aOEJibE1Ic25pQ2pOY0pmYkR5dXRfY1hnRlZnc083V2hfbnBuWlpzWVF4Y01CZFdOdzRwM1ZTbTdpdw?oc=5",
+     "published": "Wed, 28 Oct 2026 14:00:00 GMT",
+     "source": "NST Online"
     }
    ]
   },
@@ -768,12 +876,18 @@
    "short": "TSH Resources",
    "sector": "PLANTATION",
    "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/9059",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 1602435,
+    "daily_move_sd_pct": 1.96,
+    "as_of": "2026-11-03"
+   },
    "quote": {
     "price": 1.14,
     "prev_close": 1.12,
     "change_pct": 1.79,
-    "volume": 923000,
-    "price_time_kl": "2026-11-03T16:10+08:00",
+    "volume": 931700,
+    "price_time_kl": "2026-11-03T16:21+08:00",
     "currency": "MYR",
     "source": "Yahoo Finance",
     "delayed": "Delayed about 15 min"
@@ -817,12 +931,18 @@
    "short": "TIME dotCom",
    "sector": "TELECOMMUNICATION",
    "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5031",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 2971055,
+    "daily_move_sd_pct": 1.26,
+    "as_of": "2026-11-03"
+   },
    "quote": {
     "price": 5.44,
     "prev_close": 5.44,
     "change_pct": 0.0,
-    "volume": 1453900,
-    "price_time_kl": "2026-11-03T16:16+08:00",
+    "volume": 1653000,
+    "price_time_kl": "2026-11-03T16:23+08:00",
     "currency": "MYR",
     "source": "Yahoo Finance",
     "delayed": "Delayed about 15 min"
@@ -854,12 +974,18 @@
    "short": "Telekom Malaysia",
    "sector": "TELECOMMUNICATION",
    "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/4863",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 3190205,
+    "daily_move_sd_pct": 0.86,
+    "as_of": "2026-11-03"
+   },
    "quote": {
     "price": 7.87,
     "prev_close": 7.93,
     "change_pct": -0.76,
-    "volume": 2009100,
-    "price_time_kl": "2026-11-03T16:16+08:00",
+    "volume": 2156600,
+    "price_time_kl": "2026-11-03T16:21+08:00",
     "currency": "MYR",
     "source": "Yahoo Finance",
     "delayed": "Delayed about 15 min"
@@ -884,10 +1010,10 @@
      "source": "KLSE Screener"
     },
     {
-     "title": "Johor’s data centre surge unsettles Iskandar Puteri residents, some consider selling homes - Yahoo",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZmxXbjUyeEcxRnFyUVFpWFdyVXR6NmZVazN4dWlzSU9rOUpxOFIwY2NUWkY3XzlrdTFRWnpJdl92TW0xMFUtN21wNnJZWlJCYlRIT0NCVXJrVTMxWTdBSVVva0pMbkxTaDFPanFwN05NU2VEQTVUWldKNGFiRzdCVXpTbzhnT1U?oc=5",
-     "published": "Tue, 03 Nov 2026 01:26:00 GMT",
-     "source": "Yahoo"
+     "title": "The case of Maxis – U Mobile merger - NST Online",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQVVPbjk5WWhnOUJJV2ZlcUttQm1odlhfMnIxLUJ4NlUwV1NTdjlWZG1iMG5QU3hUOVZLbFRkakk4RW1UdWJUUm8yTl9vTGJaRWJ2U09CMXRWWmR3QzNJbVhMYmxUd0RRU0VBQ2FMWGZQV3M0U1FlMGJhTHN2eC0zZHhyYU1Pa3JDNm84ckhaZlhLLVZWYWk2ZzRB0gGfAUFVX3lxTE9aV2d4ZkxiSnZpT2pGUnptNnhPVGo3S0hwaUtnS1VhMHltSm92VXE0NHBfMmNKXzdGbzJURWxFWjZRU3FnUDhfcWw1T0pkWjRQdTNsSVhCcVJZVHA0YlM3TTNZQmRvaEp3RWMtUU5LZWMtWE5saXJTUWFwX1FIRHI5ZW9NWGprOV9rRzlrQ05YbU1kR1NpSXhqc3dXLTJ0TQ?oc=5",
+     "published": "Mon, 02 Nov 2026 00:00:46 GMT",
+     "source": "NST Online"
     },
     {
      "title": "Data centre boom in Malaysia’s Johor brings pylons, noise and property worries - Asia News Network",
@@ -903,12 +1029,18 @@
    "short": "Maxis",
    "sector": "TELECOMMUNICATION",
    "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/6012",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 1579540,
+    "daily_move_sd_pct": 1.32,
+    "as_of": "2026-11-03"
+   },
    "quote": {
-    "price": 3.59,
+    "price": 3.58,
     "prev_close": 3.61,
-    "change_pct": -0.55,
-    "volume": 847300,
-    "price_time_kl": "2026-11-03T16:15+08:00",
+    "change_pct": -0.83,
+    "volume": 870800,
+    "price_time_kl": "2026-11-03T16:22+08:00",
     "currency": "MYR",
     "source": "Yahoo Finance",
     "delayed": "Delayed about 15 min"
@@ -952,12 +1084,18 @@
    "short": "CelcomDigi",
    "sector": "TELECOMMUNICATION",
    "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/6947",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 2494975,
+    "daily_move_sd_pct": 1.9,
+    "as_of": "2026-11-03"
+   },
    "quote": {
     "price": 2.69,
     "prev_close": 2.67,
     "change_pct": 0.75,
-    "volume": 1323500,
-    "price_time_kl": "2026-11-03T16:15+08:00",
+    "volume": 1365200,
+    "price_time_kl": "2026-11-03T16:23+08:00",
     "currency": "MYR",
     "source": "Yahoo Finance",
     "delayed": "Delayed about 15 min"
@@ -1001,12 +1139,18 @@
    "short": "Axiata",
    "sector": "TELECOMMUNICATION",
    "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/6888",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 8810880,
+    "daily_move_sd_pct": 2.4,
+    "as_of": "2026-11-03"
+   },
    "quote": {
-    "price": 1.68,
+    "price": 1.69,
     "prev_close": 1.69,
-    "change_pct": -0.59,
-    "volume": 10089100,
-    "price_time_kl": "2026-11-03T16:14+08:00",
+    "change_pct": 0.0,
+    "volume": 10118500,
+    "price_time_kl": "2026-11-03T16:22+08:00",
     "currency": "MYR",
     "source": "Yahoo Finance",
     "delayed": "Delayed about 15 min"

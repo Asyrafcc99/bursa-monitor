@@ -1,10 +1,175 @@
 {
-  "_note": "Stage 1: 3 stocks. Codes are Bursa stock codes (CATS). Yahoo symbol = code + .KL",
-  "stocks": [
-    {"code": "5031", "name": "TIME DOTCOM BHD", "short": "TIME dotCom", "sector": "TELECOMMUNICATION", "news_query": "\"TIME dotCom\""},
-    {"code": "5285", "name": "SD GUTHRIE BHD", "short": "SD Guthrie", "sector": "PLANTATION", "news_query": "\"SD Guthrie\""},
-    {"code": "7277", "name": "DIALOG GROUP BHD", "short": "Dialog Group", "sector": "OIL & GAS", "news_query": "\"Dialog Group\" Bursa"}
-  ],
-  "seconds_between_requests": 3,
-  "news_items_per_stock": 5
+ "_note": "Coverage list (UOS 2H2026, 24 stocks). Codes are Bursa stock codes; Yahoo symbol = code + .KL",
+ "stocks": [
+  {
+   "code": "5321",
+   "name": "KEYFIELD INTERNATIONAL BHD",
+   "short": "Keyfield",
+   "sector": "OIL & GAS",
+   "news_query": "\"Keyfield International\""
+  },
+  {
+   "code": "5255",
+   "name": "LIANSON FLEET GROUP BHD",
+   "short": "Lianson Fleet",
+   "sector": "OIL & GAS",
+   "news_query": "\"Lianson Fleet\""
+  },
+  {
+   "code": "5141",
+   "name": "DAYANG ENTERPRISE HLDGS BHD",
+   "short": "Dayang",
+   "sector": "OIL & GAS",
+   "news_query": "\"Dayang Enterprise\""
+  },
+  {
+   "code": "5132",
+   "name": "DELEUM BERHAD",
+   "short": "Deleum",
+   "sector": "OIL & GAS",
+   "news_query": "\"Deleum\""
+  },
+  {
+   "code": "7277",
+   "name": "DIALOG GROUP BHD",
+   "short": "Dialog Group",
+   "sector": "OIL & GAS",
+   "news_query": "\"Dialog Group\" Bursa"
+  },
+  {
+   "code": "7293",
+   "name": "YINSON HOLDINGS BHD",
+   "short": "Yinson",
+   "sector": "OIL & GAS",
+   "news_query": "\"Yinson\""
+  },
+  {
+   "code": "5243",
+   "name": "VELESTO ENERGY BHD",
+   "short": "Velesto",
+   "sector": "OIL & GAS",
+   "news_query": "\"Velesto\""
+  },
+  {
+   "code": "5199",
+   "name": "HIBISCUS PETROLEUM BHD",
+   "short": "Hibiscus",
+   "sector": "OIL & GAS",
+   "news_query": "\"Hibiscus Petroleum\""
+  },
+  {
+   "code": "5218",
+   "name": "VANTRIS ENERGY BHD",
+   "short": "Vantris Energy",
+   "sector": "OIL & GAS",
+   "news_query": "\"Vantris Energy\""
+  },
+  {
+   "code": "5012",
+   "name": "TA ANN HOLDINGS BERHAD",
+   "short": "Ta Ann",
+   "sector": "PLANTATION",
+   "news_query": "\"Ta Ann\""
+  },
+  {
+   "code": "5138",
+   "name": "HAP SENG PLANTATIONS HLDGS",
+   "short": "Hap Seng Plantations",
+   "sector": "PLANTATION",
+   "news_query": "\"Hap Seng Plantations\""
+  },
+  {
+   "code": "5285",
+   "name": "SD GUTHRIE BHD",
+   "short": "SD Guthrie",
+   "sector": "PLANTATION",
+   "news_query": "\"SD Guthrie\""
+  },
+  {
+   "code": "2089",
+   "name": "UNITED PLANTATIONS BHD",
+   "short": "United Plantations",
+   "sector": "PLANTATION",
+   "news_query": "\"United Plantations\""
+  },
+  {
+   "code": "5323",
+   "name": "JOHOR PLANTATIONS GROUP BHD",
+   "short": "Johor Plantations",
+   "sector": "PLANTATION",
+   "news_query": "\"Johor Plantations\""
+  },
+  {
+   "code": "1961",
+   "name": "IOI CORP BHD",
+   "short": "IOI Corp",
+   "sector": "PLANTATION",
+   "news_query": "\"IOI Corp\""
+  },
+  {
+   "code": "2445",
+   "name": "KUALA LUMPUR KEPONG BHD",
+   "short": "KLK",
+   "sector": "PLANTATION",
+   "news_query": "\"Kuala Lumpur Kepong\""
+  },
+  {
+   "code": "4383",
+   "name": "JAYA TIASA HOLDINGS BHD",
+   "short": "Jaya Tiasa",
+   "sector": "PLANTATION",
+   "news_query": "\"Jaya Tiasa\""
+  },
+  {
+   "code": "5126",
+   "name": "SARAWAK OIL PALMS BERHAD",
+   "short": "Sarawak Oil Palms",
+   "sector": "PLANTATION",
+   "news_query": "\"Sarawak Oil Palms\""
+  },
+  {
+   "code": "9059",
+   "name": "TSH RESOURCES BHD",
+   "short": "TSH Resources",
+   "sector": "PLANTATION",
+   "news_query": "\"TSH Resources\""
+  },
+  {
+   "code": "5031",
+   "name": "TIME DOTCOM BHD",
+   "short": "TIME dotCom",
+   "sector": "TELECOMMUNICATION",
+   "news_query": "\"TIME dotCom\""
+  },
+  {
+   "code": "4863",
+   "name": "TELEKOM MALAYSIA BHD",
+   "short": "Telekom Malaysia",
+   "sector": "TELECOMMUNICATION",
+   "news_query": "\"Telekom Malaysia\""
+  },
+  {
+   "code": "6012",
+   "name": "MAXIS BHD",
+   "short": "Maxis",
+   "sector": "TELECOMMUNICATION",
+   "news_query": "\"Maxis\" Malaysia"
+  },
+  {
+   "code": "6947",
+   "name": "CELCOMDIGI BHD",
+   "short": "CelcomDigi",
+   "sector": "TELECOMMUNICATION",
+   "news_query": "\"CelcomDigi\""
+  },
+  {
+   "code": "6888",
+   "name": "AXIATA GROUP BERHAD",
+   "short": "Axiata",
+   "sector": "TELECOMMUNICATION",
+   "news_query": "\"Axiata\""
+  }
+ ],
+ "seconds_between_requests": 2,
+ "news_items_per_stock": 5
 }

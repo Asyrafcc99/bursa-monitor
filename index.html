@@ -9,6 +9,9 @@
   @media (prefers-color-scheme: dark) { :root { --bg:#121212; --fg:#eee; --muted:#999; --line:#333; --up:#4cc76f; --down:#ff6b6b; --warn:#e3b341; --new:#3a3200; } }
   body { margin:0; padding:16px; font:14px/1.45 system-ui, sans-serif; background:var(--bg); color:var(--fg); }
   h1 { font-size:20px; margin:0 0 4px; }
+  h2 { font-size:15px; margin:20px 0 8px; color:var(--muted); letter-spacing:.04em; }
+  .card { padding:8px 12px !important; margin-bottom:8px !important; }
+  summary { cursor:pointer; font-size:12px; color:var(--muted); margin-top:4px; }
   .meta { color:var(--muted); margin-bottom:16px; }
   .warn { color:var(--warn); font-weight:600; }
   .card { border:1px solid var(--line); border-radius:8px; padding:12px; margin-bottom:12px; }
@@ -42,7 +45,8 @@ fetch("data/latest.json?t=" + Date.now()).then(r => {
     "Last collected: " + esc(d.collected_at_kl.replace("T", " ")) + " (KL time)" +
     (ageMin > 30 ? ' <span class="warn">· ' + Math.round(ageMin) + " min old (normal outside market hours)</span>" : "");
   const nowSeen = [];
-  document.getElementById("list").innerHTML = d.stocks.map(s => {
+  const sectors = [...new Set(d.stocks.map(s => s.sector))];
+  document.getElementById("list").innerHTML = sectors.map(sec => '<h2>' + esc(sec) + '</h2>' + d.stocks.filter(s => s.sector === sec).map(s => {
     const q = s.quote || {};
     let priceHtml;
     if (q.error) priceHtml = '<span class="warn">' + esc(q.error) + "</span>";
@@ -53,15 +57,20 @@ fetch("data/latest.json?t=" + Date.now()).then(r => {
         ' <span class="small">Vol ' + fmt(q.volume) + " · as of " + esc((q.price_time_kl || "unknown time").replace("T", " ")) +
         " KL · " + esc(q.delayed) + " (" + esc(q.source) + ")</span>";
     }
+    let newCount = 0;
     const news = (s.news || []).map(n => {
       nowSeen.push(n.link);
-      return '<li class="' + (seen.size && !seen.has(n.link) ? "new" : "") + '"><a href="' + esc(n.link) + '" target="_blank" rel="noopener">' +
+      const isNew = seen.size && !seen.has(n.link);
+      if (isNew) newCount++;
+      return '<li class="' + (isNew ? "new" : "") + '"><a href="' + esc(n.link) + '" target="_blank" rel="noopener">' +
         esc(n.title) + '</a> <span class="small">' + esc(n.published) + "</span></li>";
     }).join("");
+    const newsBlock = news
+      ? '<details' + (newCount ? " open" : "") + '><summary>News (' + (s.news || []).length + (newCount ? ", " + newCount + " new" : "") + ')</summary><ul>' + news + '</ul></details>'
+      : '<div class="small">' + esc(s.news_error || "No news in the last 7 days.") + "</div>";
     return '<div class="card"><div class="top"><span class="name">' + esc(s.short) + " (" + esc(s.code) + ')</span>' + priceHtml + "</div>" +
-      '<div class="small">' + esc(s.sector) + ' · <a href="' + esc(s.klsescreener_url) + '" target="_blank" rel="noopener">Open in KLSE Screener</a></div>' +
-      (news ? "<ul>" + news + "</ul>" : '<div class="small">' + esc(s.news_error || "No news in the last 7 days.") + "</div>") + "</div>";
-  }).join("");
+      '<div class="small"><a href="' + esc(s.klsescreener_url) + '" target="_blank" rel="noopener">Open in KLSE Screener</a></div>' + newsBlock + "</div>";
+  }).join("")).join("");
   try { localStorage.setItem("seenNews", JSON.stringify([...new Set([...seen, ...nowSeen])].slice(-500))); } catch (e) {}
 }).catch(e => {
   document.getElementById("meta").innerHTML = '<span class="warn">No data yet: ' + esc(e.message) + "</span>";

@@ -1,0 +1,10 @@
+{
+  "_note": "Stage 1: 3 stocks. Codes are Bursa stock codes (CATS). Yahoo symbol = code + .KL",
+  "stocks": [
+    {"code": "5031", "name": "TIME DOTCOM BHD", "short": "TIME dotCom", "sector": "TELECOMMUNICATION", "news_query": "\"TIME dotCom\""},
+    {"code": "5285", "name": "SD GUTHRIE BHD", "short": "SD Guthrie", "sector": "PLANTATION", "news_query": "\"SD Guthrie\""},
+    {"code": "7277", "name": "DIALOG GROUP BHD", "short": "Dialog Group", "sector": "OIL & GAS", "news_query": "\"Dialog Group\" Bursa"}
+  ],
+  "seconds_between_requests": 3,
+  "news_items_per_stock": 5
+}

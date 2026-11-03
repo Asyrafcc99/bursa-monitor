@@ -1,11 +1,39 @@
 {
- "updated_kl": "2026-11-03T16:54+08:00",
+ "updated_kl": "2026-11-03T17:00+08:00",
  "rules": {
   "volume_multiple": 2.0,
   "price_sigma": 2.0,
   "price_min_pct": 3.0
  },
  "alerts": [
+  {
+   "time_kl": "2026-11-03T17:00+08:00",
+   "code": "5243",
+   "type": "News",
+   "text": "Velesto (5243): Velesto Energy Berhad (5243.KL) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8ydWY3R3BLM01ELWVTQTRRZ2RVbXZ0WHhDXzdBMUEzOWJUbzJaQ1lWQW4tVU9aQnpaYXlNQi14QkZUdDJiTGViWm5vbmJaanBTakFQTzhsWUxBLUl4RExfdW9Wb05hZw?oc=5"
+  },
+  {
+   "time_kl": "2026-11-03T17:00+08:00",
+   "code": "5199",
+   "type": "News",
+   "text": "Hibiscus (5199): Datasonic Group Berhad (5216.KL) stock price, news, quote and history - Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTdjhhV3NOWmpoMTZkU0tWc2Rua1FqRlloUlNTdy00czBzR1dmd0lkbXQ4VG83RmJwdGRsQmRfRUEwOTVoOGJqdTdPaHFxVUVRanlGRHZn?oc=5"
+  },
+  {
+   "time_kl": "2026-11-03T17:00+08:00",
+   "code": "5012",
+   "type": "News",
+   "text": "Ta Ann (5012): Sin Heng Chan (Malaya) Berhad (4316.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50SmtCdVQ4NmtkSS0yY292d2p5eTQ1N0tLdFZDczZzcTk5TDlVV0dtM1piMGptM1JyczlDUU4yWGlDSFpSMnUtYnRncWhLNHBHcmRlcnQyT2NPUEhRaGVsUC1WR0V5UQ?oc=5"
+  },
+  {
+   "time_kl": "2026-11-03T17:00+08:00",
+   "code": "5126",
+   "type": "News",
+   "text": "Sarawak Oil Palms (5126): Bursa Malaysia turns lower in early trade after opening higher - NST Online",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNekxRRWtsVUhLTXdsU3dDQ0JfUHhCSXFYMkkzMXd1WEtIanRaZ1FpeFlBLU5HUEo2WG5jS1R2QTg4dVhQRFVqa2Ywa0Q1cFVoM0t6blBkNFpEck1ydk9XazNXR251WUtQbE5RUi1uN3VrbTkxNjZvcGduV1ZYc3FRU0lJS1lKWmN4VFBkbS1JSWFfcVRuYXgwNWNvZFRwdkx5b2Ytb0RoUWhyREZLdUJrU1VFOW5JMHBjWVF2TElfWUcxRVdpdGVJY0Rib9IBvgFBVV95cUxQbDZtRnlZSHFtcDdjeGF3WGlXX2pObXdYZDJjdGh6Rm1mcndXME9JN1dLaXh0dFRfcFZEeXRRUTlsRHBIZmhyaHk0RFVEeDlqMW14N1I2Nk1ySWF6NDBvNlNNalRlcU5mZHRoTmJRbDBJUnQzQXdFZ21iYTIwXzZKOUF6T1o4QmJsTUhzbmlDak5jSmZiRHl1dF9jWGdGVmdzTzdXaF9ucG5aWnNZUXhjTUJkV053NHAzVlNtN2l3?oc=5"
+  },
   {
    "time_kl": "2026-11-03T16:54+08:00",
    "code": "5255",

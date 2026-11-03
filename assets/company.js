@@ -48,7 +48,9 @@
       ${q.error ? `<div class="warn">${esc(q.error)}</div>` : `<div><span class="big" style="font-size:28px;font-weight:800">RM ${q.price.toFixed(3)}</span>
         <span class="${BM.cls(q.change_pct)}" style="font-size:18px"> ${BM.pct(q.change_pct)}</span>
         <div class="small">As of ${BM.t(q.price_time_kl, true)} KL · ${esc(q.delayed)} (${esc(q.source)})</div></div>`}
-      <div style="margin-left:auto"><a href="${esc(s.klsescreener_url)}" target="_blank" rel="noopener">Open in KLSE Screener ↗</a></div></div>`;
+      <div style="margin-left:auto;display:flex;flex-direction:column;gap:4px;align-items:flex-end">
+        <a href="https://www.bursamalaysia.com/market_information/announcements/company_announcement?company=${s.code}" target="_blank" rel="noopener">Bursa announcements ↗</a>
+        <a href="${esc(s.klsescreener_url)}" target="_blank" rel="noopener">Open in KLSE Screener ↗</a></div></div>`;
     document.getElementById("status").innerHTML = `Market: <b>${BM.marketStatus()}</b> · Last update <b>${BM.t(all.data.collected_at_kl, true)}</b> KL`;
   }
 
@@ -78,9 +80,9 @@
 
   function renderFeeds() {
     const al = all.alerts.filter(a => a.code === code);
-    document.getElementById("alerts").innerHTML = al.length ? `<div class="feed">${al.map(a => `<div class="item"><span class="tag ${a.type}">${a.type}</span>${a.link ? `<a href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.text)}</a>` : esc(a.text)}<div class="small">${BM.t(a.time_kl, true)}</div></div>`).join("")}</div>` : '<div class="small">None in the last 5 days.</div>';
+    document.getElementById("alerts").innerHTML = al.length ? `<div class="feed">${al.map(a => `<div class="item"><span class="tag ${a.type}">${a.type}</span>${BM.tagHtml(a.tags)}${a.link ? `<a href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.text)}</a>` : esc(a.text)}<div class="small">${BM.t(a.time_kl, true)}</div></div>`).join("")}</div>` : '<div class="small">None in the last 5 days.</div>';
     const nw = all.news.filter(n => n.code === code);
-    document.getElementById("news").innerHTML = nw.length ? `<div class="feed">${nw.map(n => `<div class="item"><a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a><div class="small">${esc(n.source || "")} · ${n.date ? BM.ago(n.date) : ""}</div></div>`).join("")}</div>` : `<div class="small">${esc(s.news_error || "No headlines naming this company in the last 7 days.")}</div>`;
+    document.getElementById("news").innerHTML = nw.length ? `<div class="feed">${nw.map(n => `<div class="item">${BM.tagHtml(n.tags)}<a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a><div class="small">${esc(n.source || "")} · ${n.date ? BM.ago(n.date) : ""}</div></div>`).join("")}</div>` : `<div class="small">${esc(s.news_error || "No headlines naming this company in the last 7 days.")}</div>`;
   }
 
   function renderPeers() {
@@ -91,6 +93,26 @@
           (q.error ? `<td colspan="4" class="warn">${esc(q.error)}</td>` : `<td>${q.price.toFixed(3)}</td><td class="${BM.cls(q.change_pct)}">${BM.pct(q.change_pct)}</td><td>${p == null ? "–" : p.toFixed(1) + "x"}</td><td>${BM.spark(q.spark, q.prev_close)}</td>`) + `</tr>`; }).join("") +
       `</tbody></table></div>`;
     document.getElementById("jump").innerHTML = all.data.stocks.map(x => `<option value="${x.code}" ${x.code === code ? "selected" : ""}>${x.code} ${esc(x.short)}</option>`).join("");
+  }
+
+  // ---------- notes (notes/<code>.md in the repo; edited on GitHub) ----------
+  function md(text) {
+    const inline = t => esc(t).replace(/\*\*(.+?)\*\*/g, "<b>$1</b>").replace(/\[(.+?)\]\((https?:\/\/[^\s)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>');
+    const lines = text.replace(/<!--[\s\S]*?-->/g, "").trim().split("\n");
+    let html = "", inList = false;
+    for (const l of lines) {
+      const li = l.match(/^\s*[-*]\s+(.*)/), h = l.match(/^#+\s+(.*)/);
+      if (li) { if (!inList) { html += "<ul>"; inList = true; } html += `<li>${inline(li[1])}</li>`; continue; }
+      if (inList) { html += "</ul>"; inList = false; }
+      if (h) html += `<h3>${inline(h[1])}</h3>`; else if (l.trim()) html += `<p>${inline(l)}</p>`;
+    }
+    return html + (inList ? "</ul>" : "");
+  }
+  async function renderNotes() {
+    document.getElementById("editNotes").href = `https://github.com/Asyrafcc99/bursa-monitor/edit/main/notes/${code}.md`;
+    const text = await fetch(`notes/${code}.md?t=${Math.floor(Date.now() / 60000)}`).then(r => r.ok ? r.text() : "").catch(() => "");
+    const html = md(text);
+    document.getElementById("notes").innerHTML = html || '<div class="small">No notes yet. Tap "Edit on GitHub" to add some.</div>';
   }
 
   // ---------- chart ----------
@@ -175,7 +197,7 @@
     try { await loadData(); }
     catch (e) { document.getElementById("status").innerHTML = `<span class="warn">${esc(e.message)}. <a href="./">Back to dashboard</a></span>`; return; }
     renderHero(); renderStats(); renderFeeds(); renderPeers();
-    if (first) { buildChart(); renderRanges(); }
+    if (first) { buildChart(); renderRanges(); renderNotes(); }
     drawChart();
   }
   await refresh(true);

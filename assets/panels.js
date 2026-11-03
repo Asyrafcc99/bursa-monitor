@@ -82,20 +82,26 @@ window.PANELS = [
       const list = ctx.alerts.filter(a => ctx.codes.has(a.code)).filter(a => !ctx.q || a.text.toLowerCase().includes(ctx.q));
       if (!list.length) return `<div class="small">No alerts for this filter.</div>`;
       return `<div class="feed">` + list.slice(0, 40).map(a => `<div class="item ${BM.isNewAlert(a) ? "new" : ""}">
-        <span class="tag ${a.type}">${a.type}</span>${a.link ? `<a href="${BM.esc(a.link)}" target="_blank" rel="noopener">${BM.esc(a.text)}</a>` : BM.esc(a.text)}
+        <span class="tag ${a.type}">${a.type}</span>${BM.tagHtml(a.tags)}${a.link ? `<a href="${BM.esc(a.link)}" target="_blank" rel="noopener">${BM.esc(a.text)}</a>` : BM.esc(a.text)}
         <div class="small">${BM.t(a.time_kl, true)} · <button class="stockbtn" data-stock="${a.code}">open ${a.code}</button></div></div>`).join("") + `</div>`;
     }
   },
   {
     id: "news", title: "News, all stocks", width: 6,
     render(ctx) {
-      const list = ctx.news.filter(n => ctx.codes.has(n.code)).filter(n => !ctx.q || (n.title + n.short).toLowerCase().includes(ctx.q));
-      if (!list.length) return `<div class="small">No headlines for this filter.</div>`;
+      const TAGS = ["Results", "Dealings", "Dividend", "Deal/Contract", "Analyst"];
+      const list = ctx.news.filter(n => ctx.codes.has(n.code))
+        .filter(n => !BM.newsTag || (n.tags || []).includes(BM.newsTag))
+        .filter(n => !ctx.q || (n.title + n.short).toLowerCase().includes(ctx.q));
+      const chips = `<div class="chips" style="margin-bottom:6px">` + ["", ...TAGS].map(t =>
+        `<button class="chip ${BM.newsTag === t ? "on" : ""}" data-newstag="${t}">${t || "All"}</button>`).join("") + `</div>`;
+      if (!list.length) return chips + `<div class="small">No headlines for this filter.</div>`;
       const shown = list.slice(0, BM.newsLimit);
-      return `<div class="feed">` + shown.map(n => `<div class="item ${BM.isNewNews(n) ? "new" : ""}">
-        <a href="${BM.esc(n.link)}" target="_blank" rel="noopener">${BM.esc(n.title)}</a>
+      return chips + `<div class="feed">` + shown.map(n => `<div class="item ${BM.isNewNews(n) ? "new" : ""}">
+        ${BM.tagHtml(n.tags)}<a href="${BM.esc(n.link)}" target="_blank" rel="noopener">${BM.esc(n.title)}</a>
         <div class="small"><button class="stockbtn" data-stock="${n.code}">${BM.esc(n.short)}</button> · ${BM.esc(n.source || "")} · ${n.date ? BM.ago(n.date) : ""}</div></div>`).join("") +
-        `</div>` + (list.length > shown.length ? `<button class="more" data-action="moreNews">Show more (${list.length - shown.length})</button>` : "");
+        `</div>` + (list.length > shown.length ? `<button class="more" data-action="moreNews">Show more (${list.length - shown.length})</button>` : "") +
+        `<div class="small" style="margin-top:6px">Tags are keyword guesses from the headline, not official classifications.</div>`;
     }
   },
 ];

@@ -111,6 +111,21 @@ def news_ok(title, source, match):
     return not match or any(m in t for m in match)
 
 
+# Tags for headlines (simple keyword rules on the title, lower case)
+TAGS = {
+    "Results": ("quarterly", "results", "net profit", "earnings", "profit", "revenue", "1q", "2q", "3q", "4q", "q1 ", "q2 ", "q3 ", "q4 "),
+    "Dealings": ("substantial shareholder", "director", "disposes", "disposal of shares", "acquires stake", "stake in", "emerges as", "ceases to be", "shares bought", "insider"),
+    "Dividend": ("dividend", "payout", "bonus issue", "special dividend"),
+    "Deal/Contract": ("contract", "awarded", "secures", "wins ", "joint venture", " jv", "agreement", "mou", "acquisition", "acquires", "merger"),
+    "Analyst": ("target price", "upgrade", "downgrade", "initiates coverage", "trims", "raises", "maintain", "outperform", "underperform", "earnings forecast"),
+}
+
+
+def tag_title(title):
+    t = " " + (title or "").lower() + " "
+    return [k for k, words in TAGS.items() if any(w in t for w in words)]
+
+
 def google_news(query, limit, match=None):
     q = urllib.parse.quote(query)
     url = f"https://news.google.com/rss/search?q={q}+when:7d&hl=en-MY&gl=MY&ceid=MY:en"
@@ -124,6 +139,7 @@ def google_news(query, limit, match=None):
             "link": it.findtext("link"),
             "published": it.findtext("pubDate"),
             "source": it.findtext("source"),
+            "tags": tag_title(it.findtext("title")),
         })
         if len(items) >= limit:
             break
@@ -148,7 +164,7 @@ def send_telegram(new_alerts, state):
         if not chat:
             print("Telegram: no chat found. Send your bot a message in Telegram first.")
             return
-    lines = [f"[{a['type']}] {a['text']}" + (f"\n{a['link']}" if a.get("link") else "") for a in new_alerts]
+    lines = [f"[{a['type']}{(': ' + ', '.join(a['tags'])) if a.get('tags') else ''}] {a['text']}" + (f"\n{a['link']}" if a.get("link") else "") for a in new_alerts]
     lines.append("(Yahoo data delayed ~15 min. Research only, not advice.)")
     text = "Bursa Monitor alerts\n\n" + "\n\n".join(lines)
     for i in range(0, len(text), 3900):  # Telegram limit is 4096 chars per message

@@ -80,6 +80,7 @@ def check_news(stock, news, now_kl, state, alerts):
     for n in news:
         if n["link"] not in known and not first_run:
             alerts.append({"time_kl": now_kl.isoformat(timespec="minutes"), "code": stock["code"], "type": "News",
+                           "tags": n.get("tags", []),
                            "text": f"{stock['short']} ({stock['code']}): {n['title']}", "link": n["link"]})
         known.add(n["link"])
     seen[stock["code"]] = list(known)[-60:]

@@ -57,6 +57,8 @@
         (by ? `<line x1="0" x2="${w}" y1="${by}" y2="${by}" stroke="var(--muted)" stroke-dasharray="2 3" stroke-width="1"/>` : "") +
         `<polyline points="${pts}" fill="none" stroke="${col}" stroke-width="1.5"/></svg>`;
     },
+    tagHtml: tags => (tags || []).map(t => `<span class="tag ntag">${esc(t)}</span>`).join(""),
+    newsTag: "",
     isNewNews: n => seenNews.size > 0 && !seenNews.has(n.link),
     isNewAlert: a => lastAlertVisit && a.time_kl > lastAlertVisit,
   };

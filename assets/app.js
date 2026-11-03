@@ -93,12 +93,13 @@
 
   // ---------- events ----------
   document.addEventListener("click", e => {
-    const el = e.target.closest("[data-stock],[data-sector],[data-sort],[data-action],[data-move],[data-toggle]");
+    const el = e.target.closest("[data-newstag],[data-stock],[data-sector],[data-sort],[data-action],[data-move],[data-toggle]");
     if (e.target.id === "drawerOverlay") return (document.getElementById("drawerOverlay").hidden = true);
     if (e.target.id === "customOverlay") return (document.getElementById("customOverlay").hidden = true);
     if (!el || e.target.closest("a")) return;
     const ds = el.dataset;
-    if (ds.stock) openStock(ds.stock);
+    if (ds.newstag !== undefined) { BM.newsTag = ds.newstag; render(); }
+    else if (ds.stock) openStock(ds.stock);
     else if (ds.sector) { state.sector = ds.sector; LS.set("sector", ds.sector); render(); }
     else if (ds.sort !== undefined) {
       if (!ds.sort) return;

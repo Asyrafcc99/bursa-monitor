@@ -1,40 +1,458 @@
 {
- "collected_at_kl": "2026-11-03T16:20+08:00",
+ "collected_at_kl": "2026-11-03T16:30+08:00",
  "stocks": [
   {
-   "code": "5031",
-   "name": "TIME DOTCOM BHD",
-   "short": "TIME dotCom",
-   "sector": "TELECOMMUNICATION",
-   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5031",
+   "code": "5321",
+   "name": "KEYFIELD INTERNATIONAL BHD",
+   "short": "Keyfield",
+   "sector": "OIL & GAS",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5321",
    "quote": {
-    "price": 5.44,
-    "prev_close": 5.44,
+    "price": 1.37,
+    "prev_close": 1.37,
     "change_pct": 0.0,
-    "volume": 1395000,
-    "price_time_kl": "2026-11-03T16:05+08:00",
+    "volume": 8000,
+    "price_time_kl": "2026-11-03T11:46+08:00",
     "currency": "MYR",
     "source": "Yahoo Finance",
     "delayed": "Delayed about 15 min"
    },
    "news": [
     {
-     "title": "Stock Picks: TIME dotCom And Sime Darby - BusinessToday Malaysia",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQS16LUpRb05WV0p0ZkR4RGN5eGZzOE56ZVo0bzhMRDdUYTI5ZFdJTWNoNnJlaWhwUHM2MkFqQXl4VnVoT3puRVVqQ085eFZBeklFZWYzUFY1TmNDUmgtZkhXbVNfckZBNHdMUURIUVBzMzVfd1lqd3lWc2hma05TU1BBYWZhT2wzQjFB?oc=5",
-     "published": "Tue, 03 Nov 2026 00:07:09 GMT",
+     "title": "Analysts See Up to 34% Upside in Keyfield as Recovery Takes Hold - Moomoo",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcTYtenhyZDZtNW9iUVBrQW9KanFMcUQydXRXckJITWdBZGdPQjF3MGI4QjdrVzlveDFmNkgyUXhOUWI3aGJvMktuX0JBRVZkb3l0eS13WUVxeEVXS0VPNU96RTF4ZGh0dzlvSDVIMjhkbkdfUlRXRUdTdzFpSl9VWVl0alpDN0VQN0tkU3J6RTR0UXlmUElQUV9KRDBKTV9MZ1h5ZWYwQ1NXdw?oc=5",
+     "published": "Wed, 28 Oct 2026 06:59:00 GMT",
+     "source": "Moomoo"
+    },
+    {
+     "title": "Dayang Enterprise Holdings Bhd (5141.KL) Seasonal returns chart - Yahoo Finance UK",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16ZUQyenBoRzFhZHhaUUpuenBuTGtTME9sU29LcU5BTU5oUjl2STl3RW41WkM5TzZJT2pxZ2x6eDJFVzFEWV95cWZxdUZKN1A1clpvemd4dkFqNGk3ZXhxZnFoc2ItZw?oc=5",
+     "published": "Fri, 30 Oct 2026 08:18:45 GMT",
+     "source": "Yahoo Finance UK"
+    },
+    {
+     "title": "Oil Above US$110 Sets the Stage for Keyfield's Next Upcycle - Moomoo",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeG5LUG5aWEZTbGd5cV9FemdPVjlsUkhhcXdmVnotbG16ODB5YUlRa2J6RXJwZFZWcEU4bnZWcEl1TG5Yc3VLT0xDQl82WjM0UUVDWmdjTV91ZVQ2bVBUMmd6Z0Ryb3hXeXM4UEl5dXA3ZzJDR2dSNklrZ0pQcUJvdVdBeFVxTjlwSDNhYTFaWVFzS0dKam5ZVFY0SHloMHBuYnc?oc=5",
+     "published": "Wed, 28 Oct 2026 06:33:30 GMT",
+     "source": "Moomoo"
+    },
+    {
+     "title": "Bumi Armada Berhad (5210.KL) Seasonal returns chart - Yahoo Finance UK",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TTzJDYU9RdF9NeVdhNTN2LVpNZm9WWFdIZ1EwZjZXVlgyVkZWdjYyQzNodWtJN1VWRVBKa2RLMjRBX21IVDhhSllXa2RpYnpPS25QNGZUNWVXSURubkRST0FiMF9Cdw?oc=5",
+     "published": "Sun, 01 Nov 2026 00:40:38 GMT",
+     "source": "Yahoo Finance UK"
+    }
+   ]
+  },
+  {
+   "code": "5255",
+   "name": "LIANSON FLEET GROUP BHD",
+   "short": "Lianson Fleet",
+   "sector": "OIL & GAS",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5255",
+   "quote": {
+    "price": 1.5,
+    "prev_close": 1.5,
+    "change_pct": 0.0,
+    "volume": 5000,
+    "price_time_kl": "2026-11-03T16:14+08:00",
+    "currency": "MYR",
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "Lianson Fleet acquires first heavy lift vessel to expand offshore services - The Star",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdi1hYjd4WEd1SXNmWUVuRGgzVkE2OUFLTmx2S2hXVm8xS1JnYmtiWGFIaGdrSDd6cXMtd21Wc2M5eEJ3RGk2UjRkY2M2cmQ2dGlpd2xkN0x3Z1Y0ZExNR3oyT0diZ0taN2lRWGdDMkoyd2ljT2FTeU5COGtZdGZaa2I3M3h0WmNTdkt1ZVl4TlBSQ3BzRndFaEN1RGdoLVk5dmhVUWhYRktaeFd6ellHdHVRSjhVMXJjN3dVS09uLTFPbVF3QWoxOHhFMmYzZjN2?oc=5",
+     "published": "Fri, 30 Oct 2026 11:20:00 GMT",
+     "source": "The Star"
+    },
+    {
+     "title": "Lianson Fleet acquires heavy-lift vessel to expand offshore capabilities - The Edge Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrUFVqZnJSUk1rMVMzN2tPZ0RHOFdkQzdiVVM4Tk1KX1VJLVpyYWxuYWFrQmM5dFBzemhGNnR6RTEyQnEyYkU0Z3BOZFRzczhP?oc=5",
+     "published": "Fri, 30 Oct 2026 11:05:24 GMT",
+     "source": "The Edge Malaysia"
+    },
+    {
+     "title": "Lianson Fleet buys heavy-lift vessel to tap offshore decommissioning market - The Malaysian Reserve",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUzM2amtaaWR0M2c1Ylo1cmw4SU5wTTFLU3JBV2prcV9NR01kS3RaaGZVQTd5MjZXWHRzaGJ4WFlwbjdoZkpjTGppazRZUUJDYndaSVJYQV9vUHU3cktqRFVjYS1lNHlqajZPcHVfWEhIRUEyM2J4cHEzWk44Ri13czEwajlFQnlQMUg2YWl6RGhSV2xZcGFWcnpwME5OMUVGMVFmMTk5S3pNeEtJeWM5Zk1SdFVDQXJkUVBV?oc=5",
+     "published": "Fri, 30 Oct 2026 10:35:13 GMT",
+     "source": "The Malaysian Reserve"
+    },
+    {
+     "title": "Lianson Fleet Acquires Malaysia’s First Flagged DP2 Vessel - BusinessToday Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2VhMHFlNkp3ZnhzSUlUQXBiUkw2aklsdkJzNDE2Vy1icmdGdmVlZklkMk81dE9HODhidGRRNEZFWHdPX0xUZ2ZfN2VpWkVNTG1fNjlKT3lQTmhJZmJWYV9fbEVyelRYblJQSzdJZjBlS00xM1ZGNWRyQzA2VnhwLXhWNUk5d0ZVREpPZW41eUl3ajFqYTh5Y3djMzVKM3pGYlpuWQ?oc=5",
+     "published": "Fri, 30 Oct 2026 11:17:58 GMT",
      "source": "BusinessToday Malaysia"
     },
     {
-     "title": "Blueprint: MCMC targets 15 million devices managed sustainably under voluntary road map - KLSE Screener",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdUFfUmZOWVBuR0hfS3ZvOTV6cXY4Q3czT3RTcUJDQVRLVS1KbVJTWElnanU1cDdLWVd2TjNtb2xJVE9JOTJCWFRFTnRLYWdpUlRrWkZIY1djTVpyczRNbnljNi04R3I0MGg2NWFnWERkRmVuTVp4d0dSVTMzcWl0T2JQRjFJQUo2bEdodHBJQWtRdnB4TjBhRExwNl9xaVhJT0p0UGtfczlaXy1WaEo1WURRV0o5VTB4Y1ctYW13dXJaLWlXLTE0ZjB2dTF6NEpMOVE?oc=5",
-     "published": "Wed, 28 Oct 2026 16:20:08 GMT",
+     "title": "Lianson adds Malaysia's first DP2 heavy-lift vessel - NST Online",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS2pMN0Z2YUFLTzZCU1AxLVFHal9LOUpZcC1GazhQZGVUWW0wenI0NGRCeUlPeGt2Mm5feGR3WTc0Znd2N3dlbUZ2R0IxbkVOai1wZHV6Z3VBWE14dENLbW0xRXlHX3N1QzYtcUpsZEp2QkRreGh5VGpTZThfb0g1bTZaOGFqTlZNMEtWd3RXQXJ4YmVLRzFiQ1ZHVnhfa1F3UDJraFVLVkNFX0xU0gGyAUFVX3lxTE5wQUl4Mng4V0ljYjdlR25EY3Zxb2MyaUV0bDZsYnpaZ0tuelc5RVp2QkpoZC1RU3IyM2tqRnBpSHB4VDJfZjBNa3l2UmVXaDNLWV9IaWlGUjRsa2x5d2NSR1MzTWEwanFQVDBvU1phQXJ1b2VtYkctMTlOc0NEVzc0TEgxS1dZYVpZZDNzci16ODdVX1gxODJGZld1Ykt3N3NVc1dTTEw2eUNpMmYxallGSlE?oc=5",
+     "published": "Fri, 30 Oct 2026 12:53:38 GMT",
+     "source": "NST Online"
+    }
+   ]
+  },
+  {
+   "code": "5141",
+   "name": "DAYANG ENTERPRISE HLDGS BHD",
+   "short": "Dayang",
+   "sector": "OIL & GAS",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5141",
+   "quote": {
+    "price": 1.34,
+    "prev_close": 1.36,
+    "change_pct": -1.47,
+    "volume": 1303700,
+    "price_time_kl": "2026-11-03T16:14+08:00",
+    "currency": "MYR",
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "Dayang Enterprise Holdings Bhd (5141.KL) Seasonal returns chart - Yahoo Finance UK",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16ZUQyenBoRzFhZHhaUUpuenBuTGtTME9sU29LcU5BTU5oUjl2STl3RW41WkM5TzZJT2pxZ2x6eDJFVzFEWV95cWZxdUZKN1A1clpvemd4dkFqNGk3ZXhxZnFoc2ItZw?oc=5",
+     "published": "Fri, 30 Oct 2026 08:18:45 GMT",
+     "source": "Yahoo Finance UK"
+    },
+    {
+     "title": "BMS Holdings expands northern reach with JV - NST Online",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaGJnTVVqemFaa05SMmZMMjdXWGdMV3Z2bndBRm44R0p6S3lVY3FXWWdPSGtnY2Z1dFc5bDhIc3oybG53Rkx1UDVkV2dDVU4tZkx6YWVNdjF1SjZmaHRfRlJIVHlQVVRNLWlhUlRqel9RU0o3eDlzYUVYN1ctd3p1alY0WV9vWnlxcV9GRE5HREEwQUdZOV8wZ05XaTPSAaIBQVVfeXFMTzJ6Mmhvel9YOFY1dTVsOElGeVhQdnBvMXlseEpwN2xtX09TN05kX1hsNjV0WVJvc3RzeW5FdHctMUQ1MEk5M3oyUk1pOEoxVTV6UVQ4ZThZbVNGUncweEIzdlY5ZHkySDRWUEwtMlYwczhPS3R3ZXUzTGlSbEJFcGlsZWJXd0tuVHJIOVZzSU9zZ1djV2NLdGRUaWlxaG8wc0hR?oc=5",
+     "published": "Tue, 27 Oct 2026 12:31:00 GMT",
+     "source": "NST Online"
+    },
+    {
+     "title": "Bumi Armada Berhad (5210.KL) Seasonal returns chart - Yahoo Finance UK",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TTzJDYU9RdF9NeVdhNTN2LVpNZm9WWFdIZ1EwZjZXVlgyVkZWdjYyQzNodWtJN1VWRVBKa2RLMjRBX21IVDhhSllXa2RpYnpPS25QNGZUNWVXSURubkRST0FiMF9Cdw?oc=5",
+     "published": "Sun, 01 Nov 2026 00:40:38 GMT",
+     "source": "Yahoo Finance UK"
+    }
+   ]
+  },
+  {
+   "code": "5132",
+   "name": "DELEUM BERHAD",
+   "short": "Deleum",
+   "sector": "OIL & GAS",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5132",
+   "quote": {
+    "price": 0.905,
+    "prev_close": 0.91,
+    "change_pct": -0.55,
+    "volume": 35400,
+    "price_time_kl": "2026-11-03T15:05+08:00",
+    "currency": "MYR",
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "Govt mulls new policy to declassify historical docs - The Star",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb0Mzb291U3VoRkhoZk9xOF9tRERNU3VmT1RjaE1hM1dlRHhsd25vNVViSHBkcVlEVTA4NEJPcFk2MGVlNFFDWXNSNGhteERWN2NfaVR1WjVtLUVXa0hYV1o4ellmRVphOTZlS0VBTDQzSmZ6NGRYeEF0V1FkLXpYOU4tWW1iQXN5S3hXdTc3WmFZa0pfNFIyQWN2VmNMdk1MaDc4?oc=5",
+     "published": "Fri, 30 Oct 2026 08:09:00 GMT",
+     "source": "The Star"
+    }
+   ]
+  },
+  {
+   "code": "7277",
+   "name": "DIALOG GROUP BHD",
+   "short": "Dialog Group",
+   "sector": "OIL & GAS",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/7277",
+   "quote": {
+    "price": 2.08,
+    "prev_close": 2.14,
+    "change_pct": -2.8,
+    "volume": 3086900,
+    "price_time_kl": "2026-11-03T16:14+08:00",
+    "currency": "MYR",
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "Dialog targets additional RM3bil investment in Pengerang Deepwater Terminals - The Star",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRmU0RGF6dG5fUFdvbGNIczhBMUtfdnlaZ0p5d0JUUHBiRk9fQm1wdDVHTVJOSHoyNHBqRTZNYXRkZ0t0ZzN3Yk13WEFNM3RPMXpMOVVpanViTFpIZDQ3cXZaV0tEWERLUno0VGhXX0M3alVkZE1lTkw4T1BVc1R1YnBOb2V5THNaLUp2TjlCNDlUalpBRDRWS0g1eDI5TDhHU29nNVBFNnVkTzIwT2YtbnZsdWVnWUVISG1VczloNThkZjkyUk5hSmxKRU1oVm56SVZJ?oc=5",
+     "published": "Fri, 30 Oct 2026 06:09:00 GMT",
+     "source": "The Star"
+    },
+    {
+     "title": "Dialog to add 100,000 cu m of storage capacity at Tanjung Langsat - The Malaysian Reserve",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQTlVdlJTdWdOWThZbnN1eG81QkJMRDFOSXNFbFJGQ2NUNDF6RXFIUmhtdDNRaGhYdVlOekJSS1VfUVZ2RmRKVnFNOWZIY1Rvb1M4aUw5TFdqSF9VblRabDRPNG5JQ01kclB1SWxza0I3NV82Mjc5cFpBOEdQVWNvVjU4enhLdHE1RkFkUzR6X0tCYUtlQU1iemxOX3d5SlRpSy02c3NNNG4zRmJN?oc=5",
+     "published": "Mon, 02 Nov 2026 10:09:20 GMT",
+     "source": "The Malaysian Reserve"
+    },
+    {
+     "title": "Dialog to expand Tanjung Langsat storage capacity by 100,000 cubic metres - NST Online",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQkVORVZlT1VqTTJULTRKdS1xNy1ZWmRjamtTdEp6cXU5R1laVHBISVZVa2liQTVERjVqaVUwc3FmMElTY01QZnR6LXhnYXVtZjgtT005Qkhick1DV0tMM3o5dWo5SHdHVzFnOWVUVU1GMm1hLU82RGY2V1JPUUdUMS1FVkJNMGk0UXNvaXl1WmZQdFNVdW5ndmJvX3Y1dnRJZDlXLVliYkRiLUlsb0lHcWIwZ2kySlFyY3FTZ3BR0gG-AUFVX3lxTE9CRU5FVmVPVWpNMlQtNEp1LXE3LVlaZGNqa1N0SnpxdTlHWVpUcEhJVlVraWJBNURGNWppVTBzcWYwSVNjTVBmdHoteGdhdW1mOC1PTTlCSGJyTUNXS0wzejl1ajlId0dXMWc5ZVRVTUYybWEtTzZEZjZXUk9RR1QxLUVWQk0waTRRc29peXVaZlB0U1V1bmd2Ym9fdjV2dElkOVctWWJiRGItSWxvSUdxYjBnaTJKUXJjcVNncFE?oc=5",
+     "published": "Mon, 02 Nov 2026 12:37:23 GMT",
+     "source": "NST Online"
+    },
+    {
+     "title": "Dialog expands Tanjung Langsat terminal capacity by 100,000 cu m - The Star",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYkY0LWtkOF8xY1hXQmtYVEZxcXJjcXNsT2xvN3ctaWNUam5lSTZwRDVueWhGMy1iRWcyNGN0c2tKTi1pdUV3TVBXWEtJemxWRmxMOU9kbnkxTnF5allRaTV5UTgwc0lraXo5X3V6cG1RdVRHVlNCNWZzWnY1bHFTcVNhMWVEY0Y2R2hlSXJtdDI1VGZ3MlpnRExZNWl3TERsWkxvc2RrN0tUTW1jMnlRSHo5NXBmdHJ5ME1JQVdZQVJWZw?oc=5",
+     "published": "Mon, 02 Nov 2026 11:19:00 GMT",
+     "source": "The Star"
+    },
+    {
+     "title": "Bursa Malaysia braces for volatile week amid US elections, BNM rate decision - The Malaysian Reserve",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWDF1QWtpZU82UEoyYXBJa2R1b0NUYkhSXzJUcTd2STNDR3FhM2tfUXl1WFVCeGpqeS1QSU5lbE8wVm8zQ1NYWTZFdWRWTFhtSFhjLW1ra0luaVlBWl9vUl9FaUE0dF9vWmhRaEJiZWtWNlZtUnY2WkJWSVRPbmZiZ3VnbGxHaldTR0xBS1RVWmVpcF83VGstVUlyMV93eGU1M1dBcmNTZWFsUk9Ia2k5VndheEE5Qm00YjZB?oc=5",
+     "published": "Mon, 02 Nov 2026 03:11:15 GMT",
+     "source": "The Malaysian Reserve"
+    }
+   ]
+  },
+  {
+   "code": "7293",
+   "name": "YINSON HOLDINGS BHD",
+   "short": "Yinson",
+   "sector": "OIL & GAS",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/7293",
+   "quote": {
+    "price": 2.22,
+    "prev_close": 2.24,
+    "change_pct": -0.89,
+    "volume": 2032200,
+    "price_time_kl": "2026-11-03T16:15+08:00",
+    "currency": "MYR",
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "Yinson GreenTech Signs Participation Agreement with Saxon Renewables to Join EVolve Carbon Project - Yinson Holdings Berhad",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMmZWck9KcGNlU3QwLTF4VmowZHUxWU5kdF9hOGVVUzhUNmU0dk1aYnJIellWaDZzTVV1X3lSaWpHTUlVNFlZdjhoNUJjbWR1eTZ2R2RfOGV5QUROMkJKTWRpY2lwX2d2aUkwcjdqVVlMeTI2Ym9kT0RFNHNudzNOcmY0bnZQOTQ4bG9sa29lUXFoOEpSNE94VXowN0ktQmRiRkpHaThzOTNkY3M5UVpYUEdYWmZsNm43U2JNbzRoQS1SYkVnaFE?oc=5",
+     "published": "Tue, 03 Nov 2026 08:10:56 GMT",
+     "source": "Yinson Holdings Berhad"
+    },
+    {
+     "title": "Yinson Renewables MoP lays a strong foundation for lasting partnership - Yinson Holdings Berhad",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWVBBSk82WkQ3QXNZYkxoWE1kd3g0cF9MeVladnZwU1hOeFd5TmNpdEtVZHYzeWlMaUxkU0dEajJxT0VESG82QnJ4MkpXZmNXSGJCd0Q2U09TZ2l5d0tQV21QaFQzdGlDWnBQR3lMU1dqbTFIbWtLU1dTWGtEa1RYSGlFLXJjYmw1Y1NZeDJpZWkyUDh4SUdQWUtqLWFWQnhR?oc=5",
+     "published": "Tue, 03 Nov 2026 05:59:59 GMT",
+     "source": "Yinson Holdings Berhad"
+    },
+    {
+     "title": "Lianson Fleet acquires heavy-lift vessel to expand offshore capabilities - The Edge Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrUFVqZnJSUk1rMVMzN2tPZ0RHOFdkQzdiVVM4Tk1KX1VJLVpyYWxuYWFrQmM5dFBzemhGNnR6RTEyQnEyYkU0Z3BOZFRzczhP?oc=5",
+     "published": "Fri, 30 Oct 2026 11:05:24 GMT",
+     "source": "The Edge Malaysia"
+    },
+    {
+     "title": "DeepOcean to re-terminate gas-lift riser at Ghana’s Jubilee Field for Tullow Oil - Offshore Magazine",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaXMzcERVNW9VYWtHT3ZsVHl2OXM0SENka09Ra21Dc3BrRG8tcXNobGJVbHBSZ21vZWZENHppemU4Z0ZrcnY2eElOSXBkSGhEa0lXaUFlVmNlZmVNTXdEZzd2aUYxc3VhcHZ5YVZrTmQzVFlZRGw2Z3BFMUhabkw5blpmQlJFT01Bb1RheG0xY0UtWl9waU9tLVB2VWZ5Ql9iRUc3NUFsZFprNERhNTVnWEJqUWprWWR6YkFLY3pLOHR4UDY1ME83cUl1NVNmeGdmeGFHQThn?oc=5",
+     "published": "Thu, 29 Oct 2026 21:37:26 GMT",
+     "source": "Offshore Magazine"
+    },
+    {
+     "title": "Provaris Energy Reports September 2026 Quarter Progress on LCO₂ Tank Approval and H2 Prototype - Kalkine",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdUk5YmVDQ0w2c0I0M3ZwaGNBaUZnbWVpUnpwaWFtUjRJRVE0cjZkVFRhNXdCaFNnZHdUVGV3OGo0enRLQ3MyOXMxTnRqVzFZUTFtaHk0T3BjUGFQbXJsemNwdHY1TEtlZXV1YVRPMDNnQUhaZnBJM1JtZDBPWXowdVhIQTBNTlpKUkQzSmZDLUtJelZvSG9iMHlaRTZHMUt3clpyajEtSUl1NXNnMXJlN29wb1BJcVhLSDA5MWhiY0c1X3Vzb09MeVRPN0d3amVvd1E?oc=5",
+     "published": "Fri, 30 Oct 2026 07:38:22 GMT",
+     "source": "Kalkine"
+    }
+   ]
+  },
+  {
+   "code": "5243",
+   "name": "VELESTO ENERGY BHD",
+   "short": "Velesto",
+   "sector": "OIL & GAS",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5243",
+   "quote": {
+    "price": 0.185,
+    "prev_close": 0.185,
+    "change_pct": 0.0,
+    "volume": 6536000,
+    "price_time_kl": "2026-11-03T16:10+08:00",
+    "currency": "MYR",
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "VELESTO (5243) Analyst Ratings, Stock Forecast and Price Target - Moomoo",
+     "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPUldJdGZ0OEJjVDZNVjg2RlQwV3JzQk9UMGFXbmZaLVp3a1FjN2k3Qi1XLXZKdkdLUUNSTDFITWJCSFpEckFpYkdvaFloWFRIOG1BNy0yNDB0MU1tSkRIRTUxdjdINFQ5ZzJVZzRRbVZ4WTRkNkVQSTFVUXRFUU5vcFczX1BVcUZfcl9Ca3VIQ0Y4XzhvV1ZjbEd3V1FIc2N2dXZIb2tmOWlvTXk4bU9rcW5qRnBCYm5FZm1wWFFaNnN2S0pEVGplYkQwX0tIQ1U0OXYyMHpsQkF1NVZNakt3SmhyRGZIeUhzeHB5d1BKelFrME1iY1AxQTVFbTc2Q2o3S2dfNkltbXpQSi13VV9aUU1BMy1yeUtGRlFsM01DVzI1Yzk5NzJaTnAzTzhPRTJjQk9CVWdVOWdoTXZXVVNicVVIeVppZ0ozM1c5UG9LYmhfRFZQM0RacUF0MzVNUWpBRFFRVnFWNXBfYk9iMmVGb0RGdWZSSUtkVHNOa0VrZnFRck13eGc?oc=5",
+     "published": "Fri, 30 Oct 2026 07:00:00 GMT",
+     "source": "Moomoo"
+    },
+    {
+     "title": "Bursa ends higher on bargain-hunting - Free Malaysia Today",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVDdiTG1ncmNQZHNBbG1IUE54ZUFKcGxjc1kwekdXZW12TmZVelNLdmVRWmxrYkg1QnlKTWUxVEZPay1NQlByV0VSQjItcWwyN3RITUhLR1lhQzFlRGdubGUyaUk1S2dSelgyZDljcWVUanZtTnhwcm12VnNzemFTcFJ3LUlkdW1PQ1dQWEZjR0lHQVF1b0h2a2FNNW9YZVNReGV1Ug?oc=5",
+     "published": "Tue, 27 Oct 2026 09:27:00 GMT",
+     "source": "Free Malaysia Today"
+    },
+    {
+     "title": "Bursa Malaysia ends higher on bargain hunting - KLSE Screener",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM2daT0xyYTNfeWRZZWdfd3ctTU0yNFoxNlV4NDhjQ1djSWJFd0RMVl91NWdnOFoxQ2ZLMDVtMTFlX1JvN0kwTVM3WEZEdEY3NlRZektyc2FTcHhkOHJFQVptOHhaMnpMLWJKZWttNi1PMFdycklhZFQ0cXNpX2xrVXkzeUxlOHVDVFdPMGdmaWNjemkzQWNhTmh2NA?oc=5",
+     "published": "Tue, 27 Oct 2026 10:17:42 GMT",
      "source": "KLSE Screener"
     },
     {
-     "title": "Maxis-U Mobile Merger Talks Resurface, Lower Valuation Could Pave Way For Deal - BusinessToday Malaysia",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbXM5LW5sbWQ5MGYzd3lqWFZocXpVYXlrc2lDZWkyQ3FIWWhDQ243UXh6X3FzWnY1Ykd3bWZDQ3Jsb2xEUThOeGxfOFE4LVRQMTQyTUZpdEVyWk5mTVd1NTBGNXlZREh4RkpJVG9URWlqaDVWR3NmZXRjem1RbVBQeGE5c0J5ZXloejR4aGxEcnAtdU5OTUoycTY0MXB6QXgwN0VXOUlKeW85Z0dnTEZwNGF0cmZ2cmFQRlB4MDFzNA?oc=5",
-     "published": "Thu, 29 Oct 2026 14:40:27 GMT",
+     "title": "Bursa Malaysia Rebounds Marginally As Bargain Hunting Lifts FBM KLCI To 1,611.85 - BusinessToday Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTGxsMUFKRzF4REhhUkRMbUxUNzJwYVNJWFV5M0ZCcnJFSHlSU3BuZlQ2VzNiZHk5cFdlNy0zNy01RngzR0dNREZVUFZEc0RkLURkb0ZnQWJneGljeFFQbUU0aWdjaGp6WTF5bW5qTi1ZUXhyZEs2dXFDOTNUczF0RXVuV2JrLVREdTZUdGZiRWVic0U2czlvc0NlRkxtaGdwd2VFRFdhMWE2YWZoTUhKWnBZcURuRnp5OVROLWQxRTZUdw?oc=5",
+     "published": "Tue, 27 Oct 2026 10:29:12 GMT",
      "source": "BusinessToday Malaysia"
+    }
+   ]
+  },
+  {
+   "code": "5199",
+   "name": "HIBISCUS PETROLEUM BHD",
+   "short": "Hibiscus",
+   "sector": "OIL & GAS",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5199",
+   "quote": {
+    "price": 2.14,
+    "prev_close": 2.27,
+    "change_pct": -5.73,
+    "volume": 8765800,
+    "price_time_kl": "2026-11-03T16:15+08:00",
+    "currency": "MYR",
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "Datasonic Group Berhad (5216.KL) stock price, news, quote and history - Yahoo Finance Singapore",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTdjhhV3NOWmpoMTZkU0tWc2Rua1FqRlloUlNTdy00czBzR1dmd0lkbXQ4VG83RmJwdGRsQmRfRUEwOTVoOGJqdTdPaHFxVUVRanlGRHZn?oc=5",
+     "published": "Fri, 30 Oct 2026 07:00:00 GMT",
+     "source": "Yahoo Finance Singapore"
+    },
+    {
+     "title": "Zonetail Inc Company Profile & Introduction - Moomoo",
+     "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNLUtQNTd1andTbUdBOFZwQmp6eHRjd0cxejJ5NE44SFI4U2NIUW1EQ3RNSVYyV1BfSHBSUlFza3diVTFFZ2REOVpncHQxMUJ1WkU1YkZCYVhzM0JWU0VjWTNXWEY1dEF5NVRNaWNjdkthaHAySElaeW9OQ3BjaVNxV29rU2ZRa0VUYVJoN01xN0FsZmUzU09EcDJsaEtSZmVtb2szU1oyd0FUUUdzVEpta0FCaVU1M2RxalgwcTY3a3BXU1pBREs3dXc3ZEJGdktlb2RWTDBYY0J1VEJGZmZyVS1PcUhjQU1GWWlaNmhoX0hQYjBtM0d6OUdSTGctUWFib09wOW5vNnFyTm5TWmJHZmJnQUxRVzd5RmFnWHhCNnppNExtWXhkNVU5WmV4R1RjVzZwTGRmSzVTaFFZQkI1SFdpNFRWRjlHYk5NdXpMU25OUDJjd2lHdnlqaW81akZzdTNYUGo0UVNlOUpvTE1UcTBmOEtRbktwcnZuSEpmTHR0eWozalgyN2djZlp3VklFczJ3ejVhc05GTy1z?oc=5",
+     "published": "Fri, 30 Oct 2026 19:02:03 GMT",
+     "source": "Moomoo"
+    }
+   ]
+  },
+  {
+   "code": "5218",
+   "name": "VANTRIS ENERGY BHD",
+   "short": "Vantris Energy",
+   "sector": "OIL & GAS",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5218",
+   "quote": {
+    "price": 0.27,
+    "prev_close": 0.265,
+    "change_pct": 1.89,
+    "volume": 1035300,
+    "price_time_kl": "2026-11-03T16:14+08:00",
+    "currency": "MYR",
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "Vantris Energy Berhad (5218.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmdEM0dEVWTFNmVm9Tc1FjckF3ZVdnZUV4X2NxWUg5VVBPd2RwaTJMQlFjREE0NEVVRDN4LTVlWEdwVkU2TVZ5TnZBSFZhLTdQR3FUZFgyZGQ4U1hDV2dnbUxsaWpiQQ?oc=5",
+     "published": "Thu, 29 Oct 2026 22:35:53 GMT",
+     "source": "Yahoo! Finance Canada"
+    },
+    {
+     "title": "Westwood Insight – Tender-Assist Rigs: Southeast Asia’s Quiet Workhorses Head for Full Utilisation - Westwood Global Energy Group",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTjBtLUFmdDhUVjVoOHNBd0h4U29rejhYaExnRGJZR2d4a1FUcUtBTjlDTkR1TzRqZmxITHF2ZU91aE5nN1ZrY1Zfai1jcFk1NWw5OUstN3BkQ1JwLUkxUW8tam43aU96QVBDNWx6VVB3c25DcnN4RGY0a2FTcXc2SExoU0kwT2ZHaDl2STEtNE5ZQ2JidGRPenloWkVObHVQUlJZdE82d3ZtYXZFdXJ0OEk5YjNobkNISVE5ektIdG1sdTJfT0JpSEV2N3VnRjhuTGx4bl8zcFlVbFRuNU01eg?oc=5",
+     "published": "Thu, 29 Oct 2026 09:55:08 GMT",
+     "source": "Westwood Global Energy Group"
+    }
+   ]
+  },
+  {
+   "code": "5012",
+   "name": "TA ANN HOLDINGS BERHAD",
+   "short": "Ta Ann",
+   "sector": "PLANTATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5012",
+   "quote": {
+    "price": 5.84,
+    "prev_close": 5.8,
+    "change_pct": 0.69,
+    "volume": 77000,
+    "price_time_kl": "2026-11-03T15:57+08:00",
+    "currency": "MYR",
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "Bursa Starts November On Weak Note With Tech Sector Under Pressure - BusinessToday Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdUhfRkExalhyem9HdDE1ZVJxM0Jrdkk4TVdMOVpaX0JyRmZhY2U4ZFdVaXBNQVpLWFZZWEgyUWhTVms5emV0X0JtVkxFMVNNdlZOZ2JyVlBEQ1JEQlNDR19vc2VmQS1nZ1M4YlFpZ1dpQjdqMmlndnk1ZTVGSkF4X0ZRaV9rdzVGTzRNd2lNUl9XSzZXT055Ql9CN0t6OHZRX0xISWhZR0VfMzNYLVZiaA?oc=5",
+     "published": "Mon, 02 Nov 2026 01:41:42 GMT",
+     "source": "BusinessToday Malaysia"
+    },
+    {
+     "title": "Palm oil stocks set to peak, CPO prices at turning point - NST Online",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWkxb0l0UTBxYlkwTGFETGRYRUlhNTRnLUlzRWg0amVIb2hWYnRQb2xYVDRoMi0wdW9TRkJDMFhGMFhuV0tCMkFjQWl3N1BzT08xSlItS00yMnA1LVJ1VVItQU05WHY1U296OVhJYVZGcGlsVVk4Z2F0bkpCemQyS1RLRG1KSGR6eXo5djZEbDZ5SnRPb3pLTlFRVmsyVG55Vy0zTk5oRC05NTBVckZtekxDbVFYOFdTRkJz0gGuAUFVX3lxTE1na1Z2ZmlrY29RblRGQWpFVTg5VkI5dWdvQTRfVC0wRmZpVUp1dHR6bEZhSjFtdXVOY201TV9Jcl8wRllmaDRKdUFMN3ViTktLVm9uc3dpalNpY0I1MHMyc3JSWDVnTGducGJROEU2WnByei03enlXdkRnajZBTTVNejlUYjhYeV9zbXBIbTg4MUJtYi1wekVydWdoNElJb2J3YW1UU2I5dlY3cHhjUQ?oc=5",
+     "published": "Fri, 30 Oct 2026 04:00:00 GMT",
+     "source": "NST Online"
+    },
+    {
+     "title": "United Plantations Berhad (2089.KL) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKcXphZlVjWk9jUWJyY2lwa1hCanRSbGNHc1BLYjhOM2hwQzN6ZFNVWlBaM0hmMURCbjk3T1NNRWJlT1FFVVUtc0RPTnJBNkdCMkRGNjE2WlZpRWV0N2RiTkNJZHprZw?oc=5",
+     "published": "Mon, 02 Nov 2026 22:04:33 GMT",
+     "source": "Yahoo! Finance Canada"
+    },
+    {
+     "title": "What to expect on Bursa Malaysia this Monday - Focus Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vQm5rOUFoaDU3TnpDMUcyejB4MVBZZzQ4Q1F0clhYLUYwNERzZDluWHZyX3puZl9tUWlmODZvYTdVYVpiUW1hLXdJSnNiVl8zaG1FRDQ0bWg4Y0lOQ29IbDkwbW9aRzM5Uk9PVVJ6WXBsWjJXaVZNekpVTnVGS0U?oc=5",
+     "published": "Mon, 02 Nov 2026 01:38:06 GMT",
+     "source": "Focus Malaysia"
+    },
+    {
+     "title": "Sibu Veteran Swimmers Bring Home 50 Medals, 12 Records From Jakarta - Sarawak Tribune",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYjdrQlpOYXkzQ3J4aGJrNUdHQmxRWXQ1cGV4NHRIRjNXZjQ1aHdHc2lhMHgwVk9MZXppN0JhVlQ1S1RHSVdUc1AtVTJjc3NFNFBSZUY3YTJnRXA3X0lsU2FObHdpa25WUlhMd1RVdmdMeFNKdmZqc2Z3SU16aGlEX1Y0RTFWcEFpWi11WjU3TFhNS2ZHaDhLeFNmN1BHdHc?oc=5",
+     "published": "Fri, 30 Oct 2026 00:33:34 GMT",
+     "source": "Sarawak Tribune"
+    }
+   ]
+  },
+  {
+   "code": "5138",
+   "name": "HAP SENG PLANTATIONS HLDGS",
+   "short": "Hap Seng Plantations",
+   "sector": "PLANTATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5138",
+   "quote": {
+    "price": 2.26,
+    "prev_close": 2.26,
+    "change_pct": 0.0,
+    "volume": 24100,
+    "price_time_kl": "2026-11-03T14:55+08:00",
+    "currency": "MYR",
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "Robust prices propel 3Q26 outlook for plantation players - The Star",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeUFVVUZGTlBOVWdZaFVxMDJQYUtTeXlOYWtfSW9yaVdOeG5vdkhmd05CYTJVZzlCOTVUaHhGdU9uaVdsbjRLMWV4a1JJTnFxTzU4UXhvRFZ1Wm1BRDlZT2htOHlLNUFCNG1kRnp1STlXSFNmWkI5bzVwNlZUWUpWRnEwOTJDNjNiOFk4a0NrY1FqbElTNUVVRldBRlQ4akpxWVVmXzZlMzhya1MyaHB0Um1kaGIxSXV1?oc=5",
+     "published": "Tue, 27 Oct 2026 21:05:10 GMT",
+     "source": "The Star"
+    },
+    {
+     "title": "Robust prices propel 3Q26 outlook for plantation players - KLSE Screener",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRFhwcXN4ZVhjSHRnb0xJeU1ab2JsbXVMZVlvY2pKZU5FcU5xckRtV3VQMzN0TGxMaEZKZHpmdFY0ZEZhN0RHNHZYR18xUTY4NzkwcTM2VWs1cE9GajhEaTNkclpxZXR3Rmh1a195bGQzTHFBazZUSFJFOU1hb2FYNGpkdkdYWUV6RFYyckxTOXY2c3BTQUpfRkVyLWtOcW9mRHBUeUd5LXVVQQ?oc=5",
+     "published": "Wed, 28 Oct 2026 00:12:29 GMT",
+     "source": "KLSE Screener"
+    },
+    {
+     "title": "MHC Plantations Bhd. (5026.KL) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fTUlPRVVhS1FpdXhhX1FKRVhUSEpDMGF6NDBXSGcxVjJpYTdKT2dsSGxtYkx3TG5wYWFCaER0Yld1NXkwMnFVcG1Hd3ZsQkI2c0hSRzhJeGFTd2E1dVRibklfdWgxUQ?oc=5",
+     "published": "Sat, 31 Oct 2026 10:51:27 GMT",
+     "source": "Yahoo! Finance Canada"
+    },
+    {
+     "title": "Bursa Malaysia opens lower as weak Wall Street performance dampens sentiment - The Malaysian Reserve",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYVRYNDdZbzJVQjhBTnBuMTYtN1dnRUpNMFpOVkVUR3FKNDNVN0lVQndEdWxWdGN0OXNuYlNKYm9TenF6M2NRbnJ6OWJQRGlqWlUxUlZRcmYyczNnajBBSUt4RHVjZ1hReHlhRUFGUURuamNzY2cwODQ5ZjgzSE1yMmEtMjVlRXZyQS1GTzlkTXE4QlJUVDcwYXVYaVBfalk0Mk1zZDZ5clFqY0ZvSWczZ2MxS2ZRZnJGZGlWWjV0ekxnQQ?oc=5",
+     "published": "Mon, 02 Nov 2026 02:15:55 GMT",
+     "source": "The Malaysian Reserve"
+    },
+    {
+     "title": "Bursa opens higher for third consecutive day - Free Malaysia Today",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNazBJS2dfYUJDZjZ4WHdRMGUwanVuYm5FSEhkalotMHhyUDRPN3VwbmRIS2xDeloxLTFxSTlQbnVTNUZnLUhHX0h2OWQtcHNIN0ZuU29YM0lTTWo3RENCNWRzYmNLd0J1QXJfcWZ6blFkUTZEWkJfdk54WTAtUlQxazZVMXVjU3Rva0xTYWZWUHVJZU1CMEFoQlRFcTZoWmN4TUFJbWFic1NwY0U?oc=5",
+     "published": "Thu, 29 Oct 2026 01:46:00 GMT",
+     "source": "Free Malaysia Today"
     }
    ]
   },
@@ -48,8 +466,8 @@
     "price": 5.96,
     "prev_close": 5.84,
     "change_pct": 2.05,
-    "volume": 3922100,
-    "price_time_kl": "2026-11-03T16:05+08:00",
+    "volume": 4113900,
+    "price_time_kl": "2026-11-03T16:15+08:00",
     "currency": "MYR",
     "source": "Yahoo Finance",
     "delayed": "Delayed about 15 min"
@@ -88,51 +506,541 @@
    ]
   },
   {
-   "code": "7277",
-   "name": "DIALOG GROUP BHD",
-   "short": "Dialog Group",
-   "sector": "OIL & GAS",
-   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/7277",
+   "code": "2089",
+   "name": "UNITED PLANTATIONS BHD",
+   "short": "United Plantations",
+   "sector": "PLANTATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/2089",
    "quote": {
-    "price": 2.08,
-    "prev_close": 2.14,
-    "change_pct": -2.8,
-    "volume": 2927700,
-    "price_time_kl": "2026-11-03T16:04+08:00",
+    "price": 29.76,
+    "prev_close": 29.3,
+    "change_pct": 1.57,
+    "volume": 638200,
+    "price_time_kl": "2026-11-03T16:15+08:00",
     "currency": "MYR",
     "source": "Yahoo Finance",
     "delayed": "Delayed about 15 min"
    },
    "news": [
     {
-     "title": "Dialog targets additional RM3bil investment in Pengerang Deepwater Terminals - The Star",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRmU0RGF6dG5fUFdvbGNIczhBMUtfdnlaZ0p5d0JUUHBiRk9fQm1wdDVHTVJOSHoyNHBqRTZNYXRkZ0t0ZzN3Yk13WEFNM3RPMXpMOVVpanViTFpIZDQ3cXZaV0tEWERLUno0VGhXX0M3alVkZE1lTkw4T1BVc1R1YnBOb2V5THNaLUp2TjlCNDlUalpBRDRWS0g1eDI5TDhHU29nNVBFNnVkTzIwT2YtbnZsdWVnWUVISG1VczloNThkZjkyUk5hSmxKRU1oVm56SVZJ?oc=5",
-     "published": "Fri, 30 Oct 2026 06:09:00 GMT",
-     "source": "The Star"
+     "title": "Kenanga Values United Plantation At RM37 - BusinessToday Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNnp1ckZnbWk1STBXRmlnUmFXLUkyWW1DOTZZdGRPQXRLYmdwLWRXR3pSdFhlSm1oOUVkd1dJT2hveFdfN25FM0R2V1JjZTk1MVVzZVNXU2dQV21fdk5DckpQcHFfOXZIM2ZTT3FpOGZrU256X3RfTlpwSEdjemR0Mkt1UzlQMmpTNzN6cXJB?oc=5",
+     "published": "Sat, 31 Oct 2026 03:34:11 GMT",
+     "source": "BusinessToday Malaysia"
     },
     {
-     "title": "Dialog to add 100,000 cu m of storage capacity at Tanjung Langsat - The Malaysian Reserve",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQTlVdlJTdWdOWThZbnN1eG81QkJMRDFOSXNFbFJGQ2NUNDF6RXFIUmhtdDNRaGhYdVlOekJSS1VfUVZ2RmRKVnFNOWZIY1Rvb1M4aUw5TFdqSF9VblRabDRPNG5JQ01kclB1SWxza0I3NV82Mjc5cFpBOEdQVWNvVjU4enhLdHE1RkFkUzR6X0tCYUtlQU1iemxOX3d5SlRpSy02c3NNNG4zRmJN?oc=5",
-     "published": "Mon, 02 Nov 2026 10:09:20 GMT",
+     "title": "United Plantations Berhad (2089.KL) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKcXphZlVjWk9jUWJyY2lwa1hCanRSbGNHc1BLYjhOM2hwQzN6ZFNVWlBaM0hmMURCbjk3T1NNRWJlT1FFVVUtc0RPTnJBNkdCMkRGNjE2WlZpRWV0N2RiTkNJZHprZw?oc=5",
+     "published": "Mon, 02 Nov 2026 22:04:33 GMT",
+     "source": "Yahoo! Finance Canada"
+    },
+    {
+     "title": "Kenanga initiates coverage on United Plantation­s with RM37 target price - PressReader",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQnRSMlRoSUtNVXhwNFpmM1NhekhPYTRFNmNRQzdHR0xvSEFGUmJzR2dmbjYzLUh3eWJYd0lkTVluNWlkallDQ0dMY2FPdUZWT0RxQ2hpcV9WLVBYVENZRUdQeWdFNEcteGxQOHprNDl0NF9ONDZmejZQNmJaN3JHLTdfOA?oc=5",
+     "published": "Sat, 31 Oct 2026 19:01:17 GMT",
+     "source": "PressReader"
+    },
+    {
+     "title": "Bursa Malaysia opens higher for third consecutive day - The Malaysian Reserve",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYnhrcmNSaWFSRXlQS3J6UE5pb2diV01fSXNKaGxybVhjdk5xQ3JzQjBTaFVDU2RIVGJ4Wm4tZTEtYkVaalU5eG1TLVRqa3VvZm02eTZiLTFpVzZKRG1BTDdvU1dmQk9CcjFBd0pBc1ZwV083MXExMFNtQ0FMcGx5c3dvM3BsQ2pqbXRvaDZoS1BubTBkdlFlcklSTEJyZw?oc=5",
+     "published": "Thu, 29 Oct 2026 01:56:23 GMT",
      "source": "The Malaysian Reserve"
     },
     {
-     "title": "Dialog to expand Tanjung Langsat storage capacity by 100,000 cubic metres - NST Online",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQkVORVZlT1VqTTJULTRKdS1xNy1ZWmRjamtTdEp6cXU5R1laVHBISVZVa2liQTVERjVqaVUwc3FmMElTY01QZnR6LXhnYXVtZjgtT005Qkhick1DV0tMM3o5dWo5SHdHVzFnOWVUVU1GMm1hLU82RGY2V1JPUUdUMS1FVkJNMGk0UXNvaXl1WmZQdFNVdW5ndmJvX3Y1dnRJZDlXLVliYkRiLUlsb0lHcWIwZ2kySlFyY3FTZ3BR0gG-AUFVX3lxTE9CRU5FVmVPVWpNMlQtNEp1LXE3LVlaZGNqa1N0SnpxdTlHWVpUcEhJVlVraWJBNURGNWppVTBzcWYwSVNjTVBmdHoteGdhdW1mOC1PTTlCSGJyTUNXS0wzejl1ajlId0dXMWc5ZVRVTUYybWEtTzZEZjZXUk9RR1QxLUVWQk0waTRRc29peXVaZlB0U1V1bmd2Ym9fdjV2dElkOVctWWJiRGItSWxvSUdxYjBnaTJKUXJjcVNncFE?oc=5",
-     "published": "Mon, 02 Nov 2026 12:37:23 GMT",
+     "title": "Bursa opens lower as Wall Street weakness dampens sentiment - Free Malaysia Today",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdUFid1lfZjZTYU5rcDQ0emJEQzZfV3I4UmRVWDBhUUM4b2RHdjlDZkpCZHBlMGRLcXZXMklwbXpYRjlhNTFhLVAzNk8tUmh2UTlWajVpMkpBcHJaUE85TWc3a2YyYVFmR0hlWlZVTkdUZUUtcElrTG5vSF8yODVtb1ZiN21oc3lyelR1R3REWVZVM2drUzF5Y2xaSXN0bllYcWVIWGk4YmpYcGR6YVFvTVp4My13SnhZOVROVmRTMA?oc=5",
+     "published": "Mon, 02 Nov 2026 01:36:00 GMT",
+     "source": "Free Malaysia Today"
+    }
+   ]
+  },
+  {
+   "code": "5323",
+   "name": "JOHOR PLANTATIONS GROUP BHD",
+   "short": "Johor Plantations",
+   "sector": "PLANTATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5323",
+   "quote": {
+    "price": 1.78,
+    "prev_close": 1.75,
+    "change_pct": 1.71,
+    "volume": 978900,
+    "price_time_kl": "2026-11-03T16:15+08:00",
+    "currency": "MYR",
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "Planters to benefit from higher CPO prices - The Star",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT0IxbWNYcjQxNEszNlJKanpjU0E3aXg0Y1c3VXZpTEJRWE1ySFdjVXZYMllVMXhlV1gyVUpNUlJZb0VoODhCcGEtUVBpemg3ZEtXYU15OWMtSGpDOWw1YmtKU0k0RVRmdlRZLVk4b0xZSEw2c0tfNnROZlI2UXpmck1IeTdKUFF5RDk0TWl6dTFvZUlaam5rMDBsUmNNb1JQYmZ2dzZ3?oc=5",
+     "published": "Sun, 01 Nov 2026 21:08:18 GMT",
+     "source": "The Star"
+    },
+    {
+     "title": "JCorp hits back at Indonesian forest fire claims, says plantation ties ended years ago - Malay Mail",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTHhOc3B2ZTJlMms2dkd2S3lqTExjakNQajhUb0F2NC1HaWl2eWZzX0lmNmEwa3RYa2JiYU1wSWxObjNSaDNFSUFvX0FzLVVGcUhKYm5qd09vcUltQ0IxRk1qRWw4Y2dOdWxZdG4zNm1HT2xYRDRSMmN4UVYxUnJWVTFPWmRBaTV5dlh4YWoxRmtLM2d2eDRPcTYxN1RhcGJRM253a1dfY0Jkdk9tWEM0YUR4TUJZTmVNRGdJbHhNY29JRmZxV1dIbWR1aDVrN21NSVQweENKTkVUUHPSAeABQVVfeXFMT2R6ZUVwTXNPNnpjdE9zd29rb0dDcmFnZFBhTXp1UUc4MWVkdDBZWXVRM3cxRnZvSnQxWWRDajFmR29tZlRMYXhOZTUwOTNzMURSdjhERVU5R0J1RW50R3J1WU9yd1duMVVtV2xHa2hhZDBDaV9vNml2YTB2SnVPR1BRamphMW5hQUxQb1AtRjZBb0pDNFdqd1RZZGxUaXZJQUQ0QTlTcWgxSmtEODhLbzBnSTFVRzhseTNGQ1dMckxBOGZOVWRxbThfWE1MVXp3ME1Cb191MnA5dnNNc2xCM3Y?oc=5",
+     "published": "Wed, 28 Oct 2026 01:36:24 GMT",
+     "source": "Malay Mail"
+    },
+    {
+     "title": "Robust prices propel 3Q26 outlook for plantation players - KLSE Screener",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRFhwcXN4ZVhjSHRnb0xJeU1ab2JsbXVMZVlvY2pKZU5FcU5xckRtV3VQMzN0TGxMaEZKZHpmdFY0ZEZhN0RHNHZYR18xUTY4NzkwcTM2VWs1cE9GajhEaTNkclpxZXR3Rmh1a195bGQzTHFBazZUSFJFOU1hb2FYNGpkdkdYWUV6RFYyckxTOXY2c3BTQUpfRkVyLWtOcW9mRHBUeUd5LXVVQQ?oc=5",
+     "published": "Wed, 28 Oct 2026 00:12:29 GMT",
+     "source": "KLSE Screener"
+    },
+    {
+     "title": "Robust prices propel 3Q26 outlook for plantation players - The Star",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeUFVVUZGTlBOVWdZaFVxMDJQYUtTeXlOYWtfSW9yaVdOeG5vdkhmd05CYTJVZzlCOTVUaHhGdU9uaVdsbjRLMWV4a1JJTnFxTzU4UXhvRFZ1Wm1BRDlZT2htOHlLNUFCNG1kRnp1STlXSFNmWkI5bzVwNlZUWUpWRnEwOTJDNjNiOFk4a0NrY1FqbElTNUVVRldBRlQ4akpxWVVmXzZlMzhya1MyaHB0Um1kaGIxSXV1?oc=5",
+     "published": "Tue, 27 Oct 2026 21:05:10 GMT",
+     "source": "The Star"
+    },
+    {
+     "title": "Planters to benefit from higher CPO prices - KLSE Screener",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNTJzWTVlUS05S1JIY2VrVEtDZEhhMDNWSkNBMzgydzk2aTJRX0N4ZjRuWVhkNnBWTDJqbG4xaDI5Z0FLN0Y2bENqTzdXVDdzMTFuaUtKM3JRa3RMWXQyUEg0TE1HQjZQZE1hMTVqcmVST1lscTJibmpzaHExakpXLW9WTThoTFI3MVlzVTF5ZVBxbklLdkdr?oc=5",
+     "published": "Sun, 01 Nov 2026 23:10:25 GMT",
+     "source": "KLSE Screener"
+    }
+   ]
+  },
+  {
+   "code": "1961",
+   "name": "IOI CORP BHD",
+   "short": "IOI Corp",
+   "sector": "PLANTATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/1961",
+   "quote": {
+    "price": 4.45,
+    "prev_close": 4.46,
+    "change_pct": -0.22,
+    "volume": 3514800,
+    "price_time_kl": "2026-11-03T16:16+08:00",
+    "currency": "MYR",
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "IOI Corp poised for higher quarterly profit - The Star",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU0tKUFVWRGJYUWppTDBlbG0zY2dHMzhJalc5SHE5OEtDWTBaNXU1dXJwUkVuamM5UENQcEF4ZFBJT2c0RnlmR0VaVG80ZzlmOHdCeVQyYlExdlBpUlh2bERYR3hTWFlMWVRNNEtoWFR1Tk5BQkV0aW53UHVDTTFoVElGb256WWtzUk1wZlZiOEhscnJtbzNid05zODZGd24xdWVlZ0x2VQ?oc=5",
+     "published": "Tue, 27 Oct 2026 23:03:18 GMT",
+     "source": "The Star"
+    },
+    {
+     "title": "IOI Corp poised for higher quarterly profit - KLSE Screener",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS0RoZVBYUl9lUjFOVGNmVGhHV0NTUjJrTHRzcnpKcG5laHhiUVlESkg0UFdTN3VCYVRab2NRaW91a0Q1Q1lJdDVjcUw1MlIyOE5LUVJJMlJMLV9fdzV3ZTlDWlVlZDM0eUtvWHZKdFRCUmdyZTZ4UnRkUjRISXo3ZUpYTUt3SmpsMWtoTWZWb29PV3NQcmZzSg?oc=5",
+     "published": "Wed, 28 Oct 2026 00:12:28 GMT",
+     "source": "KLSE Screener"
+    },
+    {
+     "title": "IOI Raises REIT IPO Target as Malaysia Listing Boom Gathers Pace - Bloomberg.com",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcEFiUlhWTTlzVEhQMWlWQWVmOS15UzViVmZ1R3E2SFh3YmVuc2NGWE9pbnNGTTZ0UlRMMEV3cnhMano5R1p1QzhMM0VBcWRIR2NiaWJIWFJLV2JjcDFDQ1NkQ0FwRE8xbTVBZlZOcWFBaHlscGtGSTlhSF91RlRlci1QU0s2YjVoZHptRGhfaExsTVNQdFNwenp6dXpZbk1teXh4cWJKLUptRjdUTGczci12Mzh6UQ?oc=5",
+     "published": "Tue, 03 Nov 2026 02:00:00 GMT",
+     "source": "Bloomberg.com"
+    },
+    {
+     "title": "Robust prices propel 3Q26 outlook for plantation players - The Star",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeUFVVUZGTlBOVWdZaFVxMDJQYUtTeXlOYWtfSW9yaVdOeG5vdkhmd05CYTJVZzlCOTVUaHhGdU9uaVdsbjRLMWV4a1JJTnFxTzU4UXhvRFZ1Wm1BRDlZT2htOHlLNUFCNG1kRnp1STlXSFNmWkI5bzVwNlZUWUpWRnEwOTJDNjNiOFk4a0NrY1FqbElTNUVVRldBRlQ4akpxWVVmXzZlMzhya1MyaHB0Um1kaGIxSXV1?oc=5",
+     "published": "Tue, 27 Oct 2026 21:05:10 GMT",
+     "source": "The Star"
+    },
+    {
+     "title": "IOI Corp stock draws Buy call as seasonal CPO recovery lifts outlook - ad-hoc-news.de",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSlU1UGs0R1pweUhTYlBCRExVVFktTllXLUh6QUxMWGZvTWYtR0I0LUZYakM3V200N21ITWR0SDQzc2tHaHRFekdOc3pPZlp1a3JCb3hMRXlDWkxrbVZzamQ0Z3ZxREl4c3g3dDB0bDhoMy1FUFFwdmZnbFBZRkZUZnMxRjRCMnpBbEJfMWxWb21oUXhJYnJDM0xpeGlMenJiYjdaVXVkbG83N1dHSEFaRkYyeTl5UFRQTXdtYjlQcEdsMktJZXc?oc=5",
+     "published": "Fri, 30 Oct 2026 01:10:52 GMT",
+     "source": "ad-hoc-news.de"
+    }
+   ]
+  },
+  {
+   "code": "2445",
+   "name": "KUALA LUMPUR KEPONG BHD",
+   "short": "KLK",
+   "sector": "PLANTATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/2445",
+   "quote": {
+    "price": 21.08,
+    "prev_close": 21.0,
+    "change_pct": 0.38,
+    "volume": 265400,
+    "price_time_kl": "2026-11-03T16:15+08:00",
+    "currency": "MYR",
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "KEPONG ENTREPRENEURS PARK Terrace Factory for Sale in KUALA LUMPUR, Kuala Lumpur by C.Y.CHIN - EdgeProp",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOb2NtMWItU190SzRrQ0hwaVpTWHlMVnUwR0s1SnctVnZZOVBPTmMyajc3RnhDLTlzbThsZU9pdGxEdHlVeXM0enVfbE1aOWsyNlhtYUgyeWlvRXNhcWJBaExwOTgyT0ZVdzVpRk9jRTFmWUZsbVlDS0hiQnQ4UzYyczZ3bXdqdnFvOVlWdFVQZGo2VmFsYUJsUjFYN29EaWdVQ0xGcDFKUW81MG9oNGg1eC1Ka2lBVFNuSUU4UHVRdFBEU1RlS2pRYkhMa2V6ZWlHdTNDTjRaNTBvc25UcUE?oc=5",
+     "published": "Wed, 28 Oct 2026 13:59:34 GMT",
+     "source": "EdgeProp"
+    },
+    {
+     "title": "KLK’s record FFB production, stronger CPO prices underpin earnings outlook - Focus Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSFBTOUFDOUsyY2dXNWIzU25rMWxQZktmbVM3TVg3ZGVZTU9RMGhmbG1KTlB1UTRsZkFxRHBNRTNWbXdac2JBSE1DYVhfX3hlLThGQ2ZrbkRNOEl0NXpIamJNeDlLUDhUbjlqV0ZOY25tMU9GQUlieHlDSUtWWHMwRW0yTXRqRElRd3NhMmp3SjV0OVFyU1REdE9EbVQ2bm8?oc=5",
+     "published": "Wed, 28 Oct 2026 08:16:49 GMT",
+     "source": "Focus Malaysia"
+    },
+    {
+     "title": "Losers Outnumber Gainers Amid Broad Market Weakness - BusinessToday Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYnBLM0pmOXREVUZpdXZNNnNiNVlpeEMwOC1ySGx4NVFPNEVaT0RldHdzQ3BWUk5jWHlfbmJxLVMtR3lUR2tMMUxLTjNDYS1RbzFzTXBTODFma1ZVNzNvcW13S0ZTVEptX2pOQkZzalRUUGMzS2VJdzRER09pQ2pvZnBwNzE5WWpSOVNlWmFPRWlfYVQ1VmxFaTNjZWc?oc=5",
+     "published": "Fri, 30 Oct 2026 09:43:19 GMT",
+     "source": "BusinessToday Malaysia"
+    },
+    {
+     "title": "Indonesian drought could lift Malaysian planters - KLSE Screener",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOFlKTjBHWEd2OWZrZFQtelFiX0JRNnNhZ0stV1ZJeG5aNDQ5cS1QaFp2YWw2djJVQUhLSTBrSENsak0ySmhUN2x1czB0T3BERHFReFJtenBWdFFFZEF5VWpwa29tMlp4c2JyWlZRZF8xTGoxQjJUbzZXMWtBN0NrN092T09sMm9HUnJ6Rk0xeEppVmtQdEVPNVo2RkV0STA?oc=5",
+     "published": "Fri, 30 Oct 2026 01:49:45 GMT",
+     "source": "KLSE Screener"
+    },
+    {
+     "title": "Bursa’s key index ends higher on renewed buying interest - Free Malaysia Today",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVWZtbzdhdXFia3RWR2hmRTQtd2xoT28tdXVrbUNWbmhKdWZGUURGYy15WUtmSUlJdnliYzlQRWdabVNHNlhDODNNY3NPeU5IYnB0QVFGal9qeVpoNm90aGh0ZGlrZ01oaWtQTzFCQi1MdTdCTTE0ZUJnVHpKV1ZCVmYzWlF6NHZMSFZHQ1RUbUtkU2ZNN3czVmhLeUlDQTV2MWZYQlVEZG0xZEpEaFROOEhrUkNoQURsbHFZ?oc=5",
+     "published": "Fri, 30 Oct 2026 09:29:00 GMT",
+     "source": "Free Malaysia Today"
+    }
+   ]
+  },
+  {
+   "code": "4383",
+   "name": "JAYA TIASA HOLDINGS BHD",
+   "short": "Jaya Tiasa",
+   "sector": "PLANTATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/4383",
+   "quote": {
+    "price": 0.895,
+    "prev_close": 0.9,
+    "change_pct": -0.56,
+    "volume": 324300,
+    "price_time_kl": "2026-11-03T16:10+08:00",
+    "currency": "MYR",
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": []
+  },
+  {
+   "code": "5126",
+   "name": "SARAWAK OIL PALMS BERHAD",
+   "short": "Sarawak Oil Palms",
+   "sector": "PLANTATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5126",
+   "quote": {
+    "price": 5.5,
+    "prev_close": 5.43,
+    "change_pct": 1.29,
+    "volume": 237300,
+    "price_time_kl": "2026-11-03T16:14+08:00",
+    "currency": "MYR",
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "Bursa Malaysia turns lower in early trade after opening higher - NST Online",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNekxRRWtsVUhLTXdsU3dDQ0JfUHhCSXFYMkkzMXd1WEtIanRaZ1FpeFlBLU5HUEo2WG5jS1R2QTg4dVhQRFVqa2Ywa0Q1cFVoM0t6blBkNFpEck1ydk9XazNXR251WUtQbE5RUi1uN3VrbTkxNjZvcGduV1ZYc3FRU0lJS1lKWmN4VFBkbS1JSWFfcVRuYXgwNWNvZFRwdkx5b2Ytb0RoUWhyREZLdUJrU1VFOW5JMHBjWVF2TElfWUcxRVdpdGVJY0Rib9IBvgFBVV95cUxQbDZtRnlZSHFtcDdjeGF3WGlXX2pObXdYZDJjdGh6Rm1mcndXME9JN1dLaXh0dFRfcFZEeXRRUTlsRHBIZmhyaHk0RFVEeDlqMW14N1I2Nk1ySWF6NDBvNlNNalRlcU5mZHRoTmJRbDBJUnQzQXdFZ21iYTIwXzZKOUF6T1o4QmJsTUhzbmlDak5jSmZiRHl1dF9jWGdGVmdzTzdXaF9ucG5aWnNZUXhjTUJkV053NHAzVlNtN2l3?oc=5",
+     "published": "Fri, 30 Oct 2026 04:00:00 GMT",
      "source": "NST Online"
     },
     {
-     "title": "Dialog expands Tanjung Langsat terminal capacity by 100,000 cu m - The Star",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYkY0LWtkOF8xY1hXQmtYVEZxcXJjcXNsT2xvN3ctaWNUam5lSTZwRDVueWhGMy1iRWcyNGN0c2tKTi1pdUV3TVBXWEtJemxWRmxMOU9kbnkxTnF5allRaTV5UTgwc0lraXo5X3V6cG1RdVRHVlNCNWZzWnY1bHFTcVNhMWVEY0Y2R2hlSXJtdDI1VGZ3MlpnRExZNWl3TERsWkxvc2RrN0tUTW1jMnlRSHo5NXBmdHJ5ME1JQVdZQVJWZw?oc=5",
-     "published": "Mon, 02 Nov 2026 11:19:00 GMT",
+     "title": "Late buying lifts Bursa Malaysia to close slightly higher - The Malaysian Reserve",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUWNMWFlHekVRY1A4UmNscm83Q1RFd0E1eTZWT0FrbTFRcW5kZzRTYU1JY1phelMtRWdjS1VjLVVqZGNqb09vMVdxOElLVWFzcGE1U0gxVkhTZWdNUzZJcWdPUzJHTHVsVl84S0JGNnAwNkYtZXpKZkE1aG5vRnRSZlZYM0JBRWxhTnhvX1hrdnZiSFdaS245aGpJTU1Felk5RjhyN0dR?oc=5",
+     "published": "Wed, 28 Oct 2026 11:24:15 GMT",
+     "source": "The Malaysian Reserve"
+    },
+    {
+     "title": "United Plantations Berhad (2089.KL) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKcXphZlVjWk9jUWJyY2lwa1hCanRSbGNHc1BLYjhOM2hwQzN6ZFNVWlBaM0hmMURCbjk3T1NNRWJlT1FFVVUtc0RPTnJBNkdCMkRGNjE2WlZpRWV0N2RiTkNJZHprZw?oc=5",
+     "published": "Mon, 02 Nov 2026 22:04:33 GMT",
+     "source": "Yahoo! Finance Canada"
+    },
+    {
+     "title": "SOP Foundation Recognises Academic Achievements Of 1,765 Students - Sarawak Tribune",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQlU0OXdwRVhCSFM1MGt2cnVQVnl0U3lqNkRwd2RhcmdxN1JuQm5jZ09JOEtmSDRBcjFtanlveEZJRnBkZzRKY3pVUGJzRzFpejVFNWxxWk5XeW1OUXlBelRXWTFReTZRWW1QdWY2OEdkQ2lQc2psS050SDZieHZvVlRBT2NDd1NQVnI4a0pISFk2ZVIzWWljUkZoX2s?oc=5",
+     "published": "Sat, 31 Oct 2026 11:24:44 GMT",
+     "source": "Sarawak Tribune"
+    }
+   ]
+  },
+  {
+   "code": "9059",
+   "name": "TSH RESOURCES BHD",
+   "short": "TSH Resources",
+   "sector": "PLANTATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/9059",
+   "quote": {
+    "price": 1.14,
+    "prev_close": 1.12,
+    "change_pct": 1.79,
+    "volume": 923000,
+    "price_time_kl": "2026-11-03T16:10+08:00",
+    "currency": "MYR",
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "TSH Resources seeks independent assessment over Indonesia fires, haze - The Star",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdXJab1BDbkFBTFVXYjVWd28xWDc2TFkzRC16YTJ3MlgzVkM3OWREWVk1ckQ5TVQ2OVhCRlppZjc1OW9OSHFhUzM4SjdPbVdzX0ZoUkhpdG9JRGRhamJYZEVBS3ZMV3R1TVpTS1RYSUQ3LUM5SmcyM2xXUUlCTjZsa3F5SFRKRDRTb3NpamJ6dUJwUVdFRFBNa2dsc3RPRTRKd1NKZkZkYW1XTnBaaFZkclNTOHVldzd3VFNNWGxTWW82Xy1IY3g5ZA?oc=5",
+     "published": "Mon, 02 Nov 2026 01:44:00 GMT",
      "source": "The Star"
     },
     {
-     "title": "Bursa Malaysia braces for volatile week amid US elections, BNM rate decision - The Malaysian Reserve",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcVRnMXZlY1VxWGhQejZNTlZnVVVtRWFSTGdWU2VWNTNla1FXUWhnUS1DLTlUX0VvY21YeDV2LXYtYWpKMEcwRW15cTN5SjladlpldnFGVTREU1UxWXJOZVN3VGt0RTR2ZWVBVVlYdDZYOFdxOVlhZjBNRlk1NkJNclgzTXo2elVUNHV0QjNGNm5TY0RTbUhQM09MNEVKSUVLbVJ0TEJJdlp3QV9ib2dqSmZ5dHJJWVVzbV9WczhDcDA?oc=5",
-     "published": "Mon, 02 Nov 2026 03:14:03 GMT",
+     "title": "TSH Resources agrees to Singapore haze assessment - NST Online",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSmJNOEZhMGNkY25NVGN6UzRQMzA3XzNBZDc0ejFsR1A0bTJfNkRJaWtjWjJfQnFFNGhneVFwbEt3LTA3Q0NUT2htX1kyREhkWEZna2I2eG5peEp6T0ZRUkZIdHVXTXJQMTMxdE12Y1JSWlQweW1qVERtUXpNNUVQWldLbktUazdhdUYxR0pkc1RVYWdPMHVtTml5OC1FY2FNa2Y4VjZDRdIBrAFBVV95cUxOOEtnWm10VW4xelpVS2pQaWE4cjFkUkJtdzdmZDhic1V0R2QwZlIwZmJoTlIycTFsQTNHMjZiM2o3WVNxVDlkVVFMaGpjTEoxcWlhdmVfdmpJZEF6UEZ4QVlTMDQ4MG55dGFka0gtb3k3MnZHY0RVNDFKVHpXcmJkTklaUkVzVmc4RFlpUTJYREFVYk02UkJxenZxdHgtYVZFeFROMVlKNERJbHlW?oc=5",
+     "published": "Mon, 02 Nov 2026 01:45:26 GMT",
+     "source": "NST Online"
+    },
+    {
+     "title": "TSH Resources finds no business links to 10 Indonesian firms named by Singapore’s NEA - The Malaysian Reserve",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMG5mSUs2ZlAwRVdWZXRSVXJkOHhJN3laRHBRYkNydjczZFZxSndjeDNsWUV2SWlWRTk3Y3ltRkF1V3BNdjhENUZvTkZYWEk0Q19IU1RyblNCeVMycEtFNXNSbXdDZkhiYU80MzZtRkNuc3EtWF9GY2RUdFNFUWtMVXBhUVlZYXpZZVV4MkVRRXpFVUxjdUFIME9aODRpZmZ0MzlDcVRwREFBdnc1TEMwbFRfbmZWVXlCa1RGSUxNNFJXeTh1ZXZV?oc=5",
+     "published": "Fri, 30 Oct 2026 01:58:39 GMT",
      "source": "The Malaysian Reserve"
+    },
+    {
+     "title": "TSH Resources volunteers to engage with Singapore agency's independent assessors over haze - The Edge Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vQk5ZOUx4eHl2Z0ZaRndiU01ITGV2V3hMUC1YY1FtamstMjZtb2hmLW53MG1PbTdnWXMxN2t5NUIwZS1DaEpPY1RENU1ZX0Jk?oc=5",
+     "published": "Mon, 02 Nov 2026 01:39:12 GMT",
+     "source": "The Edge Malaysia"
+    },
+    {
+     "title": "TSH Resources Denies Links To Firms Named In Singapore Haze Probe - BusinessToday Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONjZPcTVRaDhJdEFiRl8xcE9hSXVfZEJFTWkxSWI1dVdiRDRuVkgwMElsUTdraVA4azdBUTR5Y3lMSDNfNm1pTzZrTFlZNDF1M3d3US1iTmhLdF94X0dSY210Rm5WQldYWHFwUTl6STJ1NkdncVdaZGMyQzJRRktPUzc0WTMzTWJic0VWbWNsal84aTBSYll4ZVJRa0pWWVJ4bTQ3dDl3ZERmNllONVlF?oc=5",
+     "published": "Thu, 29 Oct 2026 13:09:46 GMT",
+     "source": "BusinessToday Malaysia"
+    }
+   ]
+  },
+  {
+   "code": "5031",
+   "name": "TIME DOTCOM BHD",
+   "short": "TIME dotCom",
+   "sector": "TELECOMMUNICATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5031",
+   "quote": {
+    "price": 5.44,
+    "prev_close": 5.44,
+    "change_pct": 0.0,
+    "volume": 1453900,
+    "price_time_kl": "2026-11-03T16:16+08:00",
+    "currency": "MYR",
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "Stock Picks: TIME dotCom And Sime Darby - BusinessToday Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRjdiR28zeVhSSHplQXc1d3cyN2JJYXQ0TXN6UDdSVW1jNVZrSF9EeXBsTkl5bVBzSHhuWHl2WHl4dUhXTFo5MVMyMVFIcFlWWTV5aDJHenBsbEJRNXBkWHVBb0FueGdGemkycEFCVHVOcVF2azJmN096Yks3bU43M3N2RGxGclRpQjVCbjhITU1Ud1o4T1QxN0xYT1FqR3p4dms0bGFvU09fa29wU3dwSXhLWUt2RmJQYk02LXNna3FXSDZqX3Y5aHdwZVdYSDFaaGNiS0h6TVBqV09nRHB0blNBeWd3SE05azZja0xzNjNuRDRSb2ZxMg?oc=5",
+     "published": "Tue, 03 Nov 2026 00:07:09 GMT",
+     "source": "BusinessToday Malaysia"
+    },
+    {
+     "title": "Blueprint: MCMC targets 15 million devices managed sustainably under voluntary road map - KLSE Screener",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdUFfUmZOWVBuR0hfS3ZvOTV6cXY4Q3czT3RTcUJDQVRLVS1KbVJTWElnanU1cDdLWVd2TjNtb2xJVE9JOTJCWFRFTnRLYWdpUlRrWkZIY1djTVpyczRNbnljNi04R3I0MGg2NWFnWERkRmVuTVp4d0dSVTMzcWl0T2JQRjFJQUo2bEdodHBJQWtRdnB4TjBhRExwNl9xaVhJT0p0UGtfczlaXy1WaEo1WURRV0o5VTB4Y1ctYW13dXJaLWlXLTE0ZjB2dTF6NEpMOVE?oc=5",
+     "published": "Wed, 28 Oct 2026 16:20:08 GMT",
+     "source": "KLSE Screener"
+    },
+    {
+     "title": "Maxis-U Mobile Merger Talks Resurface, Lower Valuation Could Pave Way For Deal - BusinessToday Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbXM5LW5sbWQ5MGYzd3lqWFZocXpVYXlrc2lDZWkyQ3FIWWhDQ243UXh6X3FzWnY1Ykd3bWZDQ3Jsb2xEUThOeGxfOFE4LVRQMTQyTUZpdEVyWk5mTVd1NTBGNXlZREh4RkpJVG9URWlqaDVWR3NmZXRjem1RbVBQeGE5c0J5ZXloejR4aGxEcnAtdU5OTUoycTY0MXB6QXgwN0VXOUlKeW85Z0dnTEZwNGF0cmZ2cmFQRlB4MDFzNA?oc=5",
+     "published": "Thu, 29 Oct 2026 14:40:27 GMT",
+     "source": "BusinessToday Malaysia"
+    }
+   ]
+  },
+  {
+   "code": "4863",
+   "name": "TELEKOM MALAYSIA BHD",
+   "short": "Telekom Malaysia",
+   "sector": "TELECOMMUNICATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/4863",
+   "quote": {
+    "price": 7.87,
+    "prev_close": 7.93,
+    "change_pct": -0.76,
+    "volume": 2009100,
+    "price_time_kl": "2026-11-03T16:16+08:00",
+    "currency": "MYR",
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "TM One: Powering Malaysia’s Digital Transformation - BusinessToday Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOampOVkRxNmd6c01GNlhwOC1CWERrQVVaZEladzB1SUp1MVhkTm1RbFdOcVQ1T1pmRjJCX0FFVlZJYkxOb0g4MFdFdlRNdWtuSUV5bTlaX3V1VDFQMk1KTlhESC04N1hMQ2N6MVhzaGpGVTNybTNYS3V6b1Bobmhrb196ajdtcy1tUW42eXFBS0pFenU2OFJkdQ?oc=5",
+     "published": "Thu, 29 Oct 2026 02:15:00 GMT",
+     "source": "BusinessToday Malaysia"
+    },
+    {
+     "title": "Bursa ends higher on bargain-hunting - Free Malaysia Today",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVDdiTG1ncmNQZHNBbG1IUE54ZUFKcGxjc1kwekdXZW12TmZVelNLdmVRWmxrYkg1QnlKTWUxVEZPay1NQlByV0VSQjItcWwyN3RITUhLR1lhQzFlRGdubGUyaUk1S2dSelgyZDljcWVUanZtTnhwcm12VnNzemFTcFJ3LUlkdW1PQ1dQWEZjR0lHQVF1b0h2a2FNNW9YZVNReGV1Ug?oc=5",
+     "published": "Tue, 27 Oct 2026 09:27:00 GMT",
+     "source": "Free Malaysia Today"
+    },
+    {
+     "title": "Bursa Malaysia ends higher on bargain hunting - KLSE Screener",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM2daT0xyYTNfeWRZZWdfd3ctTU0yNFoxNlV4NDhjQ1djSWJFd0RMVl91NWdnOFoxQ2ZLMDVtMTFlX1JvN0kwTVM3WEZEdEY3NlRZektyc2FTcHhkOHJFQVptOHhaMnpMLWJKZWttNi1PMFdycklhZFQ0cXNpX2xrVXkzeUxlOHVDVFdPMGdmaWNjemkzQWNhTmh2NA?oc=5",
+     "published": "Tue, 27 Oct 2026 10:17:42 GMT",
+     "source": "KLSE Screener"
+    },
+    {
+     "title": "Johor’s data centre surge unsettles Iskandar Puteri residents, some consider selling homes - Yahoo",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZmxXbjUyeEcxRnFyUVFpWFdyVXR6NmZVazN4dWlzSU9rOUpxOFIwY2NUWkY3XzlrdTFRWnpJdl92TW0xMFUtN21wNnJZWlJCYlRIT0NCVXJrVTMxWTdBSVVva0pMbkxTaDFPanFwN05NU2VEQTVUWldKNGFiRzdCVXpTbzhnT1U?oc=5",
+     "published": "Tue, 03 Nov 2026 01:26:00 GMT",
+     "source": "Yahoo"
+    },
+    {
+     "title": "Data centre boom in Malaysia’s Johor brings pylons, noise and property worries - Asia News Network",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeEwyWmtoWHJBLVNXcnM3dDNITlMwX2RkbHJZeUNCSEJETWVCb2VMMDJ0RmRzbkdTWTM0cDdqOXF3ZHZpTkpPbVFCZlFtX3VKY2U3NHRkZlJKejFGMUpabDVZZXVfbDZIdVY3N0N5bG0zd18tbVlqU1prblpjUWlES3BuOHc4aTFZY1VrbEdlc3M0OVppM0tqM1kwb0Y2ZHowVlJ6bw?oc=5",
+     "published": "Tue, 03 Nov 2026 04:07:28 GMT",
+     "source": "Asia News Network"
+    }
+   ]
+  },
+  {
+   "code": "6012",
+   "name": "MAXIS BHD",
+   "short": "Maxis",
+   "sector": "TELECOMMUNICATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/6012",
+   "quote": {
+    "price": 3.59,
+    "prev_close": 3.61,
+    "change_pct": -0.55,
+    "volume": 847300,
+    "price_time_kl": "2026-11-03T16:15+08:00",
+    "currency": "MYR",
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "Malaysian billionaires said to revive plan to create nation’s biggest mobile operator - The Edge Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CbUpqUzN1VlAwMDV3ZG1sdkpsZENrSVhzQXh5aEY0MzdrUkFYLXlRSlJPS0VMU3A5LTNTRnhkczZpQ1EwR2U1RTU5NzRIMG9I?oc=5",
+     "published": "Wed, 28 Oct 2026 07:34:57 GMT",
+     "source": "The Edge Malaysia"
+    },
+    {
+     "title": "Maxis-U Mobile merger likely profitability catalyst - The Star",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcDFIb3A5UXgwX0lHajRuWlQ5cENyU3VqOU8wVUR6clpydWFvMkFkS3E1MkNvUlhfNzhyN0hycUpnVEtlN1NGLUdyLV9acVlpUnRidkhMaGhmaXo3bWVOMEJicW8wUG9MTi1td3F0LXkwcV8xRTFkZkk1QmFsLWVoMUY2dEtSNkdwNlFrS3BLeXVpWE5wT0x0cnFZb3NscXdKUm9DaTdFQ2NnQWt4SW0yQXZn?oc=5",
+     "published": "Thu, 29 Oct 2026 23:04:35 GMT",
+     "source": "The Star"
+    },
+    {
+     "title": "The case of Maxis – U Mobile merger - NST Online",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQVVPbjk5WWhnOUJJV2ZlcUttQm1odlhfMnIxLUJ4NlUwV1NTdjlWZG1iMG5QU3hUOVZLbFRkakk4RW1UdWJUUm8yTl9vTGJaRWJ2U09CMXRWWmR3QzNJbVhMYmxUd0RRU0VBQ2FMWGZQV3M0U1FlMGJhTHN2eC0zZHhyYU1Pa3JDNm84ckhaZlhLLVZWYWk2ZzRB0gGfAUFVX3lxTE9aV2d4ZkxiSnZpT2pGUnptNnhPVGo3S0hwaUtnS1VhMHltSm92VXE0NHBfMmNKXzdGbzJURWxFWjZRU3FnUDhfcWw1T0pkWjRQdTNsSVhCcVJZVHA0YlM3TTNZQmRvaEp3RWMtUU5LZWMtWE5saXJTUWFwX1FIRHI5ZW9NWGprOV9rRzlrQ05YbU1kR1NpSXhqc3dXLTJ0TQ?oc=5",
+     "published": "Mon, 02 Nov 2026 00:00:46 GMT",
+     "source": "NST Online"
+    },
+    {
+     "title": "Maxis-U Mobile merger: Will Malaysian consumers lose out? - SoyaCincau",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVjRHUHBjekYwcmVwX0dManhPLXY0MGdidHBsSGtWMXRiQmJGOVpDUDIwWnB2OEtCVTU0M3UtcGFpbWI2QXJvQUV4Z216b1J3Y2QyRkNKOWJiVmdxVDhJWl83T3dFaW84XzR1NVppcElTSF9pdTZSQm1vN1RhTTlaMDBrel9WT0RJOE5VT0FiVk1KYUlLYzlQd3BaekYtQQ?oc=5",
+     "published": "Mon, 02 Nov 2026 08:14:44 GMT",
+     "source": "SoyaCincau"
+    },
+    {
+     "title": "Maxis-U Mobile merger: A smaller price gap, a bigger industry shake-up - The Malaysian Reserve",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNDFwUl81aDI4YWlWLWFQZWtYWjBybzVvSDdOZ0VlamlMVlhOelN2R09lSFhmZnFkM1U1dUY1VkEyWnRteU1sYU1VQVNmbm5UVXdhWFRvbGJBd05Vb3lpYkU0UWg3a1dlZFFfbXpDZ2NBczZWbklXR0FVRDRXNDlDUmxvR3E0MnlQM2l2SVRzQ2htcEdaZWlaLUI3RHplRHF4cVhpbFU5d2wtbkNDMENhZmZ3?oc=5",
+     "published": "Mon, 02 Nov 2026 00:58:34 GMT",
+     "source": "The Malaysian Reserve"
+    }
+   ]
+  },
+  {
+   "code": "6947",
+   "name": "CELCOMDIGI BHD",
+   "short": "CelcomDigi",
+   "sector": "TELECOMMUNICATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/6947",
+   "quote": {
+    "price": 2.69,
+    "prev_close": 2.67,
+    "change_pct": 0.75,
+    "volume": 1323500,
+    "price_time_kl": "2026-11-03T16:15+08:00",
+    "currency": "MYR",
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "SIM crackdown to dent CelcomDigi momentum - The Star",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUno2RVVGS1hNZDhLN0VhU1AzUVFQV1NxQ3lRbGs1bmxOLTEzY0dsTUM2R0p1UXBZcUp0aUo5Q0tyTTFJY1J6ZzhHM2l1TUZudl9ncWhlazBLMFJuSXJsR0drVTZLbzcybWtINzg1Rkp3Ny15ek8zVFk2R2p4dDZHV3NvdnplZmoxT1lDaGY3U2QycjQ0RVdqbjZMMWx3M0tiT2x1aA?oc=5",
+     "published": "Tue, 03 Nov 2026 00:05:27 GMT",
+     "source": "The Star"
+    },
+    {
+     "title": "CIMB Securities trims CelcomDigi’s FY2026-FY2028 earnings forecasts on spectrum cost - The Edge Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xdmpwaEJWZGl6Z1VPUHJLMEQ0QjVBaGtFaWUxWG44OVI1WVNvQkFjblpKLS1yZEM2TEJOZnYxNml5ZnVaa3EtWm5ieEIyczFz?oc=5",
+     "published": "Mon, 02 Nov 2026 04:08:11 GMT",
+     "source": "The Edge Malaysia"
+    },
+    {
+     "title": "Huawei, CelcomDigi join forces to upskill workforce in AI, 5G - NST Online",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbElrUUpVRGo5ZWd6RHRxaWZFRVdCaVhfTXhjbVJWQ3lQTGQ3UERMOENzaVBhTHZSSTEyOGw5UWFwemdhSTB4WHVvM0poMGd5QXFncjJib3doZU51eG8yQjBuMmVxTnNsU0w5YS1UMkxFUXZMSjZ6MHJJTUpwdkZrODg3ZUoyLUt4TGJOdzVpYV9FV215dVBQOVVTUlFBOWw5Y0hNWjVCOVVDbmhSVHlKQ9IBtgFBVV95cUxOLXp1ZTl3V01MZTNnRHZCU2ZrYUtVYWVWLW45MmpiN1RDWWcwX3lPMXp4MHcwdk51cDBoZ0VyMnp2VlY3QlBkUWMtYXJPWTVGUW0zMC03WDRFcndVZk41ZlpiX1E1S1ljdVBmcXpqcE8yU29yVk13a2NUb3A4enF4eHFyM095Z1Boay1XUk5WN283RVJ0U2JuMkJveTFEeHNHU1pPTUNHTHl0N25NYVNtblhibG9wUQ?oc=5",
+     "published": "Tue, 03 Nov 2026 06:00:15 GMT",
+     "source": "NST Online"
+    },
+    {
+     "title": "CelcomDigi Leverages MPL MY To Drive Business Growth - Bernama",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tZE5HblFhakdSNHN6QW41UWVRWXlfb0NnU0Z1aG5vTWhORW5lQ09lX3Y4ckR0OU9zVEFjcFBVdHR6d1o0bUNZaU4zdlBfUzRsMHZhdDNGRldqTXNiY3hR?oc=5",
+     "published": "Tue, 03 Nov 2026 00:33:45 GMT",
+     "source": "Bernama"
+    },
+    {
+     "title": "CelcomDigi AiX: Enabling Industry Transformation With AI And 5G - BusinessToday Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMFZEdEJFR2Q3aW5WbU9MLWh1c0d0c1hGQkNzVFY2Z0ZiTDhLSkw1Qkh5dlFxRmZGRnNqdGpfSWVYZGZFeXRPRHd6TENfQVJoVlk0YWJ3anFWSDFjczgxckxCNnhsSlk5M2ZlS01sMW0xbWFtdHRiMkwwWEhvUGpjSWFWamFYQzBqYlo0ZGVjYVJmcGsyV21SSW9iMy1BZ2kxdmVxNGF3N2N6NGs?oc=5",
+     "published": "Thu, 29 Oct 2026 03:30:00 GMT",
+     "source": "BusinessToday Malaysia"
+    }
+   ]
+  },
+  {
+   "code": "6888",
+   "name": "AXIATA GROUP BERHAD",
+   "short": "Axiata",
+   "sector": "TELECOMMUNICATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/6888",
+   "quote": {
+    "price": 1.68,
+    "prev_close": 1.69,
+    "change_pct": -0.59,
+    "volume": 10089100,
+    "price_time_kl": "2026-11-03T16:14+08:00",
+    "currency": "MYR",
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "AXIATA (6888) Analyst Ratings, Stock Forecast and Price Target - Moomoo",
+     "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPdTBieGZaRVhzLVdsVEdhS18zbHJ6a3VvUkRuZU1fcXlwaWpqU2dUbWRtUmNENFUwRzdlcDlkaktXTGRvVkxLTW9SbU4wbXJvalhrQlV6cGM0ZHN0aHI0bFhfMzBOVTVsLXpEbkp3WkZiZmdlMllialdoSHQ5LV9ZSFVBZlk4OVdDT25RSFpLYldPTGZKdFFNNmpWV21lN3VtODN6dTRhSWtlUWllZlBxQTJoMThJQ29OZkFiczFQMmR4bWZBUlZzTXQwMWFXUi1USVNWZ2tuejh6eGM1bnV4OGh5YVh0bXpMcXhFdG40RUtQeDFOd2lpa2tTU3hYRWhGNUhKemtTQjlDdWRocVNnVXlOWE1JNnJkUzRtTmpQd2JTaFl4NkpiSmJQRnc3R1c4bUFFa2twNA?oc=5",
+     "published": "Fri, 30 Oct 2026 07:00:00 GMT",
+     "source": "Moomoo"
+    },
+    {
+     "title": "Axiata Group Berhad (6888.KL) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wRXRqRmlaQVdFWWxuS3p5X1owUEx1dWtGa3NhNG1feGJjUm50V3IwWHR5OFgwbHhDOTlvS21Yc2FaSm1zcmw2NmJaQTZXWVBra0oxV3NtNWpBV1hnVm1ia2R6VHd1QQ?oc=5",
+     "published": "Sat, 31 Oct 2026 07:15:23 GMT",
+     "source": "Yahoo! Finance Canada"
+    },
+    {
+     "title": "Axiata Group Berhad Shares Slid Even Though It Turned A Profit - Simply Wall St",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNUlYUDRDeC16WnpORWY3amtPdXQxYVFWcVdZZjZIbWZLalBycEZGa05XQUNVZmdDcWdDZFFoUktEdEtTa09Zcmh0MWtsak5hS3laeUhlQkhhTm0xYTJPODNaZWkxdkdtY3hnN3F3YTRoQVA3WnZlN2UtczZwYkxEb001Vk1BZHA5N3hXbElYQno5cklodmxVVTBOd3pDanNfSVg3V2FISi1hRUJUdzU4NFU5OWVmMHZreEIwM3lNcnFIUENraEJkNHVYUERuTzBxazlwaXR4eG1lMVozeURzZG130gHiAUFVX3lxTE81SVhQNEN4LXpaek5FZjdqa091dDFhUVZxV1lmNkhtZktqUHJwRkZrTldBQ1VmZ0NxZ0NkUWhSS0R0S1NrT1lyaHQxa2xqTmFLeVp5SGVCSGFObTFhMk84M1plaTF2R21jeGc3cXdhNGhBUDdadmU3ZS1zNnBiTERvTTVWTUFkcDk3eFdsSVhCejlySWh2bFVVME53ekNqc19JWDdXYUhKLWFFQlR3NTg0VTk5ZWYwdmt4QjAzeU1ycUhQQ2toQmQ0dVhQRG5PMHFrOXBpdHh4bWUxWjN5RHNkbXc?oc=5",
+     "published": "Sun, 01 Nov 2026 10:42:22 GMT",
+     "source": "Simply Wall St"
+    },
+    {
+     "title": "Axiata Group Berhad (AXXTF) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYNFdnenhBb2JUOUJkZklpWlRmQ1B5M2F2R0U5cG54cGphbFl0R3plUm1Zakh0c2pxSEdhR3F4bW5aelFnUGdOUGlxaWJ3WU9jWERjRm5jbGhqdldOdS03Z09DVQ?oc=5",
+     "published": "Fri, 30 Oct 2026 21:00:00 GMT",
+     "source": "Yahoo! Finance Canada"
+    },
+    {
+     "title": "CFA Society Sri Lanka names Dialog Axiata as subject company for 2026/27 Research Challenge - Magzter",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSS1qWEJ4dldlN3R6OVpfZVlSRlc2MW1lZzBaVk83Y1NuQTV4N0l6ZVBhc0tiN1VJS2hnbDlHTEZoRW5abWYtSWFLR1FWekRLSFlZMUNHVDR2dTNObVdMT0w1YU9zYWVGTHVxQV85SlVyQzNtWUg3OEVmYlpaYlFmRk5UMGVWeERZdHlNYm5EX0N0aENWYm82RFU0S1E2bWpWdTBza3k0RzRiRnUwN1A4WlFGeU1tQ3JKdkNXU2hxMlVXYlM3RWE4UjlvQXczd2gwdmhuN2ZNaGk?oc=5",
+     "published": "Fri, 30 Oct 2026 04:18:42 GMT",
+     "source": "Magzter"
     }
    ]
   }

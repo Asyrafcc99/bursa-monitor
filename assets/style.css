@@ -35,7 +35,7 @@ main { display:grid; grid-template-columns:repeat(12,1fr); gap:12px; padding:0 1
 .sector-row { margin-bottom:10px; }
 .sector-row .lbl { font-size:12px; color:var(--muted); margin-bottom:4px; }
 .tiles { display:grid; grid-template-columns:repeat(auto-fill,minmax(104px,1fr)); gap:4px; }
-.tile { border-radius:6px; padding:8px 6px; text-align:center; cursor:pointer; color:#fff; border:0; }
+.tile { border-radius:6px; padding:8px 6px; text-align:center; cursor:pointer; color:#fff; border:0; text-shadow:0 1px 2px rgba(0,0,0,.35); }
 .tile .n { font-weight:700; font-size:12px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
 .tile .c { font-size:13px; }
 .tile:hover { outline:2px solid var(--fg); }

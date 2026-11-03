@@ -6,168 +6,250 @@
    "name": "KEYFIELD INTERNATIONAL BHD",
    "short": "Keyfield",
    "sector": "OIL & GAS",
-   "news_query": "\"Keyfield International\""
+   "news_query": "\"Keyfield International\"",
+   "match": [
+    "keyfield"
+   ]
   },
   {
    "code": "5255",
    "name": "LIANSON FLEET GROUP BHD",
    "short": "Lianson Fleet",
    "sector": "OIL & GAS",
-   "news_query": "\"Lianson Fleet\""
+   "news_query": "\"Lianson Fleet\"",
+   "match": [
+    "lianson"
+   ]
   },
   {
    "code": "5141",
    "name": "DAYANG ENTERPRISE HLDGS BHD",
    "short": "Dayang",
    "sector": "OIL & GAS",
-   "news_query": "\"Dayang Enterprise\""
+   "news_query": "\"Dayang Enterprise\"",
+   "match": [
+    "dayang"
+   ]
   },
   {
    "code": "5132",
    "name": "DELEUM BERHAD",
    "short": "Deleum",
    "sector": "OIL & GAS",
-   "news_query": "\"Deleum\""
+   "news_query": "\"Deleum\"",
+   "match": [
+    "deleum"
+   ]
   },
   {
    "code": "7277",
    "name": "DIALOG GROUP BHD",
    "short": "Dialog Group",
    "sector": "OIL & GAS",
-   "news_query": "\"Dialog Group\" Bursa"
+   "news_query": "\"Dialog Group\" Bursa",
+   "match": [
+    "dialog"
+   ]
   },
   {
    "code": "7293",
    "name": "YINSON HOLDINGS BHD",
    "short": "Yinson",
    "sector": "OIL & GAS",
-   "news_query": "\"Yinson\""
+   "news_query": "\"Yinson\"",
+   "match": [
+    "yinson"
+   ]
   },
   {
    "code": "5243",
    "name": "VELESTO ENERGY BHD",
    "short": "Velesto",
    "sector": "OIL & GAS",
-   "news_query": "\"Velesto\""
+   "news_query": "\"Velesto\"",
+   "match": [
+    "velesto"
+   ]
   },
   {
    "code": "5199",
    "name": "HIBISCUS PETROLEUM BHD",
    "short": "Hibiscus",
    "sector": "OIL & GAS",
-   "news_query": "\"Hibiscus Petroleum\""
+   "news_query": "\"Hibiscus Petroleum\"",
+   "match": [
+    "hibiscus"
+   ]
   },
   {
    "code": "5218",
    "name": "VANTRIS ENERGY BHD",
    "short": "Vantris Energy",
    "sector": "OIL & GAS",
-   "news_query": "\"Vantris Energy\""
+   "news_query": "\"Vantris Energy\"",
+   "match": [
+    "vantris"
+   ]
   },
   {
    "code": "5012",
    "name": "TA ANN HOLDINGS BERHAD",
    "short": "Ta Ann",
    "sector": "PLANTATION",
-   "news_query": "\"Ta Ann\""
+   "news_query": "\"Ta Ann\"",
+   "match": [
+    "ta ann"
+   ]
   },
   {
    "code": "5138",
    "name": "HAP SENG PLANTATIONS HLDGS",
    "short": "Hap Seng Plantations",
    "sector": "PLANTATION",
-   "news_query": "\"Hap Seng Plantations\""
+   "news_query": "\"Hap Seng Plantations\"",
+   "match": [
+    "hap seng plantations",
+    "hap seng plant"
+   ]
   },
   {
    "code": "5285",
    "name": "SD GUTHRIE BHD",
    "short": "SD Guthrie",
    "sector": "PLANTATION",
-   "news_query": "\"SD Guthrie\""
+   "news_query": "\"SD Guthrie\"",
+   "match": [
+    "sd guthrie",
+    "sime darby plantation"
+   ]
   },
   {
    "code": "2089",
    "name": "UNITED PLANTATIONS BHD",
    "short": "United Plantations",
    "sector": "PLANTATION",
-   "news_query": "\"United Plantations\""
+   "news_query": "\"United Plantations\"",
+   "match": [
+    "united plantation"
+   ]
   },
   {
    "code": "5323",
    "name": "JOHOR PLANTATIONS GROUP BHD",
    "short": "Johor Plantations",
    "sector": "PLANTATION",
-   "news_query": "\"Johor Plantations\""
+   "news_query": "\"Johor Plantations\"",
+   "match": [
+    "johor plantations"
+   ]
   },
   {
    "code": "1961",
    "name": "IOI CORP BHD",
    "short": "IOI Corp",
    "sector": "PLANTATION",
-   "news_query": "\"IOI Corp\""
+   "news_query": "\"IOI Corp\"",
+   "match": [
+    "ioi corp",
+    "ioi corporation",
+    " ioi "
+   ]
   },
   {
    "code": "2445",
    "name": "KUALA LUMPUR KEPONG BHD",
    "short": "KLK",
    "sector": "PLANTATION",
-   "news_query": "\"Kuala Lumpur Kepong\""
+   "news_query": "\"Kuala Lumpur Kepong\"",
+   "match": [
+    "klk",
+    "kuala lumpur kepong"
+   ]
   },
   {
    "code": "4383",
    "name": "JAYA TIASA HOLDINGS BHD",
    "short": "Jaya Tiasa",
    "sector": "PLANTATION",
-   "news_query": "\"Jaya Tiasa\""
+   "news_query": "\"Jaya Tiasa\"",
+   "match": [
+    "jaya tiasa"
+   ]
   },
   {
    "code": "5126",
    "name": "SARAWAK OIL PALMS BERHAD",
    "short": "Sarawak Oil Palms",
    "sector": "PLANTATION",
-   "news_query": "\"Sarawak Oil Palms\""
+   "news_query": "\"Sarawak Oil Palms\"",
+   "match": [
+    "sarawak oil palms",
+    "sop "
+   ]
   },
   {
    "code": "9059",
    "name": "TSH RESOURCES BHD",
    "short": "TSH Resources",
    "sector": "PLANTATION",
-   "news_query": "\"TSH Resources\""
+   "news_query": "\"TSH Resources\"",
+   "match": [
+    "tsh"
+   ]
   },
   {
    "code": "5031",
    "name": "TIME DOTCOM BHD",
    "short": "TIME dotCom",
    "sector": "TELECOMMUNICATION",
-   "news_query": "\"TIME dotCom\""
+   "news_query": "\"TIME dotCom\"",
+   "match": [
+    "time dotcom",
+    "timedotcom"
+   ]
   },
   {
    "code": "4863",
    "name": "TELEKOM MALAYSIA BHD",
    "short": "Telekom Malaysia",
    "sector": "TELECOMMUNICATION",
-   "news_query": "\"Telekom Malaysia\""
+   "news_query": "\"Telekom Malaysia\"",
+   "match": [
+    "telekom malaysia",
+    "tm ",
+    "tm's",
+    "unifi"
+   ]
   },
   {
    "code": "6012",
    "name": "MAXIS BHD",
    "short": "Maxis",
    "sector": "TELECOMMUNICATION",
-   "news_query": "\"Maxis\" Malaysia"
+   "news_query": "\"Maxis\" Malaysia",
+   "match": [
+    "maxis"
+   ]
   },
   {
    "code": "6947",
    "name": "CELCOMDIGI BHD",
    "short": "CelcomDigi",
    "sector": "TELECOMMUNICATION",
-   "news_query": "\"CelcomDigi\""
+   "news_query": "\"CelcomDigi\"",
+   "match": [
+    "celcomdigi"
+   ]
   },
   {
    "code": "6888",
    "name": "AXIATA GROUP BERHAD",
    "short": "Axiata",
    "sector": "TELECOMMUNICATION",
-   "news_query": "\"Axiata\""
+   "news_query": "\"Axiata\"",
+   "match": [
+    "axiata"
+   ]
   }
  ],
  "seconds_between_requests": 2,
@@ -176,5 +258,6 @@
   "volume_multiple": 2.0,
   "price_sigma": 2.0,
   "price_min_pct": 3.0
- }
+ },
+ "_news_note": "A headline is kept only if its title contains one of the stock's 'match' words (lower case). Yahoo Finance quote/chart pages are dropped."
 }

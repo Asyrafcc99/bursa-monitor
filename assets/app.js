@@ -37,7 +37,7 @@
     heat(c) {
       if (c == null) return "var(--flat)";
       const a = Math.min(Math.abs(c) / 3, 1);
-      return c > 0 ? `rgba(31,191,107,${0.25 + a * 0.75})` : c < 0 ? `rgba(240,79,85,${0.25 + a * 0.75})` : "var(--flat)";
+      return c > 0 ? `rgba(31,191,107,${0.35 + a * 0.65})` : c < 0 ? `rgba(240,79,85,${0.35 + a * 0.65})` : "var(--flat)";
     },
     // volume vs 20-day average, scaled to how much of the trading day has passed (same rule as alerts)
     pace(s) {

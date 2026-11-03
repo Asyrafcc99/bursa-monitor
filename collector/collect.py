@@ -81,12 +81,24 @@ def load(path, default):
         return default
 
 
-def google_news(query, limit):
+JUNK = ("seasonal returns chart", "stock price, news, quote", "stock quote", "stock forum", "company profile", "analyst ratings, stock forecast")
+
+
+def news_ok(title, source, match):
+    t = " " + (title or "").lower().replace("\u00ad", "") + " "
+    if (source or "").lower().startswith("yahoo") or any(j in t for j in JUNK):
+        return False
+    return not match or any(m in t for m in match)
+
+
+def google_news(query, limit, match=None):
     q = urllib.parse.quote(query)
     url = f"https://news.google.com/rss/search?q={q}+when:7d&hl=en-MY&gl=MY&ceid=MY:en"
     root = ET.fromstring(get(url))
     items = []
     for it in root.iter("item"):
+        if not news_ok(it.findtext("title"), it.findtext("source"), match):
+            continue
         items.append({
             "title": it.findtext("title"),
             "link": it.findtext("link"),
@@ -170,7 +182,7 @@ def main():
             row["quote"] = {"error": f"Price not available: {e}"}
         time.sleep(gap)
         try:
-            row["news"] = google_news(s["news_query"], cfg.get("news_items_per_stock", 5))
+            row["news"] = google_news(s["news_query"], cfg.get("news_items_per_stock", 5), s.get("match"))
         except Exception as e:
             row["news"] = []
             row["news_error"] = f"News not available: {e}"
@@ -179,6 +191,9 @@ def main():
         AL.check_news(s, row["news"], now, state, new_alerts)
         out["stocks"].append(row)
     send_telegram(state=state, new_alerts=new_alerts or ([{"type": "Test", "text": f"Telegram is connected. No new alerts at {out['collected_at_kl']}."}] if force else []))
+    match = {x["code"]: x.get("match") for x in cfg["stocks"]}
+    alerts_list = [a for a in alerts_list if a["type"] != "News" or
+                   news_ok(a["text"].split(": ", 1)[-1].rsplit(" - ", 1)[0], a["text"].rsplit(" - ", 1)[-1], match.get(a["code"]))]
     alerts_list = AL.prune(state, alerts_list + new_alerts, now)
     (data / "latest.json").write_text(json.dumps(out, indent=1, ensure_ascii=False))
     (data / "daily_stats.json").write_text(json.dumps(stats_all, indent=1))

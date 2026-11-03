@@ -30,7 +30,7 @@ window.PANELS = [
       return sectors.map(sec => `<div class="sector-row"><div class="lbl">${BM.esc(sec)}</div><div class="tiles">` +
         ctx.stocks.filter(s => s.sector === sec).map(s => {
           const c = s.quote && !s.quote.error ? s.quote.change_pct : null;
-          return `<button class="tile" data-stock="${s.code}" style="background:${BM.heat(c)}" title="${BM.esc(s.name)}">
+          return `<button class="tile" data-stock="${s.code}" style="background:${BM.heat(c)};color:${c != null && Math.abs(c) < 1.2 && c !== 0 ? "var(--fg)" : "#fff"}" title="${BM.esc(s.name)}">
             <div class="n">${BM.esc(s.short)}</div><div class="c">${c == null ? "n/a" : BM.pct(c)}</div></button>`;
         }).join("") + `</div></div>`).join("");
     }

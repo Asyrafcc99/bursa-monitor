@@ -91,16 +91,19 @@ def google_news(query, limit):
     return items
 
 
-def send_telegram(new_alerts):
+def send_telegram(new_alerts, state):
     """Send new alerts to Telegram. Needs GitHub secrets TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID; skips quietly if absent."""
     token, chat = os.environ.get("TELEGRAM_BOT_TOKEN"), os.environ.get("TELEGRAM_CHAT_ID")
     if not token or not new_alerts:
         return
+    chat = chat or state.get("telegram_chat")  # remembered from an earlier run
     if not chat:  # no chat ID secret: use whoever last messaged the bot
         try:
             ups = json.loads(urllib.request.urlopen(f"https://api.telegram.org/bot{token}/getUpdates", timeout=20).read())["result"]
             chats = [u["message"]["chat"]["id"] for u in ups if "message" in u and u["message"]["chat"]["type"] == "private"]
             chat = str(chats[-1]) if chats else None
+            if chat:
+                state["telegram_chat"] = chat  # Telegram only keeps updates ~24h, so remember it
         except Exception as e:
             print(f"Telegram getUpdates failed: {type(e).__name__}")
         if not chat:
@@ -163,7 +166,7 @@ def main():
         AL.check(s, row["quote"], None if "error" in st else st, now, acfg, state, new_alerts)
         AL.check_news(s, row["news"], now, state, new_alerts)
         out["stocks"].append(row)
-    send_telegram(new_alerts or ([{"type": "Test", "text": f"Telegram is connected. No new alerts at {out['collected_at_kl']}."}] if force else []))
+    send_telegram(state=state, new_alerts=new_alerts or ([{"type": "Test", "text": f"Telegram is connected. No new alerts at {out['collected_at_kl']}."}] if force else []))
     alerts_list = AL.prune(state, alerts_list + new_alerts, now)
     (data / "latest.json").write_text(json.dumps(out, indent=1, ensure_ascii=False))
     (data / "daily_stats.json").write_text(json.dumps(stats_all, indent=1))

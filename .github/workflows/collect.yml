@@ -26,6 +26,9 @@ jobs:
         with:
           python-version: "3.12"
       - name: Collect
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             python collector/collect.py --force

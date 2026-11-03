@@ -3,7 +3,7 @@
 Writes data/latest.json. Uses only Python's standard library (nothing to install).
 Never invents data: if a source fails, the stock gets an "error" field instead of numbers.
 """
-import json, sys, time, urllib.request, urllib.parse
+import json, os, sys, time, urllib.request, urllib.parse
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
@@ -91,6 +91,22 @@ def google_news(query, limit):
     return items
 
 
+def send_telegram(new_alerts):
+    """Send new alerts to Telegram. Needs GitHub secrets TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID; skips quietly if absent."""
+    token, chat = os.environ.get("TELEGRAM_BOT_TOKEN"), os.environ.get("TELEGRAM_CHAT_ID")
+    if not token or not chat or not new_alerts:
+        return
+    lines = [f"[{a['type']}] {a['text']}" + (f"\n{a['link']}" if a.get("link") else "") for a in new_alerts]
+    lines.append("(Yahoo data delayed ~15 min. Research only, not advice.)")
+    text = "Bursa Monitor alerts\n\n" + "\n\n".join(lines)
+    for i in range(0, len(text), 3900):  # Telegram limit is 4096 chars per message
+        body = urllib.parse.urlencode({"chat_id": chat, "text": text[i:i + 3900], "disable_web_page_preview": "true"}).encode()
+        try:
+            urllib.request.urlopen(f"https://api.telegram.org/bot{token}/sendMessage", body, timeout=20).read()
+        except Exception as e:
+            print(f"Telegram send failed: {type(e).__name__}")  # never print the token
+
+
 def main():
     force = "--force" in sys.argv
     now = datetime.now(KL)
@@ -137,6 +153,7 @@ def main():
         AL.check(s, row["quote"], None if "error" in st else st, now, acfg, state, new_alerts)
         AL.check_news(s, row["news"], now, state, new_alerts)
         out["stocks"].append(row)
+    send_telegram(new_alerts)
     alerts_list = AL.prune(state, alerts_list + new_alerts, now)
     (data / "latest.json").write_text(json.dumps(out, indent=1, ensure_ascii=False))
     (data / "daily_stats.json").write_text(json.dumps(stats_all, indent=1))

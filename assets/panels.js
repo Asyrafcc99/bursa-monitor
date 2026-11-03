@@ -23,7 +23,7 @@ window.PANELS = [
     }
   },
   {
-    id: "heatmap", title: "Heatmap by sector (tap a tile, or a sector name for its page)", width: 8,
+    id: "heatmap", title: "Heatmap by sector (tap a tile to open the company in a new tab)", width: 8,
     render(ctx) {
       const sectors = [...new Set(ctx.stocks.map(s => s.sector))];
       if (!sectors.length) return `<div class="small">No stocks match the filter.</div>`;
@@ -70,7 +70,7 @@ window.PANELS = [
           const q = s.quote || {};
           if (q.error) return `<tr data-stock="${s.code}"><td>${s.code}</td><td>${BM.esc(s.short)}</td><td colspan="6" class="warn">${BM.esc(q.error)}</td></tr>`;
           const p = BM.pace(s);
-          return `<tr data-stock="${s.code}"><td>${s.code}</td><td><a href="company.html?code=${s.code}">${BM.esc(s.short)}</a></td><td>${q.price.toFixed(3)}</td>
+          return `<tr data-stock="${s.code}"><td>${s.code}</td><td><a href="company.html?code=${s.code}" target="_blank" rel="noopener">${BM.esc(s.short)}</a></td><td>${q.price.toFixed(3)}</td>
             <td class="${BM.cls(q.change_pct)}">${BM.pct(q.change_pct)}</td><td>${BM.num(q.volume)}</td>
             <td>${p == null ? "–" : p.toFixed(1) + "x"}</td><td>${BM.spark(q.spark, q.prev_close)}</td><td class="small">${BM.t(q.price_time_kl)}</td></tr>`;
         }).join("") + `</tbody></table></div>`;

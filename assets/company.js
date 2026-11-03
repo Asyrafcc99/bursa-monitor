@@ -89,7 +89,7 @@
     const peers = all.data.stocks.filter(x => x.sector === s.sector);
     document.getElementById("peers").innerHTML = `<h2><span>${esc(s.sector)} peers in my coverage</span><a href="sector.html?s=${encodeURIComponent(s.sector)}">Sector page →</a></h2><div class="tablewrap"><table><thead><tr><th>Code</th><th>Name</th><th>Price (RM)</th><th>Change</th><th>Vol vs normal</th><th>Today</th></tr></thead><tbody>` +
       peers.map(x => { const q = x.quote || {}; const p = BM.pace(x);
-        return `<tr onclick="location.href='company.html?code=${x.code}'" style="${x.code === code ? "font-weight:700" : ""}"><td>${x.code}</td><td><a href="company.html?code=${x.code}">${esc(x.short)}</a></td>` +
+        return `<tr onclick="window.open('company.html?code=${x.code}','_blank')" style="${x.code === code ? "font-weight:700" : ""}"><td>${x.code}</td><td><a href="company.html?code=${x.code}" target="_blank" rel="noopener">${esc(x.short)}</a></td>` +
           (q.error ? `<td colspan="4" class="warn">${esc(q.error)}</td>` : `<td>${q.price.toFixed(3)}</td><td class="${BM.cls(q.change_pct)}">${BM.pct(q.change_pct)}</td><td>${p == null ? "–" : p.toFixed(1) + "x"}</td><td>${BM.spark(q.spark, q.prev_close)}</td>`) + `</tr>`; }).join("") +
       `</tbody></table></div>`;
     document.getElementById("jump").innerHTML = all.data.stocks.map(x => `<option value="${x.code}" ${x.code === code ? "selected" : ""}>${x.code} ${esc(x.short)}</option>`).join("");

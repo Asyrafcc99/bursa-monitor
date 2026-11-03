@@ -107,7 +107,7 @@
     const mx = Math.max(...rs.map(r => Math.abs(r.r)), 1);
     document.getElementById("rankNote").textContent = range + " return";
     document.getElementById("ranking").innerHTML = `<div class="rank">` + rs.map(r => `<div class="row"><div>
-      <div class="lab"><a href="company.html?code=${r.s.code}">${esc(r.s.short)}</a><span class="${BM.cls(r.r)}">${BM.pct(r.r)}</span></div>
+      <div class="lab"><a href="company.html?code=${r.s.code}" target="_blank" rel="noopener">${esc(r.s.short)}</a><span class="${BM.cls(r.r)}">${BM.pct(r.r)}</span></div>
       <div class="bar" style="width:${Math.abs(r.r) / mx * 100}%;background:${r.r >= 0 ? "var(--up)" : "var(--down)"}"></div></div>
       <div>${BM.spark(r.q.spark, r.q.prev_close, 70, 20)}</div></div>`).join("") + `</div>`;
   }
@@ -117,7 +117,7 @@
     const rs = rows().sort((a, b) => { const x = val(a, sort.key), y = val(b, sort.key); if (x == null) return 1; if (y == null) return -1; return (x > y ? 1 : x < y ? -1 : 0) * sort.dir; });
     const p = v => `<td class="${BM.cls(v)}">${BM.pct(v)}</td>`;
     document.getElementById("members").innerHTML = `<div class="tablewrap"><table><thead><tr>${cols.map(c => `<th data-sort="${c[0]}">${c[1]}${sort.key === c[0] ? (sort.dir > 0 ? " ▲" : " ▼") : ""}</th>`).join("")}</tr></thead><tbody>` +
-      rs.map(r => `<tr><td>${r.s.code}</td><td><a href="company.html?code=${r.s.code}">${esc(r.s.short)}</a></td>` +
+      rs.map(r => `<tr><td>${r.s.code}</td><td><a href="company.html?code=${r.s.code}" target="_blank" rel="noopener">${esc(r.s.short)}</a></td>` +
         (r.q.error ? `<td colspan="10" class="warn">${esc(r.q.error)}</td>` :
         `<td>${r.price.toFixed(3)}</td>${p(r.chg)}${p(r.w1)}${p(r.m1)}${p(r.m3)}${p(r.m6)}${p(r.ytd)}${p(r.y1)}${p(r.hi)}<td>${r.pace == null ? "–" : r.pace.toFixed(1) + "x"}</td>`) + `</tr>`).join("") +
       `</tbody></table></div>`;
@@ -139,10 +139,10 @@
         <div class="kpi"><div class="small">Alerts today</div><div class="v">${al.filter(a => a.time_kl.startsWith(BM.todayKL())).length}</div></div>
       </div>`;
     document.getElementById("tiles").innerHTML = members.map(s => { const c = s.quote && !s.quote.error ? s.quote.change_pct : null;
-      return `<a class="tile" href="company.html?code=${s.code}" style="text-decoration:none;background:${BM.heat(c)};color:${c != null && Math.abs(c) < 1.2 && c !== 0 ? "var(--fg)" : "#fff"}"><div class="n">${esc(s.short)}</div><div class="c">${c == null ? "n/a" : BM.pct(c)}</div></a>`; }).join("");
+      return `<a class="tile" href="company.html?code=${s.code}" target="_blank" rel="noopener" style="text-decoration:none;background:${BM.heat(c)};color:${c != null && Math.abs(c) < 1.2 && c !== 0 ? "var(--fg)" : "#fff"}"><div class="n">${esc(s.short)}</div><div class="c">${c == null ? "n/a" : BM.pct(c)}</div></a>`; }).join("");
     document.getElementById("alerts").innerHTML = al.length ? `<div class="feed">${al.map(a => `<div class="item"><span class="tag ${a.type}">${a.type}</span>${BM.tagHtml(a.tags)}${a.link ? `<a href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.text)}</a>` : esc(a.text)}<div class="small">${BM.t(a.time_kl, true)}</div></div>`).join("")}</div>` : '<div class="small">None in the last 5 days.</div>';
     const nw = all.news.filter(n => codes.has(n.code));
-    document.getElementById("news").innerHTML = nw.length ? `<div class="feed">${nw.slice(0, 40).map(n => `<div class="item">${BM.tagHtml(n.tags)}<a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a><div class="small"><a href="company.html?code=${n.code}">${esc(n.short)}</a> · ${esc(n.source || "")} · ${n.date ? BM.ago(n.date) : ""}</div></div>`).join("")}</div>` : '<div class="small">No headlines in the last 7 days.</div>';
+    document.getElementById("news").innerHTML = nw.length ? `<div class="feed">${nw.slice(0, 40).map(n => `<div class="item">${BM.tagHtml(n.tags)}<a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a><div class="small"><a href="company.html?code=${n.code}" target="_blank" rel="noopener">${esc(n.short)}</a> · ${esc(n.source || "")} · ${n.date ? BM.ago(n.date) : ""}</div></div>`).join("")}</div>` : '<div class="small">No headlines in the last 7 days.</div>';
     const secs = [...new Set(all.data.stocks.map(s => s.sector))];
     document.getElementById("jump").innerHTML = secs.map(x => `<option value="${esc(x)}" ${x === sector ? "selected" : ""}>${esc(x)}</option>`).join("");
   }

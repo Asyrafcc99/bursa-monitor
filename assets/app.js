@@ -57,7 +57,7 @@
     document.getElementById("drawer").innerHTML = `
       <div class="head"><div><div class="small">${esc(s.sector)} · ${s.code}</div><h2 style="margin:2px 0">${esc(s.name)}</h2></div>
         <button data-action="close">✕</button></div>
-      <p><a href="company.html?code=${s.code}"><b>Open full company page →</b></a> (zoomable chart, 2-year history, returns, peers)</p>
+      <p><a href="company.html?code=${s.code}" target="_blank" rel="noopener"><b>Open full company page →</b></a> (zoomable chart, 2-year history, returns, peers)</p>
       ${q.error ? `<p class="warn">${esc(q.error)}</p>` : `
       <div class="big">RM ${q.price.toFixed(3)} <span class="${BM.cls(q.change_pct)}" style="font-size:18px">${BM.pct(q.change_pct)}</span></div>
       <div class="small">As of ${BM.t(q.price_time_kl, true)} KL · ${esc(q.delayed)} (${esc(q.source)})</div>
@@ -99,7 +99,7 @@
     if (!el || e.target.closest("a")) return;
     const ds = el.dataset;
     if (ds.newstag !== undefined) { BM.newsTag = ds.newstag; render(); }
-    else if (ds.stock) openStock(ds.stock);
+    else if (ds.stock) window.open("company.html?code=" + encodeURIComponent(ds.stock), "_blank", "noopener");
     else if (ds.sector) { state.sector = ds.sector; LS.set("sector", ds.sector); render(); }
     else if (ds.sort !== undefined) {
       if (!ds.sort) return;

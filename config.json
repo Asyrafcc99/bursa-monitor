@@ -171,5 +171,10 @@
   }
  ],
  "seconds_between_requests": 2,
- "news_items_per_stock": 5
+ "news_items_per_stock": 5,
+ "alerts": {
+  "volume_multiple": 2.0,
+  "price_sigma": 2.0,
+  "price_min_pct": 3.0
+ }
 }

@@ -21,13 +21,17 @@
   .up { color:var(--up); } .down { color:var(--down); }
   .small { color:var(--muted); font-size:12px; }
   ul { margin:8px 0 0; padding-left:18px; }
-  li.new { background:var(--new); }
+  li.new, .alert.new { background:var(--new); }
+  .alert { padding:4px 6px; border-bottom:1px solid var(--line); }
+  .tag { display:inline-block; min-width:52px; font-size:11px; font-weight:700; color:var(--muted); }
+  #alerts h2 { margin-top:0; }
   a { color:inherit; }
 </style>
 </head>
 <body>
 <h1>Bursa Monitor</h1>
 <div class="meta" id="meta">Loading…</div>
+<div id="alerts"></div>
 <div id="list"></div>
 <p class="small">Personal research tool. Not financial advice. Prices from Yahoo Finance, delayed about 15 minutes. News from Google News.</p>
 <script>
@@ -69,11 +73,27 @@ fetch("data/latest.json?t=" + Date.now()).then(r => {
       ? '<details' + (newCount ? " open" : "") + '><summary>News (' + (s.news || []).length + (newCount ? ", " + newCount + " new" : "") + ')</summary><ul>' + news + '</ul></details>'
       : '<div class="small">' + esc(s.news_error || "No news in the last 7 days.") + "</div>";
     return '<div class="card"><div class="top"><span class="name">' + esc(s.short) + " (" + esc(s.code) + ')</span>' + priceHtml + "</div>" +
-      '<div class="small"><a href="' + esc(s.klsescreener_url) + '" target="_blank" rel="noopener">Open in KLSE Screener</a></div>' + newsBlock + "</div>";
+      '<div class="small">' + (s.stats && !s.stats.error ? "20-day avg vol " + fmt(s.stats.avg_volume_20d) + " · normal daily move ±" + s.stats.daily_move_sd_pct + "% · " : "") + '<a href="' + esc(s.klsescreener_url) + '" target="_blank" rel="noopener">Open in KLSE Screener</a></div>' + newsBlock + "</div>";
   }).join("")).join("");
   try { localStorage.setItem("seenNews", JSON.stringify([...new Set([...seen, ...nowSeen])].slice(-500))); } catch (e) {}
 }).catch(e => {
   document.getElementById("meta").innerHTML = '<span class="warn">No data yet: ' + esc(e.message) + "</span>";
+});
+
+let lastVisit = "";
+try { lastVisit = localStorage.getItem("lastAlertVisit") || ""; } catch (e) {}
+fetch("data/alerts.json?t=" + Date.now()).then(r => r.ok ? r.json() : null).then(a => {
+  const el = document.getElementById("alerts");
+  if (!a) { el.innerHTML = '<div class="small">No alerts file yet.</div>'; return; }
+  const items = a.alerts || [];
+  const r = a.rules || {};
+  el.innerHTML = '<div class="card"><h2>ALERTS (last 5 days)</h2>' +
+    (items.length ? items.map(x => '<div class="alert' + (lastVisit && x.time_kl > lastVisit ? " new" : "") + '"><span class="tag">' + esc(x.type) + '</span> ' +
+      (x.link ? '<a href="' + esc(x.link) + '" target="_blank" rel="noopener">' + esc(x.text) + '</a>' : esc(x.text)) +
+      ' <span class="small">' + esc(x.time_kl.replace("T", " ")) + '</span></div>').join("") : '<div class="small">No alerts yet.</div>') +
+    '<div class="small" style="margin-top:6px">Rules: volume ≥ ' + r.volume_multiple + 'x normal pace (after first 30 min) · price move ≥ ' + r.price_sigma +
+    'x normal daily move and ≥ ' + r.price_min_pct + '% · any new headline. Based on delayed Yahoo data.</div></div>';
+  try { if (items.length) localStorage.setItem("lastAlertVisit", items[0].time_kl); } catch (e) {}
 });
 </script>
 </body>

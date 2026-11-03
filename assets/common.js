@@ -19,7 +19,7 @@
     sort: LS.get("sort", { key: "chg", dir: -1 }),
     newsLimit: 25,
     num: n => n == null ? "–" : Number(n).toLocaleString("en-MY"),
-    pct: n => n == null || isNaN(n) ? "–" : (n > 0 ? "+" : "") + Number(n).toFixed(2) + "%",
+    pct: n => { if (n == null || isNaN(n)) return "–"; const r = Math.round(n * 100) / 100; return (r > 0 ? "+" : "") + (r === 0 ? 0 : r).toFixed(2) + "%"; },
     cls: n => n > 0 ? "up" : n < 0 ? "down" : "",
     todayKL: () => klNow().toISOString().slice(0, 10),
     t(iso, withDate) {

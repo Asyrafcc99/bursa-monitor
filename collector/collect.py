@@ -48,7 +48,11 @@ def yahoo_price(code, symbol=None):
     prev = meta.get("chartPreviousClose") or meta.get("previousClose")
     if price is None or prev in (None, 0):
         raise ValueError("Yahoo returned no price")
-    closes = [c for c in (res.get("indicators", {}).get("quote", [{}])[0].get("close") or []) if c is not None]
+    qd = res.get("indicators", {}).get("quote", [{}])[0]
+    bars = [[ts, o, h, l, c, v] for ts, o, h, l, c, v in zip(res.get("timestamp") or [], qd.get("open") or [], qd.get("high") or [],
+                                                         qd.get("low") or [], qd.get("close") or [], qd.get("volume") or [])
+            if c is not None and o is not None]
+    closes = [b[4] for b in bars]
     step = max(1, len(closes) // 40)
     return {
         "price": price,
@@ -62,16 +66,30 @@ def yahoo_price(code, symbol=None):
         "spark": [round(c, 4) for c in closes[::step]] + ([round(closes[-1], 4)] if closes and (len(closes) - 1) % step else []),
         "source": "Yahoo Finance",
         "delayed": "Delayed about 15 min",
+        "_bars": bars,
     }
 
 
 def yahoo_daily(code):
-    """About 3 months of daily bars (oldest first)."""
-    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{code}.KL?interval=1d&range=3mo"
+    """About 2 years of daily bars (oldest first)."""
+    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{code}.KL?interval=1d&range=2y"
     r = json.loads(get(url))["chart"]["result"][0]
     q = r["indicators"]["quote"][0]
-    return [{"date": datetime.fromtimestamp(ts, KL).strftime("%Y-%m-%d"), "close": c, "volume": v}
-            for ts, c, v in zip(r.get("timestamp", []), q["close"], q["volume"])]
+    return [{"date": datetime.fromtimestamp(ts, KL).strftime("%Y-%m-%d"), "open": o, "high": h, "low": l, "close": c, "volume": v}
+            for ts, o, h, l, c, v in zip(r.get("timestamp", []), q["open"], q["high"], q["low"], q["close"], q["volume"])
+            if c is not None]
+
+
+def save_intraday(hist_dir, code, bars, keep_days=10):
+    """Merge today's 5-minute bars into history/<code>_5m.json, keeping the last few trading days."""
+    f = hist_dir / f"{code}_5m.json"
+    old = load(f, {"bars": []})["bars"]
+    merged = {b[0]: b for b in old}
+    merged.update({b[0]: [b[0]] + [round(x, 4) if isinstance(x, float) else x for x in b[1:]] for b in bars})
+    rows = sorted(merged.values())
+    days = sorted({datetime.fromtimestamp(b[0], KL).strftime("%Y-%m-%d") for b in rows})[-keep_days:]
+    rows = [b for b in rows if datetime.fromtimestamp(b[0], KL).strftime("%Y-%m-%d") in days]
+    f.write_text(json.dumps({"code": code, "tz": "UTC timestamps; add 8h for KL", "source": "Yahoo Finance 5-minute, delayed ~15 min", "bars": rows}, separators=(",", ":")))
 
 
 def load(path, default):
@@ -150,6 +168,8 @@ def main():
     gap = cfg.get("seconds_between_requests", 3)
     data = ROOT / "data"
     data.mkdir(exist_ok=True)
+    hist = data / "history"
+    hist.mkdir(exist_ok=True)
     today = now.strftime("%Y-%m-%d")
     stats_all = load(data / "daily_stats.json", {})
     state = load(data / "state.json", {})
@@ -157,7 +177,9 @@ def main():
     new_alerts = []
     out = {"collected_at_kl": now.isoformat(timespec="minutes"), "stocks": []}
     try:
-        out["index"] = {"name": "FBM KLCI", **yahoo_price(None, "^KLSE")}
+        ix = yahoo_price(None, "^KLSE")
+        ix.pop("_bars", None)
+        out["index"] = {"name": "FBM KLCI", **ix}
     except Exception as e:
         out["index"] = {"name": "FBM KLCI", "error": f"Index not available: {e}"}
     time.sleep(gap)
@@ -167,9 +189,11 @@ def main():
         row["klsescreener_url"] = f"https://www.klsescreener.com/v2/stocks/view/{code}"
         # daily history: once per day per stock
         st = stats_all.get(code)
-        if not st or st.get("as_of") != today:
+        if not st or st.get("as_of") != today or not (hist / f"{code}_1d.json").exists():
             try:
-                st = AL.daily_stats(yahoo_daily(code), today) or {"error": "Not enough history"}
+                daily = yahoo_daily(code)
+                (hist / f"{code}_1d.json").write_text(json.dumps({"code": code, "source": "Yahoo Finance daily", "as_of": today, "bars": daily}, separators=(",", ":")))
+                st = AL.daily_stats(daily, today) or {"error": "Not enough history"}
             except Exception as e:
                 st = {"error": f"History not available: {e}"}
             st["as_of"] = today
@@ -178,6 +202,7 @@ def main():
         row["stats"] = st
         try:
             row["quote"] = yahoo_price(code)
+            save_intraday(hist, code, row["quote"].pop("_bars"))
         except Exception as e:
             row["quote"] = {"error": f"Price not available: {e}"}
         time.sleep(gap)

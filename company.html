@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Company · Bursa Monitor</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="./" style="color:inherit">← Bursa Monitor</a>
+  <div class="status" id="status">Loading…</div>
+  <div class="actions"><select id="jump" aria-label="Go to stock"></select></div>
+</header>
+<main id="page">
+  <section class="panel" id="hero"></section>
+  <section class="panel w8">
+    <h2><span>Price chart</span><span class="small" id="chartNote"></span></h2>
+    <div class="toolbar" id="ranges"></div>
+    <div class="toolbar">
+      <label><input type="checkbox" id="sma20" checked> 20-day avg</label>
+      <label><input type="checkbox" id="sma50"> 50-day avg</label>
+      <label><input type="checkbox" id="vol" checked> Volume</label>
+      <label><input type="checkbox" id="line"> Line instead of candles</label>
+    </div>
+    <div id="chart" class="chartbox"></div>
+    <div class="small" id="legend"></div>
+  </section>
+  <section class="panel w4" id="stats"></section>
+  <section class="panel w6"><h2>Alerts (last 5 days)</h2><div id="alerts"></div></section>
+  <section class="panel w6"><h2>News</h2><div id="news"></div></section>
+  <section class="panel" id="peers"></section>
+</main>
+<footer>Personal research tool, not financial advice. Prices: Yahoo Finance, delayed about 15 minutes. Charts by <a href="https://www.tradingview.com/" target="_blank" rel="noopener">TradingView Lightweight Charts</a> (Apache 2.0).</footer>
+<script src="assets/vendor/lightweight-charts-4.2.3.js"></script>
+<script src="assets/common.js"></script>
+<script src="assets/company.js"></script>
+</body>
+</html>

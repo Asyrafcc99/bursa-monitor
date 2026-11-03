@@ -51,7 +51,7 @@ window.PANELS = [
     }
   },
   {
-    id: "table", title: "All stocks (click a column to sort)", width: 12,
+    id: "table", title: "All stocks (click a column to sort, a name for its full page)", width: 12,
     render(ctx) {
       const cols = [
         ["code", "Code", s => s.code], ["short", "Name", s => s.short],
@@ -70,7 +70,7 @@ window.PANELS = [
           const q = s.quote || {};
           if (q.error) return `<tr data-stock="${s.code}"><td>${s.code}</td><td>${BM.esc(s.short)}</td><td colspan="6" class="warn">${BM.esc(q.error)}</td></tr>`;
           const p = BM.pace(s);
-          return `<tr data-stock="${s.code}"><td>${s.code}</td><td>${BM.esc(s.short)}</td><td>${q.price.toFixed(3)}</td>
+          return `<tr data-stock="${s.code}"><td>${s.code}</td><td><a href="company.html?code=${s.code}">${BM.esc(s.short)}</a></td><td>${q.price.toFixed(3)}</td>
             <td class="${BM.cls(q.change_pct)}">${BM.pct(q.change_pct)}</td><td>${BM.num(q.volume)}</td>
             <td>${p == null ? "–" : p.toFixed(1) + "x"}</td><td>${BM.spark(q.spark, q.prev_close)}</td><td class="small">${BM.t(q.price_time_kl)}</td></tr>`;
         }).join("") + `</tbody></table></div>`;

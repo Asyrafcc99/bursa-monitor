@@ -1,0 +1,140 @@
+{
+ "collected_at_kl": "2026-11-03T16:20+08:00",
+ "stocks": [
+  {
+   "code": "5031",
+   "name": "TIME DOTCOM BHD",
+   "short": "TIME dotCom",
+   "sector": "TELECOMMUNICATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5031",
+   "quote": {
+    "price": 5.44,
+    "prev_close": 5.44,
+    "change_pct": 0.0,
+    "volume": 1395000,
+    "price_time_kl": "2026-11-03T16:05+08:00",
+    "currency": "MYR",
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "Stock Picks: TIME dotCom And Sime Darby - BusinessToday Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQS16LUpRb05WV0p0ZkR4RGN5eGZzOE56ZVo0bzhMRDdUYTI5ZFdJTWNoNnJlaWhwUHM2MkFqQXl4VnVoT3puRVVqQ085eFZBeklFZWYzUFY1TmNDUmgtZkhXbVNfckZBNHdMUURIUVBzMzVfd1lqd3lWc2hma05TU1BBYWZhT2wzQjFB?oc=5",
+     "published": "Tue, 03 Nov 2026 00:07:09 GMT",
+     "source": "BusinessToday Malaysia"
+    },
+    {
+     "title": "Blueprint: MCMC targets 15 million devices managed sustainably under voluntary road map - KLSE Screener",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdUFfUmZOWVBuR0hfS3ZvOTV6cXY4Q3czT3RTcUJDQVRLVS1KbVJTWElnanU1cDdLWVd2TjNtb2xJVE9JOTJCWFRFTnRLYWdpUlRrWkZIY1djTVpyczRNbnljNi04R3I0MGg2NWFnWERkRmVuTVp4d0dSVTMzcWl0T2JQRjFJQUo2bEdodHBJQWtRdnB4TjBhRExwNl9xaVhJT0p0UGtfczlaXy1WaEo1WURRV0o5VTB4Y1ctYW13dXJaLWlXLTE0ZjB2dTF6NEpMOVE?oc=5",
+     "published": "Wed, 28 Oct 2026 16:20:08 GMT",
+     "source": "KLSE Screener"
+    },
+    {
+     "title": "Maxis-U Mobile Merger Talks Resurface, Lower Valuation Could Pave Way For Deal - BusinessToday Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbXM5LW5sbWQ5MGYzd3lqWFZocXpVYXlrc2lDZWkyQ3FIWWhDQ243UXh6X3FzWnY1Ykd3bWZDQ3Jsb2xEUThOeGxfOFE4LVRQMTQyTUZpdEVyWk5mTVd1NTBGNXlZREh4RkpJVG9URWlqaDVWR3NmZXRjem1RbVBQeGE5c0J5ZXloejR4aGxEcnAtdU5OTUoycTY0MXB6QXgwN0VXOUlKeW85Z0dnTEZwNGF0cmZ2cmFQRlB4MDFzNA?oc=5",
+     "published": "Thu, 29 Oct 2026 14:40:27 GMT",
+     "source": "BusinessToday Malaysia"
+    }
+   ]
+  },
+  {
+   "code": "5285",
+   "name": "SD GUTHRIE BHD",
+   "short": "SD Guthrie",
+   "sector": "PLANTATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5285",
+   "quote": {
+    "price": 5.96,
+    "prev_close": 5.84,
+    "change_pct": 2.05,
+    "volume": 3922100,
+    "price_time_kl": "2026-11-03T16:05+08:00",
+    "currency": "MYR",
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "SD Guthrie, Bumi Assets and YTL Power partner to advance strategic development in Selangor - The Star",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa2tGRnA1MTVTQ29ZYWtWZmhyaVNMczRpVFVWclNDcGItYnp1OXlqbG1NTWNZSE9QbGVVdmgtZG5rRWZTemRfaUZBOUM5SEhVWmM0Vk00V0pWWmItUE9kY2pDSkM0V19FVGVGQVA4OFJkOUZFeVhRcGx3NVp6bzdIZVc4ZzJObmRYcWRTZkkxODgtQ0VqclI4U0xtYXMzWnRDOXA1VWtTb3hRMDRaMGtpcUEwdnYyZ1h6OHJ5aWlHMGNVVEtOcm9rS0VmZC1xenlnV3lKTzdnWDB6ekM4TFBRNXhEc1Y?oc=5",
+     "published": "Thu, 29 Oct 2026 10:55:00 GMT",
+     "source": "The Star"
+    },
+    {
+     "title": "SD Guthrie to join hands with YTL Power, Bumi Assets to develop 1,623-acre Klang industrial park - The Edge Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFNDRDbFFJY3JGWG8zWVNBN29HcExXMThwTGJ6RVNwMENDNVFiRjIxWFNCWVNXem9PS2tmT3U0VXRLSFU1QUpHbVljOEFjQmRs?oc=5",
+     "published": "Thu, 29 Oct 2026 11:14:37 GMT",
+     "source": "The Edge Malaysia"
+    },
+    {
+     "title": "CIMB Securities upgrades SD Guthrie to 'Buy' after 17pct share price correction - NST Online",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORHZIYTJCeGxVOFZ6V3BkaE1ueHdTR01xWlJHZExQZmxvWFM1cmVsMUVNX0M4T0dpY0N6QU1UYV9FTzlJS21RRHpSYm5nYTk3YklqT2czQ1YxTHloSnMzbHpZcjVsM0NBRGc5TldIMzdrakE4VEhpZ01jM256RTk3LTM0ZUJPR3pvTF9UWEYtSmFTUWFMQnRmdEVCbno3X3VGSHpNV0dyUjh0UjNpVTM5eHVKaXdiR1hlT0FXeXBB0gHDAUFVX3lxTE8yODkzZU9fQjJiS19NbWh4MTRSRkZXV3JxQ01qcTAwemJiZ2wwNUdiMDBrOFFtOVVvbmtvNkd4ZzF6a2xRRWtGSE9tVENIelRpZ2ZUb3g2dkpnekRrX2dJTGVSSjJ2enNNc0xubm1taTBfazFFUEdLWUJWbmhuYkdFRWZWVWw2cnlBcXVkUkg0TFl6YzBDYnFxSXhFNUctT2ZKdGxKNldLSmxDZkQ1RWFCNl9UdkJMaVdENFZscGlObVI5bw?oc=5",
+     "published": "Thu, 29 Oct 2026 03:24:57 GMT",
+     "source": "NST Online"
+    },
+    {
+     "title": "SD Guthrie unlocks land value - The Malaysian Reserve",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDcVp3SUViS3dIU0wtNk1NNG85MWE4Y3I3R1F2b3NLdFFlWnQzTk1aNkxPeWlVQkhpUDAwZHZFMFBQMnZnaWdYLU5VdkxNRjZtWEFqdGU3NENUMmJHRFV4NHB2V21lakgyRlRySmdGcG1OZkZxZ1pkdlV2MzZGdw?oc=5",
+     "published": "Mon, 02 Nov 2026 00:58:34 GMT",
+     "source": "The Malaysian Reserve"
+    },
+    {
+     "title": "SD Guthrie Expected To Post Weaker 3Q Earnings - BusinessToday Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHcxM3lUejBzc0cwVFItd1RIOS16UzhJN09XRFY3R1c2RkU0ZUxVSTFJUnk4ZDlYc0lXdHAxQmp1aFpFRXhPSGg0NG0zcWlvc2F6bjBaWTM3MkQybzVHXzlxYW9WY0ticlJSUFRaemVLdkhkY0ZBTzg3MnoyejdfSDFLbTlqVzBOSW1GWmo5Y2dQak1zTVE?oc=5",
+     "published": "Thu, 29 Oct 2026 07:45:29 GMT",
+     "source": "BusinessToday Malaysia"
+    }
+   ]
+  },
+  {
+   "code": "7277",
+   "name": "DIALOG GROUP BHD",
+   "short": "Dialog Group",
+   "sector": "OIL & GAS",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/7277",
+   "quote": {
+    "price": 2.08,
+    "prev_close": 2.14,
+    "change_pct": -2.8,
+    "volume": 2927700,
+    "price_time_kl": "2026-11-03T16:04+08:00",
+    "currency": "MYR",
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "Dialog targets additional RM3bil investment in Pengerang Deepwater Terminals - The Star",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRmU0RGF6dG5fUFdvbGNIczhBMUtfdnlaZ0p5d0JUUHBiRk9fQm1wdDVHTVJOSHoyNHBqRTZNYXRkZ0t0ZzN3Yk13WEFNM3RPMXpMOVVpanViTFpIZDQ3cXZaV0tEWERLUno0VGhXX0M3alVkZE1lTkw4T1BVc1R1YnBOb2V5THNaLUp2TjlCNDlUalpBRDRWS0g1eDI5TDhHU29nNVBFNnVkTzIwT2YtbnZsdWVnWUVISG1VczloNThkZjkyUk5hSmxKRU1oVm56SVZJ?oc=5",
+     "published": "Fri, 30 Oct 2026 06:09:00 GMT",
+     "source": "The Star"
+    },
+    {
+     "title": "Dialog to add 100,000 cu m of storage capacity at Tanjung Langsat - The Malaysian Reserve",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQTlVdlJTdWdOWThZbnN1eG81QkJMRDFOSXNFbFJGQ2NUNDF6RXFIUmhtdDNRaGhYdVlOekJSS1VfUVZ2RmRKVnFNOWZIY1Rvb1M4aUw5TFdqSF9VblRabDRPNG5JQ01kclB1SWxza0I3NV82Mjc5cFpBOEdQVWNvVjU4enhLdHE1RkFkUzR6X0tCYUtlQU1iemxOX3d5SlRpSy02c3NNNG4zRmJN?oc=5",
+     "published": "Mon, 02 Nov 2026 10:09:20 GMT",
+     "source": "The Malaysian Reserve"
+    },
+    {
+     "title": "Dialog to expand Tanjung Langsat storage capacity by 100,000 cubic metres - NST Online",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQkVORVZlT1VqTTJULTRKdS1xNy1ZWmRjamtTdEp6cXU5R1laVHBISVZVa2liQTVERjVqaVUwc3FmMElTY01QZnR6LXhnYXVtZjgtT005Qkhick1DV0tMM3o5dWo5SHdHVzFnOWVUVU1GMm1hLU82RGY2V1JPUUdUMS1FVkJNMGk0UXNvaXl1WmZQdFNVdW5ndmJvX3Y1dnRJZDlXLVliYkRiLUlsb0lHcWIwZ2kySlFyY3FTZ3BR0gG-AUFVX3lxTE9CRU5FVmVPVWpNMlQtNEp1LXE3LVlaZGNqa1N0SnpxdTlHWVpUcEhJVlVraWJBNURGNWppVTBzcWYwSVNjTVBmdHoteGdhdW1mOC1PTTlCSGJyTUNXS0wzejl1ajlId0dXMWc5ZVRVTUYybWEtTzZEZjZXUk9RR1QxLUVWQk0waTRRc29peXVaZlB0U1V1bmd2Ym9fdjV2dElkOVctWWJiRGItSWxvSUdxYjBnaTJKUXJjcVNncFE?oc=5",
+     "published": "Mon, 02 Nov 2026 12:37:23 GMT",
+     "source": "NST Online"
+    },
+    {
+     "title": "Dialog expands Tanjung Langsat terminal capacity by 100,000 cu m - The Star",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYkY0LWtkOF8xY1hXQmtYVEZxcXJjcXNsT2xvN3ctaWNUam5lSTZwRDVueWhGMy1iRWcyNGN0c2tKTi1pdUV3TVBXWEtJemxWRmxMOU9kbnkxTnF5allRaTV5UTgwc0lraXo5X3V6cG1RdVRHVlNCNWZzWnY1bHFTcVNhMWVEY0Y2R2hlSXJtdDI1VGZ3MlpnRExZNWl3TERsWkxvc2RrN0tUTW1jMnlRSHo5NXBmdHJ5ME1JQVdZQVJWZw?oc=5",
+     "published": "Mon, 02 Nov 2026 11:19:00 GMT",
+     "source": "The Star"
+    },
+    {
+     "title": "Bursa Malaysia braces for volatile week amid US elections, BNM rate decision - The Malaysian Reserve",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcVRnMXZlY1VxWGhQejZNTlZnVVVtRWFSTGdWU2VWNTNla1FXUWhnUS1DLTlUX0VvY21YeDV2LXYtYWpKMEcwRW15cTN5SjladlpldnFGVTREU1UxWXJOZVN3VGt0RTR2ZWVBVVlYdDZYOFdxOVlhZjBNRlk1NkJNclgzTXo2elVUNHV0QjNGNm5TY0RTbUhQM09MNEVKSUVLbVJ0TEJJdlp3QV9ib2dqSmZ5dHJJWVVzbV9WczhDcDA?oc=5",
+     "published": "Mon, 02 Nov 2026 03:14:03 GMT",
+     "source": "The Malaysian Reserve"
+    }
+   ]
+  }
+ ]
+}

@@ -70,9 +70,10 @@ def yahoo_price(code, symbol=None):
     }
 
 
-def yahoo_daily(code):
+def yahoo_daily(code, symbol=None):
     """About 2 years of daily bars (oldest first)."""
-    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{code}.KL?interval=1d&range=2y"
+    sym = urllib.parse.quote(symbol or f"{code}.KL")
+    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{sym}?interval=1d&range=2y"
     r = json.loads(get(url))["chart"]["result"][0]
     q = r["indicators"]["quote"][0]
     r4 = lambda x: round(x, 4) if x is not None else None
@@ -181,6 +182,14 @@ def main():
         ix = yahoo_price(None, "^KLSE")
         ix.pop("_bars", None)
         out["index"] = {"name": "FBM KLCI", **ix}
+        kf = hist / "KLCI_1d.json"
+        if load(kf, {}).get("as_of") != today:
+            time.sleep(gap)
+            try:
+                kf.write_text(json.dumps({"code": "KLCI", "source": "Yahoo Finance daily (^KLSE)", "as_of": today,
+                                          "bars": yahoo_daily(None, "^KLSE")}, separators=(",", ":")))
+            except Exception as e:
+                print(f"KLCI history not available: {e}")
     except Exception as e:
         out["index"] = {"name": "FBM KLCI", "error": f"Index not available: {e}"}
     time.sleep(gap)

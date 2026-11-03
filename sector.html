@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sector · Bursa Monitor</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="./" style="color:inherit">← Bursa Monitor</a>
+  <div class="status" id="status">Loading…</div>
+  <div class="actions"><select id="jump" aria-label="Go to sector"></select></div>
+</header>
+<main>
+  <section class="panel" id="hero"></section>
+  <section class="panel w8">
+    <h2><span>Performance</span><span class="small" id="chartNote"></span></h2>
+    <div class="toolbar">
+      <button data-mode="sector">Sector vs FBM KLCI</button>
+      <button data-mode="each">Each stock</button>
+      <span style="flex:1"></span>
+      <span id="ranges" class="toolbar" style="margin:0"></span>
+    </div>
+    <div id="chart" class="chartbox"></div>
+    <div class="small" id="legend"></div>
+  </section>
+  <section class="panel w4"><h2><span>Ranking</span><span class="small" id="rankNote"></span></h2><div id="ranking"></div></section>
+  <section class="panel"><h2>Members (click a column to sort, a name for its page)</h2><div id="members"></div></section>
+  <section class="panel"><h2>Today</h2><div id="tiles" class="tiles"></div></section>
+  <section class="panel w6"><h2>Alerts (last 5 days)</h2><div id="alerts"></div></section>
+  <section class="panel w6"><h2>Sector news</h2><div id="news"></div></section>
+</main>
+<footer>Personal research tool, not financial advice. Prices: Yahoo Finance, delayed about 15 minutes. Sector line = equal-weighted average of my coverage stocks in the sector, not an official Bursa index. Returns are price only (no dividends). Charts by <a href="https://www.tradingview.com/" target="_blank" rel="noopener">TradingView Lightweight Charts</a> (Apache 2.0).</footer>
+<script src="assets/vendor/lightweight-charts-4.2.3.js"></script>
+<script src="assets/common.js"></script>
+<script src="assets/sector.js"></script>
+</body>
+</html>

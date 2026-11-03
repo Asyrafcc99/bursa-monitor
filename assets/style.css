@@ -74,3 +74,10 @@ footer { color:var(--muted); font-size:12px; padding:8px 16px 24px; }
 .hero { display:flex; flex-wrap:wrap; gap:8px 24px; align-items:baseline; }
 .hero h1 { margin:0; font-size:22px; }
 select { font:inherit; color:var(--fg); background:var(--panel2); border:1px solid var(--line); border-radius:6px; padding:6px; max-width:200px; }
+/* sector page */
+.toolbar button[data-mode].on { background:var(--accent); border-color:var(--accent); color:#fff; }
+.rank .row { display:grid; grid-template-columns:1fr 70px; gap:6px; align-items:center; padding:4px 0; }
+.rank .bar { height:8px; border-radius:4px; }
+.rank .lab { display:flex; justify-content:space-between; gap:6px; font-size:13px; }
+.swatch { display:inline-block; width:10px; height:10px; border-radius:2px; margin-right:4px; vertical-align:middle; }
+.sector-link { color:var(--muted); }

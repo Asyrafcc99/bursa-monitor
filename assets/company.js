@@ -44,7 +44,7 @@
     const q = s.quote || {};
     document.title = `${s.short} (${s.code}) · Bursa Monitor`;
     document.getElementById("hero").innerHTML = `<div class="hero">
-      <div><div class="small">${esc(s.sector)} · ${s.code} · Main Market</div><h1>${esc(s.name)}</h1></div>
+      <div><div class="small"><a href="sector.html?s=${encodeURIComponent(s.sector)}">${esc(s.sector)}</a> · ${s.code} · Main Market</div><h1>${esc(s.name)}</h1></div>
       ${q.error ? `<div class="warn">${esc(q.error)}</div>` : `<div><span class="big" style="font-size:28px;font-weight:800">RM ${q.price.toFixed(3)}</span>
         <span class="${BM.cls(q.change_pct)}" style="font-size:18px"> ${BM.pct(q.change_pct)}</span>
         <div class="small">As of ${BM.t(q.price_time_kl, true)} KL · ${esc(q.delayed)} (${esc(q.source)})</div></div>`}
@@ -85,7 +85,7 @@
 
   function renderPeers() {
     const peers = all.data.stocks.filter(x => x.sector === s.sector);
-    document.getElementById("peers").innerHTML = `<h2>${esc(s.sector)} peers in my coverage</h2><div class="tablewrap"><table><thead><tr><th>Code</th><th>Name</th><th>Price (RM)</th><th>Change</th><th>Vol vs normal</th><th>Today</th></tr></thead><tbody>` +
+    document.getElementById("peers").innerHTML = `<h2><span>${esc(s.sector)} peers in my coverage</span><a href="sector.html?s=${encodeURIComponent(s.sector)}">Sector page →</a></h2><div class="tablewrap"><table><thead><tr><th>Code</th><th>Name</th><th>Price (RM)</th><th>Change</th><th>Vol vs normal</th><th>Today</th></tr></thead><tbody>` +
       peers.map(x => { const q = x.quote || {}; const p = BM.pace(x);
         return `<tr onclick="location.href='company.html?code=${x.code}'" style="${x.code === code ? "font-weight:700" : ""}"><td>${x.code}</td><td><a href="company.html?code=${x.code}">${esc(x.short)}</a></td>` +
           (q.error ? `<td colspan="4" class="warn">${esc(q.error)}</td>` : `<td>${q.price.toFixed(3)}</td><td class="${BM.cls(q.change_pct)}">${BM.pct(q.change_pct)}</td><td>${p == null ? "–" : p.toFixed(1) + "x"}</td><td>${BM.spark(q.spark, q.prev_close)}</td>`) + `</tr>`; }).join("") +

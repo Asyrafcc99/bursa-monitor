@@ -23,11 +23,11 @@ window.PANELS = [
     }
   },
   {
-    id: "heatmap", title: "Heatmap by sector (click a tile)", width: 8,
+    id: "heatmap", title: "Heatmap by sector (tap a tile, or a sector name for its page)", width: 8,
     render(ctx) {
       const sectors = [...new Set(ctx.stocks.map(s => s.sector))];
       if (!sectors.length) return `<div class="small">No stocks match the filter.</div>`;
-      return sectors.map(sec => `<div class="sector-row"><div class="lbl">${BM.esc(sec)}</div><div class="tiles">` +
+      return sectors.map(sec => `<div class="sector-row"><div class="lbl"><a class="sector-link" href="sector.html?s=${encodeURIComponent(sec)}">${BM.esc(sec)} →</a></div><div class="tiles">` +
         ctx.stocks.filter(s => s.sector === sec).map(s => {
           const c = s.quote && !s.quote.error ? s.quote.change_pct : null;
           return `<button class="tile" data-stock="${s.code}" style="background:${BM.heat(c)};color:${c != null && Math.abs(c) < 1.2 && c !== 0 ? "var(--fg)" : "#fff"}" title="${BM.esc(s.name)}">

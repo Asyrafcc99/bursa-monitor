@@ -75,7 +75,8 @@ def yahoo_daily(code):
     url = f"https://query1.finance.yahoo.com/v8/finance/chart/{code}.KL?interval=1d&range=2y"
     r = json.loads(get(url))["chart"]["result"][0]
     q = r["indicators"]["quote"][0]
-    return [{"date": datetime.fromtimestamp(ts, KL).strftime("%Y-%m-%d"), "open": o, "high": h, "low": l, "close": c, "volume": v}
+    r4 = lambda x: round(x, 4) if x is not None else None
+    return [{"date": datetime.fromtimestamp(ts, KL).strftime("%Y-%m-%d"), "open": r4(o), "high": r4(h), "low": r4(l), "close": r4(c), "volume": v}
             for ts, o, h, l, c, v in zip(r.get("timestamp", []), q["open"], q["high"], q["low"], q["close"], q["volume"])
             if c is not None]
 

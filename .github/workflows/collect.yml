@@ -45,5 +45,8 @@ jobs:
         run: |
           git config user.name "bursa-monitor bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          # keep only the latest snapshot (no history) so the repo doesn't grow by ~20 MB a day
+          git checkout -q --orphan snapshot
           git add -A
-          git diff --cached --quiet || (git commit -m "Update data" && git push origin HEAD:data)
+          git commit -q -m "Data snapshot $(date -u +%FT%TZ)"
+          git push -q -f origin HEAD:data

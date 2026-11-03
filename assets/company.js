@@ -110,7 +110,8 @@
       const v = p.seriesData.get(main), vv = volS ? p.seriesData.get(volS) : null;
       if (!v) return;
       const t = typeof p.time === "number" ? new Date(p.time * 1000).toISOString().slice(0, 16).replace("T", " ") + " KL" : p.time;
-      lg.textContent = v.open != null ? `${t}  O ${v.open}  H ${v.high}  L ${v.low}  C ${v.close}` + (vv ? `  Vol ${BM.num(vv.value)}` : "") : `${t}  ${v.value}` + (vv ? `  Vol ${BM.num(vv.value)}` : "");
+      const f = x => Number(x).toFixed(3);
+      lg.textContent = v.open != null ? `${t}  O ${f(v.open)}  H ${f(v.high)}  L ${f(v.low)}  C ${f(v.close)}` + (vv ? `  Vol ${BM.num(vv.value)}` : "") : `${t}  ${f(v.value)}` + (vv ? `  Vol ${BM.num(vv.value)}` : "");
     });
   }
 

@@ -94,8 +94,18 @@ def google_news(query, limit):
 def send_telegram(new_alerts):
     """Send new alerts to Telegram. Needs GitHub secrets TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID; skips quietly if absent."""
     token, chat = os.environ.get("TELEGRAM_BOT_TOKEN"), os.environ.get("TELEGRAM_CHAT_ID")
-    if not token or not chat or not new_alerts:
+    if not token or not new_alerts:
         return
+    if not chat:  # no chat ID secret: use whoever last messaged the bot
+        try:
+            ups = json.loads(urllib.request.urlopen(f"https://api.telegram.org/bot{token}/getUpdates", timeout=20).read())["result"]
+            chats = [u["message"]["chat"]["id"] for u in ups if "message" in u and u["message"]["chat"]["type"] == "private"]
+            chat = str(chats[-1]) if chats else None
+        except Exception as e:
+            print(f"Telegram getUpdates failed: {type(e).__name__}")
+        if not chat:
+            print("Telegram: no chat found. Send your bot a message in Telegram first.")
+            return
     lines = [f"[{a['type']}] {a['text']}" + (f"\n{a['link']}" if a.get("link") else "") for a in new_alerts]
     lines.append("(Yahoo data delayed ~15 min. Research only, not advice.)")
     text = "Bursa Monitor alerts\n\n" + "\n\n".join(lines)

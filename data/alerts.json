@@ -1,11 +1,46 @@
 {
- "updated_kl": "2026-11-03T16:36+08:00",
+ "updated_kl": "2026-11-03T16:54+08:00",
  "rules": {
   "volume_multiple": 2.0,
   "price_sigma": 2.0,
   "price_min_pct": 3.0
  },
  "alerts": [
+  {
+   "time_kl": "2026-11-03T16:54+08:00",
+   "code": "5255",
+   "type": "News",
+   "text": "Lianson Fleet (5255): Lianson adds Malaysia's first DP2 heavy-lift vessel - NST Online",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS2pMN0Z2YUFLTzZCU1AxLVFHal9LOUpZcC1GazhQZGVUWW0wenI0NGRCeUlPeGt2Mm5feGR3WTc0Znd2N3dlbUZ2R0IxbkVOai1wZHV6Z3VBWE14dENLbW0xRXlHX3N1QzYtcUpsZEp2QkRreGh5VGpTZThfb0g1bTZaOGFqTlZNMEtWd3RXQXJ4YmVLRzFiQ1ZHVnhfa1F3UDJraFVLVkNFX0xU0gGyAUFVX3lxTE5wQUl4Mng4V0ljYjdlR25EY3Zxb2MyaUV0bDZsYnpaZ0tuelc5RVp2QkpoZC1RU3IyM2tqRnBpSHB4VDJfZjBNa3l2UmVXaDNLWV9IaWlGUjRsa2x5d2NSR1MzTWEwanFQVDBvU1phQXJ1b2VtYkctMTlOc0NEVzc0TEgxS1dZYVpZZDNzci16ODdVX1gxODJGZld1Ykt3N3NVc1dTTEw2eUNpMmYxallGSlE?oc=5"
+  },
+  {
+   "time_kl": "2026-11-03T16:54+08:00",
+   "code": "7277",
+   "type": "News",
+   "text": "Dialog Group (7277): Bursa Malaysia braces for volatile week amid US elections, BNM rate decision - The Malaysian Reserve",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcVRnMXZlY1VxWGhQejZNTlZnVVVtRWFSTGdWU2VWNTNla1FXUWhnUS1DLTlUX0VvY21YeDV2LXYtYWpKMEcwRW15cTN5SjladlpldnFGVTREU1UxWXJOZVN3VGt0RTR2ZWVBVVlYdDZYOFdxOVlhZjBNRlk1NkJNclgzTXo2elVUNHV0QjNGNm5TY0RTbUhQM09MNEVKSUVLbVJ0TEJJdlp3QV9ib2dqSmZ5dHJJWVVzbV9WczhDcDA?oc=5"
+  },
+  {
+   "time_kl": "2026-11-03T16:54+08:00",
+   "code": "5218",
+   "type": "News",
+   "text": "Vantris Energy (5218): Alam Maritim banks on subsea services after second restructuring - KLSE Screener",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM2oyQUdaU3BDcklsOVN1U1pSakdvcWJ4R0JrVGFBQjVwTkxPUUlIeE5lOGRuSEpfeFRZZG8tLTh2R0FGeENxYTdJS2F1NzlzbzY4YVZZMjkxQWN2WmNLbXYwblB6UVlLQ3Z2YTZmZ1ZpQVVPT1F6bThoRUt0NG5ndWRrUHVQdjFQRW5ROWotY2FtYmJKMFhmdEExUU9zNllGZ1dlYXp1cHV5VXBPWXRTdUdMOGY?oc=5"
+  },
+  {
+   "time_kl": "2026-11-03T16:54+08:00",
+   "code": "5323",
+   "type": "News",
+   "text": "Johor Plantations (5323): Planters to benefit from higher CPO prices - KLSE Screener",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNTJzWTVlUS05S1JIY2VrVEtDZEhhMDNWSkNBMzgydzk2aTJRX0N4ZjRuWVhkNnBWTDJqbG4xaDI5Z0FLN0Y2bENqTzdXVDdzMTFuaUtKM3JRa3RMWXQyUEg0TE1HQjZQZE1hMTVqcmVST1lscTJibmpzaHExakpXLW9WTThoTFI3MVlzVTF5ZVBxbklLdkdr?oc=5"
+  },
+  {
+   "time_kl": "2026-11-03T16:54+08:00",
+   "code": "5031",
+   "type": "News",
+   "text": "TIME dotCom (5031): Stock Picks: TIME dotCom And Sime Darby - BusinessToday Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQS16LUpRb05WV0p0ZkR4RGN5eGZzOE56ZVo0bzhMRDdUYTI5ZFdJTWNoNnJlaWhwUHM2MkFqQXl4VnVoT3puRVVqQ085eFZBeklFZWYzUFY1TmNDUmgtZkhXbVNfckZBNHdMUURIUVBzMzVfd1lqd3lWc2hma05TU1BBYWZhT2wzQjFB?oc=5"
+  },
   {
    "time_kl": "2026-11-03T16:36+08:00",
    "code": "5199",

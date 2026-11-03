@@ -39,20 +39,27 @@ def kl_iso(epoch):
     return datetime.fromtimestamp(epoch, KL).isoformat(timespec="minutes") if epoch else None
 
 
-def yahoo_price(code):
-    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{code}.KL?interval=5m&range=1d"
-    meta = json.loads(get(url))["chart"]["result"][0]["meta"]
+def yahoo_price(code, symbol=None):
+    sym = urllib.parse.quote(symbol or f"{code}.KL")
+    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{sym}?interval=5m&range=1d"
+    res = json.loads(get(url))["chart"]["result"][0]
+    meta = res["meta"]
     price = meta.get("regularMarketPrice")
     prev = meta.get("chartPreviousClose") or meta.get("previousClose")
     if price is None or prev in (None, 0):
         raise ValueError("Yahoo returned no price")
+    closes = [c for c in (res.get("indicators", {}).get("quote", [{}])[0].get("close") or []) if c is not None]
+    step = max(1, len(closes) // 40)
     return {
         "price": price,
         "prev_close": prev,
         "change_pct": round((price - prev) / prev * 100, 2),
+        "day_high": meta.get("regularMarketDayHigh"),
+        "day_low": meta.get("regularMarketDayLow"),
         "volume": meta.get("regularMarketVolume"),
         "price_time_kl": kl_iso(meta.get("regularMarketTime")),
         "currency": meta.get("currency"),
+        "spark": [round(c, 4) for c in closes[::step]] + ([round(closes[-1], 4)] if closes and (len(closes) - 1) % step else []),
         "source": "Yahoo Finance",
         "delayed": "Delayed about 15 min",
     }
@@ -137,6 +144,11 @@ def main():
     alerts_list = load(data / "alerts.json", {"alerts": []})["alerts"]
     new_alerts = []
     out = {"collected_at_kl": now.isoformat(timespec="minutes"), "stocks": []}
+    try:
+        out["index"] = {"name": "FBM KLCI", **yahoo_price(None, "^KLSE")}
+    except Exception as e:
+        out["index"] = {"name": "FBM KLCI", "error": f"Index not available: {e}"}
+    time.sleep(gap)
     for s in cfg["stocks"]:
         code = s["code"]
         row = {k: s[k] for k in ("code", "name", "short", "sector")}

@@ -22,6 +22,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      # data lives on its own branch so price updates don't rebuild the website
+      - uses: actions/checkout@v4
+        with:
+          ref: data
+          path: data
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -36,8 +41,9 @@ jobs:
             python collector/collect.py
           fi
       - name: Save results
+        working-directory: data
         run: |
           git config user.name "bursa-monitor bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
-          git diff --cached --quiet || (git commit -m "Update data" && git push)
+          git add -A
+          git diff --cached --quiet || (git commit -m "Update data" && git push origin HEAD:data)

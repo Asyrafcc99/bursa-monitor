@@ -1,0 +1,1218 @@
+{
+ "updated_kl": "2026-11-13T15:45+08:00",
+ "rules": {
+  "volume_multiple": 2.0,
+  "price_sigma": 2.0,
+  "price_min_pct": 3.0
+ },
+ "alerts": [
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "5321",
+   "type": "News",
+   "tags": [
+    "Results"
+   ],
+   "text": "Keyfield (5321): Keyfield International’s 3Q earnings hold steady at RM41.4mil - The Star",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORkRpelZlLXB5NW9FaWJ5YndsNjd0b3NraVBMbGJKdjlPNk5Ia1BtTnh2RjdRWTB2WmJfenR1VFlzTnZqaHpYcW5rdW40di1sSmRZYXZxak9uUFpydzlxU3pOVUd6LVBtMlhRVGRfLVlURUdTVEZ1a0VtY1gwRzdSSVQ1MW9hZGF5a19veS1XSlRVZDN4Rl8tOW85am5fa0VxWHZGRkE4RnFlSnkwWkRBTWtjM1pYQ3dKeGdRNg?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "5321",
+   "type": "News",
+   "tags": [],
+   "text": "Keyfield (5321): Keyfield to keep AWB charter rates moderated into 2027 to boost utilisation - The Edge Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNMHhyUVBwdjVTZnlqMEtJUklfU19XU3pqUUo0OXU2a2RyUVNkNmRKTWhXWEZwRURhNkR6T3luSXNDRU1FbzZtV0Rsd3NDbUk1?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "5321",
+   "type": "News",
+   "tags": [
+    "Dividend"
+   ],
+   "text": "Keyfield (5321): Keyfield’s 9M26 PATAMI Falls To RM120.6 Million, Declares 2 Sen Dividend - BusinessToday Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWnR0WHlEdTFKS092WGpROTBrcGxZVTk3bkVRTGpaV1BYVDlZR08yWk5jUGFBamVTaEx2Qk1Pb0cyWWRsZy1SUmZraDRKblV0VFNuc05oYllHWmhDemtra0RzUThZOTVRcUxDbmV2ZWR0UlNzd3BMQ1E5emwwdE5ra1FHaktUT2VQZmc1T2tKb1hjWDIyQTJXQ21TNEhVb25QTW4wR1poRWN2Vy1CMWhQZVRIZXpZZw?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "5321",
+   "type": "News",
+   "tags": [
+    "Results"
+   ],
+   "text": "Keyfield (5321): Keyfield profit flat in 3Q as lower charter rates offset utilisation gains - KLSE Screener",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT3BvZEhPSXBjYmlPbEsxa0lXeHdNcXo3TXdfN05ScjFlUWhmRGdIVHVSUUxLOWlLV0NrNVRaaTJEbkROZkV0M0xWNUVsRGxHQWZhcWItQ1FsVl9VWGVmMU5Ra2hZc2JubUVjekxhSFFkbGsxcUFxOEVhTjMzVHBnX1JxVU53NmFRQXREREZfaV82ODgyN29yZzhfZWZ1RWVGVlpNSHZpVDNzVEp4WUlSN18yRWVoVmlEaGhsNmxCTk9sdw?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "5321",
+   "type": "News",
+   "tags": [
+    "Results"
+   ],
+   "text": "Keyfield (5321): Keyfield quarterly revenue rises - The Star",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaEZmR1ZDeFJKSlJMWldoTmU1S2NCbEFIRlhSblFfeUdSd25tbDV0dzFTSnNGZ25HWk42cTZ2ZUhzOUFONWFpbGhfOEt1aHZRWjB0TGFURkJxamZiZm9HVThldEQ3aS1CY3l3N1NuRUd3NjQ3NWFfRWxqM1BPVGJZc19ZaC1SUktrSlFwVGFZZTFMSHNZamZjVg?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "5321",
+   "type": "News",
+   "tags": [],
+   "text": "Keyfield (5321): Keyfield keeps AWB charter rates moderate to boost vessel utilisation - Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQREVncEt6elFsNkhWRU9pSEVHWkhtQi0ybzNKVnRnRVBaNTg2XzlSWUxWN0RNTXYtbWR2bWU2SEowS2NkOFBEdXBzWFQzSTZXR2RjN0lCV3JWdmR4NWdidUJncHNKYnprRGFpWG1DeE1RYTZYZHVIQkdJcmxESFVNLWdmbWpNazdwS2xfTWE0UGM1QQ?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "7277",
+   "type": "News",
+   "tags": [],
+   "text": "Dialog Group (7277): Dialog to invest RM860mil in Fatimah gas field ops - KLSE Screener",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUW9YT2VmQk1vRVZlelp3bGZ3UUU1RDdLZGhRclhJLS1qdlRrRllYT09kYnNFNzNNSkRQWkowQUZPTU5GNjRzSEpxa2dfcGszbHBxMVhRVktaRUwyMi1fUnl4WWtoRjExbFprZm5HMlA2RnNKendvYWhKbEZfSTFNWFR1dGIyWVlIUUF0U05jRTYweXlyNzhZSUVLWGRxNlNNaGc?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "7293",
+   "type": "News",
+   "tags": [],
+   "text": "Yinson (7293): MISC's RM7.31bil Yinson deal offers offshore expansion but comes at a cost - NST Online",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbUNxQVo4Z3FoVFJSMDJsVWhWUUNxZjVoWjdsSmdWcVhWMGsxY0Y2a1pZWnZDQnY2cjAyVEZ4OGM0b3VzUWZ5RTVTZnFPdVYwUHd1R3ZaSHFucUxJcXUxSm5Pd2k3dWw5dXc3VUhWM3dfVEh6YWJRcDlzRl92S1M1YW1nWjNLZ1NsTndRVlY3UDZtOHdLOWJodWV6a1VNcXRPd0hFMWNZUFFQWXZ0SzBoX0lIOXJNdWYxaTJjWEtn0gHDAUFVX3lxTE5ZS0VzUkh4MHBBR01RYkZsc1JvMUFLWk5TclFOZjk2T3dTSG5uMnhtb1ROZ0UwbkJUZmtGMjhhWG1FYVFsMEtYSVVjOEt4bGJGdXVGcVhuSGFZeGVNNkVhbjE3a0FUQmtWdFowQXhIaEJqR0lvb1dfU2w4Q3dOMDhZY0JKdUl4MHRUWFcxT2E3M2VVeVZ4d1ZpdnBGQzFnaml3UkZQWmV0X21XQnFvajBvUGhfMW1hSGEyMThCVk9teFZQdw?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "5243",
+   "type": "News",
+   "tags": [],
+   "text": "Velesto (5243): $VELESTO (5243.MY)$ : THE TROUBLE WITH ME IS ... I WANT A BULL RUN THIS MATCH ., BUT THESE HICCUP BUMPS JUST KEEP INTERFERING .....!! - Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMWxBaGVaNmdYRlR5bFA5SXNUbkdycTBjM2ZUWWhOWHpRTHB4bW9ORmdDM2w2dWMxbjJweU9YcnBkRVgwblcxbks5LUlZLXBRRWRsNzhCbThZLVViRk5zVWRScXRUeTk1ZHlFOEI3WTlha1NCQVhxQTVoNW5zdi1pM2RseUVoVmVENlNjdHU2azNfRTBicWVVR24wNU10Vk5h?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "5243",
+   "type": "News",
+   "tags": [],
+   "text": "Velesto (5243): Velesto’s Jack-Up Rig Up for Drilling Job with Petronas - Asian Oil and Gas News",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR1BRV2FFUEJBQUlLdk43U3JraTVyWDBmcVVkS2VydXVWRnp2UE1nVHdrSWVSY0tESU8xU09HQzE4ZFMzaU1wNjJiTTJreFlfQmxhS3hDVHpOejl1Z1p6b2d3VUZTRzlMa29SZVVGdFRwOG9jNV9Temh2ZlFXb0lCbUdTVWN6WnZzQkdTMUh0VFhOQQ?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "5012",
+   "type": "Volume",
+   "text": "Ta Ann (5012): volume 367,800 is 2.3x the normal pace for this time of day (20-day avg 193,860/day). Price -1.44%."
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "5285",
+   "type": "News",
+   "tags": [
+    "Dealings",
+    "Analyst"
+   ],
+   "text": "SD Guthrie (5285): ASB Raises Stake In SD Guthrie To 35% After Acquiring 16.6 Million Shares - BusinessToday Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMWJ1QzJrcGNucHhLTmtSQTZDYVNGQThybWtFNGJNY3ZPczU2anhseC1QTDl3a0xjanpMTWtaNTBzeV9yc3FSdGlPRTJIUHJQQmxONFVoMl9mZDZaSWo3UjU1MHlib283cjM3anBocm81VUV5S1FmdnY1Z0VuZnNMWERpMnpTeVJRTEZycDh5eFFSMXNoVVV2WWxndUZVUmVzNTE4elFzdURBY01YbTM2RzdVd2ZvTnVI?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "5285",
+   "type": "News",
+   "tags": [],
+   "text": "SD Guthrie (5285): SD Guthrie’s growth goes beyond palm oil - KLSE Screener",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT29UNndYQTNsMklZeWZiRVRVVzFEQ1hTaDV0U3dQakp4dVlISEJ4Mm1nMFkxMmRJYmh2WUd6UG5hblBSWW9PTVlsSWEyTlV1R0YxQlphXzFfWGRZTmQ4dlFhM0ZSWmNnYU9qSGY2YzdqRlgwcjYtY0F4RXo1WldtSjNVQzBQdmhpTVZpR1NyWlZoWGNF?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "5285",
+   "type": "News",
+   "tags": [
+    "Analyst"
+   ],
+   "text": "SD Guthrie (5285): SD Guthrie expands midstream operations while maintaining its agribusiness focus in Malaysia - Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRURkc3ZfakNFQU0wS0tQdnlwNWx6V3lvV2p1Q2FtbkNObVMzMVVNOXZtZjZPQkhOWDN0c0w5aGc3WExlQUc2NkV3QVluT2k5cmYzUWFqa21Wa3JDQ1MxeDV2c0xCbWExdFN4SnBaTE91NXZCVzBZUVpYSnA2NWRlcjFkNzZ2c2JsRnpOb1dXWmh1czVaY3FKMTJn?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "5285",
+   "type": "News",
+   "tags": [],
+   "text": "SD Guthrie (5285): Concerns Surrounding SD Guthrie Berhad's (KLSE:SDG) Performance - Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMndjSjJHNkp5dzNBRElreVowTnZSSHJJb09KV1RyYm9SRkpyLVdkUl9Gejg1QXFOU2w0VGxjU1N5dmhIVnRqUzNheEFsaDNrV0N0VlpIVlFzV1l4d2dEclRCNHRlWFJuMDF0MEt5em1jVC12dXo3SkN4R1JpRWttd3QzMEJtRmdSZFhjR2ZSaU9adUNBamZLSUVQRFVFdGhZbUdaWWNSeFQ4bTFVTkhjYVhnektwR2dEejdEa3VsMTJrajVjdTVqNWhmZ19DLTR1RUk1RnZLcXJCSFhtSlV3dDB1aFNGa1XSAewBQVVfeXFMT3ZUQUl3aktqbU5CQUdnbW5jd1hzQ3VjMUtFNjNodlRaeUk3MTJlT2dESWFaN3ZRMHZ1Z3RPQWZuWkthZnJXUVg0enhDWUN2c3N4R0NHTW5PRF9vRGwwRzktRzJGdlg2ZmRCU2F2RzRwN2hyTkl4ZnRkX3pzVXFYbDZ2Nmc5TXhKNHpPaGdXanhpaXdVZ2ZxV2hnSDBzR3l6MjlEZGt3NkQzTnBqTktoRTB1OVhueUt4N1pCby0zM1YyQjEyeVZJTmJfS1FyNnplbTZ1Sk1fT25hSm5VX1UxSW8tVE9tcXJYNG5rRHI?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "5285",
+   "type": "News",
+   "tags": [],
+   "text": "SD Guthrie (5285): SD Guthrie remains focused on Indonesia amid land risks, haze and El Niño - Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWXZLSTVLXzdJTHZzeXhmX0M3ZGJ4bnJfaWVKTnEyaGhnbDFZQzlkbkJqbTJIbHEyc0hOSGIxX2NHZTdUVlFodmZpc244cXpfTFlzRzQtc3dDMnpyMHlNVkhubmlkb2U3QW1LeEtEc1hoQ25VZC0yRkZ5QmNRY3ZrZXlIY19YaFZoZ015ekkxSWJOQ0RGNVJF?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "5285",
+   "type": "News",
+   "tags": [],
+   "text": "SD Guthrie (5285): SD Guthrie targets top-quartile shareholder returns by 2032 - Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX2tZVVdScVlOSUJzRlFWdzRORjE1TmZncjZEVGFrSmJVVlZyS1A1NGZveUlsUmd6d0RfRDFUQ3R4VHVfWGJUZVhDNnFIUjdQZi0wUGFZMTZzOVpJZUtjZnBnbDFWQ1I4MTdFMUE1eVNOY0xBbnVMNjRzZExEOG1vWDZyVUJLZi1hck9zVnkxSllPMG9TLUF4cA?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "5323",
+   "type": "News",
+   "tags": [
+    "Results"
+   ],
+   "text": "Johor Plantations (5323): Johor Plantations 3Q net profit slips 5% on lower delivery volumes - The Edge Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81YzRUZzhxekhSZnBEYndDeXJBazhZSFFmVjRsenVTVGZoME56azZZV3FnS3FuX3JBRi0wb0x5dFR5Q2xtbGlCUk5qd3ItbXRp?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "5323",
+   "type": "News",
+   "tags": [
+    "Results"
+   ],
+   "text": "Johor Plantations (5323): Johor Plantations profit doubles in third quarter - The Star",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb2J2aG85Ym1DVF9UUk5BRG1wY2Q3Sk1UZFo0OF9kdGZVVGFQb2JaNlQ0WHZibF9ZWnNFQ1FQd2VvRnJXb1NpZ2tNRk9VYjljM1FuQ1dyOE5xRVJiS0VSTXNzOGNreU81UjRBZDY3REFoZWVaSHJqY0hNRmRRcE5hWjZlTGRUUEd2TFlSbjZoamxOR2p1dDAyaVZtaWlVZ1czQ2h2V1JCT0J1WHNiOEFN?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "5323",
+   "type": "News",
+   "tags": [
+    "Results"
+   ],
+   "text": "Johor Plantations (5323): Johor Plantations Posts Lower Net Profit Of RM100.26 Mln In 3Q - BernamaBiz",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwcXN3Xy1HeG9ScHdJWXlJWkFlWG1FY3hsUjQzVjlNYXhhMjhtMXF6U0RSNjRtRDIyRWlsTVczaWU3VS11M3J6NE4xY2ZubEV2S1drYg?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "5323",
+   "type": "News",
+   "tags": [
+    "Results"
+   ],
+   "text": "Johor Plantations (5323): Johor Plantations’ 3Q26 Falls Below Market Consensus - BusinessToday Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWlJXNl9tLUt1cXFjRDBhTXl0YW1JRDNHZGdtejNwM2YzX096dllIU0paVzNWUTVwN01JaWFIaFpMVTZCNjJZWWNhU3BKUlBYQ1VPMTJtak9zbFVQZTdMZ0dwOUVXLVB3VDU1bVR3T1gwZC1EY2JpbzZJRWt6SjlqZHNJV0d6cFdwN0lFZU5XWDcxM2dLQzlZVUNPbW8?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "5323",
+   "type": "News",
+   "tags": [
+    "Results"
+   ],
+   "text": "Johor Plantations (5323): Johor Plantations Posts Quarterly Profit Attributable Of 100.3 Million RGT - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaEFyX052elg1ZTJPZU5zeUxWSUZQTTcyalFYZy11N25IQlk5SXU3cERUcmdMNjM3SEtKckFOWF9oSC1INFFiaG1EMDdmNzhxOFh4MTBZckN1S2JtTXFlb3E0a19BU1hILXdIS2FkY2hhelc3akNPMEpUcjl4OUlXd01ZQ0tMbnk4eU9sdGhPbjh6R1pCdmFRQlYza2Q2OEZpbFpJR2lZX3psejdBSnJ2ZkhLUXNhTGNSRXBHajdHYUstTVQteEdINUJQRy1Pci1MdFZsUXFITUxUUWFh?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "5323",
+   "type": "News",
+   "tags": [
+    "Results"
+   ],
+   "text": "Johor Plantations (5323): Johor Plantations profit doubles in third quarter - KLSE Screener",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeDdLdnNQUnhhWFhCbHdRbkNuU2QxdU40STZhWGFVSjU3TEFBc2ZiS0dEVDRmTmZBYTVxRUtTZkplMkpjWTdJNmd3MV9TeHRBOHpnbG5iYTdsb0dHZkxnTksyM29tWGV1ZzBLRGtsVkc0enRxbXpXZnRPVzI0ZVFHV3dobUFPYXVMcmg0RW11RGF1c3lkUVZUbThGcWxJYS1V?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "5323",
+   "type": "News",
+   "tags": [
+    "Analyst"
+   ],
+   "text": "Johor Plantations (5323): RHB keeps \"Buy\" on Johor Plantations, cuts target price to RM2.00 - NST Online",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY2dwc05aUlN5bTZqemRCZDlmSU9uTFZQN1JJOUozY3hJR2pZRWxrdnBuaHNqeXVGUXZaNHpCeHFzODVYYmIzLURqOGtmTUZlVEs0eXY4YzRoUDhKZm81VEtTTzdTZHZHRnk5ajhoakY4d0lKeGlSLWhwa0hZSzJhSjU0dktBaDZ5QzU0YS1ibEp1NnN0R2NLLTdyWHRKb3Y5Q2hJdEUwdTlzQk5IQ2Y3VEVfVlBpNGxHV2dlSFpReWtDaTN5RWfSAbgBQVVfeXFMTXVUN3ZaWVBobHZzSHZQZ1ZraXRVSFZXN292YmU2OUI4YVROOGRVZGxvTDF0QkZiZ3BKa1ZHM3VWVWtUWERjckF3Q3FiTThnNFJmV2ZKSWoydkxpS3pWWlIyT3BaVkZWM0RTdnlVRnFKZ2xuMDNZTnZCZ2ZLSjNuWnhIZEc4R1pQd0Z3VDM4aXg1YnZkVHIwdEVnMm5MTS1hbGVCUlNVZlVhM3JBOGxrWjl2dzNpczVGUw?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "5323",
+   "type": "News",
+   "tags": [
+    "Results"
+   ],
+   "text": "Johor Plantations (5323): Johor Plantations posts lower third-quarter profit as delivery volumes decline - Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd2k2b2ZPMFRiVVlPaTR2eHhwanoxd1ZSMDlDT3lFWktQU2t4TVQzdFNMVGhXclVZUDB0MEFDYmhNNVN5Ui1YZVhmZmJzTDhsVEhUb3N3QTJZc3lHbTAyV1NzU1VxalVDQlhEeEFHZXFiSHlyaXM4VWJ6UHBDaTBvekY3U1ZzQkIzM3RuS2lIZw?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "1961",
+   "type": "News",
+   "tags": [],
+   "text": "IOI Corp (1961): Tenaga, IOI to jointly develop 500-MW hybrid solar project in Malaysia - Renewables Now",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOXdqbFA2cU1JYTRsZFhDWEFQaVl3WDhtZXpWdFZOTXFPYmEyVDJwNzZqa0p2REg1MDRUaUZndXY1UTNDNS0za09relNZTlJ1YWduOHRYeWpXLVpnLVlCOGxlSXFtOUlCWDB0OXZfcGtWYjF6SzY4cEJtcHU3MVFCLXdhU1ZZUFZzRW1YVmUwSWY4bGl6WGU0SFk4cno4NU45d0ZWal9kNThMclJvS1E?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "5126",
+   "type": "News",
+   "tags": [],
+   "text": "Sarawak Oil Palms (5126): Stock Picks: CTOS Digital And Sarawak Oil Palms - BusinessToday Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOU42Z2FRd0FtWTMtVVRDX0RJVEpidTQwSUlDN3BnaXlRMUFVbkx5N090Z2tSQ3kxbThKb01uVFVxWlMzaDFMUFZOdF9fdlQ4Q0xFdzFOZzVucW12b2lzM2FOUmJWUllmN2JWal9uQjlBRTFJTDVhNVFWSDl0Z2hKR2l3ellrUHhMaVNmdzBUYUpKbEJqanc?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "6012",
+   "type": "News",
+   "tags": [],
+   "text": "Maxis (6012): Maxis fundamentals remain intact amid dip - The Star",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNXzk2S0o5dW0wMlYyVkQ1ZGMzaExzbFJHclFGY1UtZEtKaW42MEdSLWQxZUlMRThFSVRoWC1qd1RXQ2V5cVZ0RUx3VzhsdXR1TEp6dmowZllMdkNJdWdRRmVSYWFtMGR2anBpWHFrSDRTcExoQkRCODI3aFBFNml1NUtjQUduVFRCYUtwMmhybjhwdjJNaFNYOTNNbFpGb25IX1BGbg?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "6947",
+   "type": "News",
+   "tags": [],
+   "text": "CelcomDigi (6947): CelcomDigi introduces streaming passes from RM1 for prepaid customers - The Star",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQalNmMC1SRFlNZGc2dHI0TW1jaW94Njg2LUtJVGRSdTllZ20yWmhjVEtNY25BRHdpOFR6NDhCaHlTdFFla3dlcWVmdWlOSFh1MGYza0dYSE9tV2xRMDZydWYwRTBoWUEwd1JHWm94eHRIdWNtUmVoT3NGaTNmSm5YT213dURoaWxlNW92OHdUUi1rbGpaUjN2Qk03QUpOMy1ZZzdQcy1vaUxkR2FKZnJIYlZXTi1kNWV1TUUzNUhqSmJKc0VDbXB6QUhn?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "6947",
+   "type": "News",
+   "tags": [],
+   "text": "CelcomDigi (6947): CelcomDigi steps up cyber and climate safeguards - NST Online",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNFI5V1RFRU54elAtMnU0QVg4TzNXMXpyOTFjRU5uTV9XWllIZHRlTlRkby1Gd1hLUEMyXzFRX3BkbkJnbEwtQzNja0tMYmtHLV85ZzM4ODZnRFJBVnhmYjhPWm40WnRISmszVjk2b2R5eEQtQ1d4UTVXOWFMenNvcFMybTkxdWpIc1pkM1F4TVEyeVdZYnU4RWJIMS1mT2labDdPTFpn0gGrAUFVX3lxTE44dmhScDRfM2JkcHdYNDBzUzlLZ09admptTlBvY3ZiTG9FbjRBZHJNVjViNGVJblM5TVNLSlM0ZnhSV0hsbUFFUy1Eb3JNT1ZESC1STWVxeFc1T0VpY1V1dFZpekRadW5uSFgyZWhSOUpIY0JfbjJuZ1RYN0hrUUpra1NtN1pBeHE3SFlWbjBCejljSzhhZUppazZfblBuVDREZXRHNWdqTmJoUQ?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "6947",
+   "type": "News",
+   "tags": [],
+   "text": "CelcomDigi (6947): CelcomDigi Opens Third Flagship Store At 118 Mall With Year-End Play Deals Campaign - Pokde.Net",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SV0NaeFB5SXZxeTJ1VXZHcS1sbEtnb0J0a0Q5YUF0S2tERHJwNU9HN2h0N2c2TTUzRmI5Ql9mWi1MQW9DaXFOTDdxMFZaOEhrSUg1OG91YXg2b25hWjRTQVlMbWEyTTlCTHZrXzR2ajhRdXZ6bnhRdWZ2SDk5Zw?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "6947",
+   "type": "News",
+   "tags": [
+    "Deal/Contract"
+   ],
+   "text": "CelcomDigi (6947): HUAWEI Malaysia signs new 3-year MoU with CelcomDigi to train the telco's workforce for the AI era - Nasi Lemak Tech",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOGItRThRMWMwaG5DOURra1RiY2w0SkcwNWJyc1g0NzZEcGxHQ2FabjRSRVFSbHVpM3lQOVhrbDNxVXV6SG9CVHl2VnBlMjZGSFBxSWVSTk14ZlFwQ0hKR2JFSW5ZTGRHTjVDbkxxUEZCaUM3R2Z6UkpaNXRxaHpOV0VQRHEyd1E3ZkJ6MA?oc=5"
+  },
+  {
+   "time_kl": "2026-11-13T15:45+08:00",
+   "code": "6888",
+   "type": "News",
+   "tags": [],
+   "text": "Axiata (6888): Malaysia Closing Bell on Nov 11 | AXIATA Was the Top Gainer of FBM KLCI - Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ3pUSTFHSVp3WHJheDQ5SGFBSV94ZS1DY01FVkF5QjhZZWxFbkNPS2wteFNDOExlcHQ1Ri1BbzNGUlEyLU9Ka1Z0ckl2Q2xJMXBlRXdLTmtGeDVFdTY3elBnMThySGdaaHFZbzIzdE9oNlNUUkFPY0g2ZUg4OXVJSk9fXzUzN1kyOVlRb2VwR3lXM0JyNnBzRGp3?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "5255",
+   "type": "News",
+   "tags": [],
+   "text": "Lianson Fleet (5255): Lianson adds DP2 heavy-lift vessel - NST Online",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd0ROQ0tZcjNZbjVPXzN0MHZ1SlEyeGVMWmFoS2hjTEdoeVUzS29FS0VReDZVbHZkNURoaU1WWEFDemFiZ09xdHB1cXRmTnotTXdfdEk5VDdHdk5mMURGLWFiTHlZazI5dW9hR3FZc0doV1VpQkoyUXFTTTYwWS1UdDhab25vclQzX01DUVA5RVczRE1ZbkpR0gGcAUFVX3lxTE9fMV9hSmJ3aGxfXzFuQ2p5akdOUlU5eXhYRC13V18xRHp3ekVMdU5OMkxMbFRhRHFCLWJzWllRVlNxUW9RMUp1bWZiMG1FRXF2OTZhaXRneFlaNjNNOE0wSzdSZkhMQ0hhUUVaV2s2Q3E5VUFaYVByS08yd0hnM2szaHBTUGE0QWJDVGhraGhnNXFTNkhFa1ZZT1QxMQ?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "7277",
+   "type": "News",
+   "tags": [],
+   "text": "Dialog Group (7277): Dialog to invest RM860mil in Fatimah gas field ops - The Star",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMWo5YjE4am80SXMwQWlkcEVIa1RwRzBDdFM1bzJMTkJTQW41NzRpZk0wNkRZd1JVeGhtN1Y5MC1vVHctajd1MUlzOVhzWDFYdFZQeFd2UGJ6Tkg1b0VZM3dIMGtJT1EwVThfTWV1Zkg1NkJhYzkzQmVmQllkUF9mX0U3ejhZLVZnY0NsWEdTLVRUYTYzbjZwTWhMNjd0VXBwZzIwYmZ2cm1FSGFwcVFLUg?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "7277",
+   "type": "News",
+   "tags": [],
+   "text": "Dialog Group (7277): Dialog starts Salbiah gas production, invests US$211m in Fatimah field - The Sun Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS0t3WXFGSi0zMFp1TEc5eVl0a1ZYSEpNUDJsMWJscmNtLTBqbklMMFFna1hhdnZseEh5YkZyZTB0NUJKSUJTT1JlbWhtdTE0VzV0aE5qZVN0bHpVY3BNTFJOMm1ObWFvdnJKNk01TENvWWhOYmF1NEpNbTJ5WldqbEo2dEtJQ25aTWNNdlpUa2Fva054T2xHVkR0cFk?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "7277",
+   "type": "News",
+   "tags": [],
+   "text": "Dialog Group (7277): Dialog to invest US$211mil in Fatimah gas field development - KLSE Screener",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMzZ1ZDZRNG5fUEhZRUxQOVE0LVlwU1F2X0lPTTF4UFdxZmEwRFR0NUZpekFWVkNqSktnS01GOFJNVFhGYkY1RW5heU5yT0k3dzdwaHNBdjZwUjNPblhmRjhjOGIwZnpxVmdyTlV0MlRWcnN6QTFfWFNpQS12OGw4WS1HZFRFREhZYnhKa2pJUk80WDNwV0FYd2ZlNXNHRWVYRmxTVlM4cFF3VklEYkE?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "7277",
+   "type": "News",
+   "tags": [],
+   "text": "Dialog Group (7277): Dialog to invest US$211mil in Fatimah gas field development - The Star",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX1VOd3JWR09IODBtWjREVndsVFRWekFYSEdUSVFjZl9HdHZaWlBkVUIwMGdCTGpDNmxKNXlmalhDYnlnM3UtTEJxNW5XR1VReGlYMnQ4WWhuWEI0eGdZUDBxenItckNYMW5tMjBOU1JTRDNwblYzcENCU2NBTGZIYVFjam1mYnFGNDBlbXM1NkFwNWpRM1FKcHVkUm9ZbHp4MmVMM0RuejJ5QjhrX2FTcmN5dFZqU2dqbVFZ?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "7277",
+   "type": "News",
+   "tags": [],
+   "text": "Dialog Group (7277): Dialog hits first gas at Salbiah, takes USD211m FID on Fatimah field - Minichart",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNREtUMHNBMzBtcUE2czA0RXZ0S1VWTldGOW9naEtVZ1FmdEx2ZW1NRzVPTXJuSk5zRDB0dVhKRVVNOEVPYzJ0OGUyTnZEVHc2cFJGbVFxd0hmZm5oZ1NDSmZBTjJhbGpNaUNkWWgwUUlfT0JpakdUX1YxRHJxYV8tZXNSYUZIdEFJNlRTczNsaDYyUzdVU3d1T0xvZllEQngxdWZiNmh2azVKb2hR?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "7293",
+   "type": "News",
+   "tags": [],
+   "text": "Yinson (7293): Yinson says RM2.50-a-share privatisation proposal not yet accepted - The Malaysian Reserve",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVWlOLUtuRVdyNkNGakRxRjJ4RHBBU3d3N2RXcEJoTnRoUHlYMnJpODZ1aVVPZUxkNWRtQVhfR080Q2VtUEJybm5Mdk9POTNrQ1RPRGhUdi1zVjFrMkNCTy1xX1VJbXZ4WWhqSXJyV2RvWXFEU21QY0E3cEpjOXFSeGpLQ0N4ajduVGtxbFBvaEJGZk1QNzJMbjM3NVFtc1ZFazFIZ3VOMktKN1JXWEhv?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "5243",
+   "type": "News",
+   "tags": [],
+   "text": "Velesto (5243): Velesto’s Naga 3 rig still up for sale - KLSE Screener",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS2gwSXdYRUJOR3JaN3ZWMmRkdGdmY3J0Wlg2YWFLMi1sUkVKV243ZkNkcTQwd18wMHVCcm1OY1RNa0VYUy1jUDBtaWhRNFFGZkFuYThLcF8tR3ZtcHNCZktUZlFXbmNSdjg1bWEwZ3VBQUx4UlJ0aklRakZ3S0JrOTZGQWI2aFBwcVlJTTRwX1lRUQ?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "5243",
+   "type": "News",
+   "tags": [],
+   "text": "Velesto (5243): $VELESTO (5243.MY)$ - Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40d0FmTDlUY1V3ajZ4ZHh5YmVOMklOaFNSWEI3UVVrcTh2WFEzR2dwN0FyRHpIalJfU3FDMk5MS0ltanBGd3haTHlCSGx5T3NhdnZDeHFjcGRaazdWaHhleVAwQVZDZ1JoaVpiN2hKQjVrZTUyeEhhNQ?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "5243",
+   "type": "News",
+   "tags": [
+    "Deal/Contract"
+   ],
+   "text": "Velesto (5243): Velesto secures PETRONAS Carigali contract for NAGA 3 - Cyprus Shipping News",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbTEyMm9oQU41SnNxWUtrdXNoQXpfbU1tTFJnbTFJaVRmMHFtM0FpdXN2NENSSGdERjRZOU5IT0hXN0hBTVgyZHpsWmxsZHlSS0V1U005WFRsOW04Ny1uTW1yRUVwbmJnVkl0eWxuV3ROeVFEYmpLVWp0TVVENU5scU10MWIzTl91TUlxbXEyZDZmdF9NblVaWjM5S0E?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "5285",
+   "type": "News",
+   "tags": [],
+   "text": "SD Guthrie (5285): El Nino to hit SD Guthrie's Indonesian output - KLSE Screener",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeUVseUhMdXp1djdQVnlfYVVNUTlTMU9nY1Q1Y2x0c3B1YUxXS0VULUJSblVEV1dJb1B2YzE2ZjQ0eS00Mm05LVd0VzliZG1EVmo5dW5tTEhsb0lwb0R1a0s3ZFdJLWhSYVJSNURqNEJZNDY3Rnp4VnZudkpwU0pSdW4xbDh4eUxZNWFpMVdpRko4ZnZlcTZaV29qbkhqUkhp?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "5285",
+   "type": "News",
+   "tags": [
+    "Results"
+   ],
+   "text": "SD Guthrie (5285): SD Guthrie’s industrial profit climbs 78% to RM770m - EdgeProp",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZmMxWHRaejRES1N2emRnek1WejY1cHJTVTRkUGFHYWUwY25YT25GNmhNZnpxdkYxRE9VUDN3RFc0akN3alNZQnRuNGRfdy1Dd2JzTWpvRzQzakJIN1NoaVY1emE2TDVqRWxpWTdFeFZSTm1HY25vNHhhNldheHpZTUdlYlZKUXcxdFVSRDJ2aWFVMFZzYzRxU0NkWQ?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "5285",
+   "type": "News",
+   "tags": [],
+   "text": "SD Guthrie (5285): SD Guthrie’s growth goes beyond palm oil - The Star",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbWFjZGhnMksxNEc4WVZKUjJpUEdKMU44YjBJME5KaEotVWM0dUIwSWFaZXlCZ2pqVEZ6c2g3d3htWE5sUllEYWFQNzNzdFg3N2N4RWRWb2ZLNFVSaEV6OU1iRVdXYWRva0M0aDZwaFpQX3M0UHNTNFEtOHk4Qi04VnpHVEw1dnBVOFBUSE03VU9idEhqUlkySndIODhFVlQ5RGc?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "2089",
+   "type": "Volume",
+   "text": "United Plantations (2089): volume 831,700 is 2.5x the normal pace for this time of day (20-day avg 374,695/day). Price +4.56%."
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "2089",
+   "type": "Price",
+   "text": "United Plantations (2089): +4.56% today, 5.3x its normal daily move (about 0.86%). Last RM 31.620."
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "2089",
+   "type": "News",
+   "tags": [
+    "Results",
+    "Dividend"
+   ],
+   "text": "United Plantations (2089): United Plantations posts record 3Q profit, declares 45 sen dividend - The Edge Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IdWF0MUoyU0ZMbUswbl9icUo4NFZLVXpHUWdhdWt2VWVsR0Q2RWFWcmRmVGFKc2l2bDF1akNYdURrZXIyRjF3cjhmVG42Z1Bf?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "2089",
+   "type": "News",
+   "tags": [
+    "Results"
+   ],
+   "text": "United Plantations (2089): United Plantations’ 3Q net profit jumps to RM290.93mil - The Star",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYmVnRjlhLTVndTJjUmlXVnZEYmN1VnlteTNjN0R2ektXYUhmZlRNbzk5bFNrOHFmYWtCTzRzOVVWZ292dkdSV3BHRzVvX0R2VUNyckI5bU1obEpDWURPX0x3dE1SV1d3VWJYQi1oVzJuUEVnRWVndnlqOXRmdlVtdHBpYnNrdHgxOEZidG5IRDZ3UGdFaHJhVVZ5aHFpb0J3M01mQWw0bl9SYzdwMkZMNUpVVQ?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "2089",
+   "type": "News",
+   "tags": [
+    "Results"
+   ],
+   "text": "United Plantations (2089): United Plantations reports 43pct higher net profits in Q3; warns of workers shortages - NST Online",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdER5bUVJdEl6cFo0eVNHM2dINXJqSXlmWkNUS3p0RzFPX1M3NElVeEtqcEw5N3h3QXZwSFJOWUQtSGpXYmtSOF9rVkNIdUwxUTg0TFJpaGdiSDVTSmVvMjV4UU1SMjVvMXJlMWEyaVdMQi0zYTIxdkk4bnYzYi0yOFRpSXotaXprbFQ2aGdyZ0RJRE9rVVRzOXExY0JkSnRudlNiMmNmU1FISVZmWTN4a0U1OVFfMnMxQkHSAb8BQVVfeXFMT0gzZEx2SldSSWhGdC1xWDIxdXN5RURXNE01cWdfSEFEUFg2MjQzbHFlWU94SlQ3cnRjNG40TjM3YUZGaFpvSi1MRHVEcm9fNkZScHNnUnFydmFZR1A0aURmRW5YcVowamdKbDN5UHVQS0hZY1NfMTdNZnVfREgtOHRONlo0MXFnbHNnRmFWYVNHTkx0SEIzVWVKTTBIUGhOVmJSb1puVEZvQUFhVUhaSXlBejRWS3RDS0RneVlsVGM?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "2089",
+   "type": "News",
+   "tags": [
+    "Results",
+    "Dividend"
+   ],
+   "text": "United Plantations (2089): United Plantations posts record 3Q profit of RM291m, declares 45 sen dividend - The Malaysian Reserve",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMHdaUEJaM20zd05SUkVZRVFpcU5jaUJiSXZ3RmE5bnFrMVF4d3NVUG9fY3JLQmVBeXVQYUtwbEk5RkJZbUpHdDNFRkloYU1Pb2F3QUV3VVZ5VHpONTFoSlFZM3NaSGRIUWZTMDN2Mjl6ZkhjaHZVamVKNXdzU3hDeGZlSkNsRHpvZGo1eGlPNGlCbHA0SWhiWkw0QnFRZEtISS1uZEhuVDhKeWhBMTVldHJIZ0tUdUpQNHhySQ?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "2089",
+   "type": "News",
+   "tags": [
+    "Results",
+    "Analyst"
+   ],
+   "text": "United Plantations (2089): United Plantations Record Profit Surge Prompts Outperform Call With RM37 TP - BusinessToday Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQm5jcjVUMERPSXVoZTVBcFVOVHRWWWF5aVExU1NWMjZwdUNiZUtFMjdmU00yTTRxTWpuRlFxTWZoelo5T21nUERURVI2SUszZDk5ZnVjRnZKNUpncldiVklTMnhZa2pCTnBtVlRJbUFnQ0QtZGxYV2NwQlRaSUNSYS1kZVpMWV9xOW1GczQxTHlEMC1jRDFHQjBfOGlDak1aVTlXazk1NEVMaXFtRGV5UzFYX0xRQms4d0Ywag?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "2089",
+   "type": "News",
+   "tags": [
+    "Results"
+   ],
+   "text": "United Plantations (2089): United Plantations 3Q profit improves - KLSE Screener",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbUt0OHg2LW9BZFQyejl0S3RZMC1kQWExbTgzQzE3ZUVjS3pJLXc1dEtST2wzTDV3Mm92N1o0UUhFV0VMbVZJam1HX2YtdFpWTndBcXg1U0lCenF5bE90Uk1kQzlwcExMLW5pV1VheGNuZXh1ZTlIZnE3RF9qRF9jbGtUOENUa2haOE5iSWlXaHI?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "2089",
+   "type": "News",
+   "tags": [],
+   "text": "United Plantations (2089): Zetrix AI, Dialog, United Plantations, Heineken Malaysia, S P Setia, MMAG, Southern Score, L&P Global - The Edge Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE01cmYxUXNLQWRMYUVnc3E1YzY0b2IwTDJjMnYweVkzVVJZVUtmMHJvMGlmUzJZSnZLNXpJSW1CbnBfMjF4cUREWEVoU1oxM0gy?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "2089",
+   "type": "News",
+   "tags": [
+    "Results"
+   ],
+   "text": "United Plantations (2089): United Plantations Berhad Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTWVMaUVnaFd4NDgtSGVsNVVBYXUyZDZhVkJhclk4YU93QkZKLUlzX2VPemJpbU1taVFYVjlWZFRlMFVuS2NpOHpmRkJaNS1PS2xzMDhWbUlVcnBfU2o2OC1TVXRkaGVkTUNUcDB4aTdpcXBzckU1Y2hmT21IYS1pdnRQYzhNQThDVGNYT2V0cFZxT2Z0bzRQeUdhby1UcElQVlBZTjlJY1lpd3BkTW15VGxDNE5lNThjclhxV2VsUWd4VGpKYkxtTDE2bXFYQ3F4ZGc4SDBZWWpOWUxOdTlEcnExb1E4d3B6?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "1961",
+   "type": "News",
+   "tags": [],
+   "text": "IOI Corp (1961): IOI Corp reshuffles board as Lee Yeow Seng focuses on IOI Properties REIT listing - Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUWNWamFCdnVxUGRSUkItM3hob2JseVZtX0xxRy1XcHhxTXFjOWJzUGpYTWhrMzVIV2loajFBZzA4enNRTzUwV1VNYjN5bmxiQzNyamN6cFV4TlNvZXFIMWxnRzJyN04yVDN5M2U5TXhSV0lmZWxfWjFWblhpN3FaSmE4QU5jb1VXZ3RrVXNKcw?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "1961",
+   "type": "News",
+   "tags": [],
+   "text": "IOI Corp (1961): Unisem, Frontken, Public Bank, Maxis, Zetrix AI, TRC Synergy, IOI Corp, IOI Property, MISC, Yinson, Microlink, APB Resources & Nestcon - The Edge Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BbHAyVDQ2TTkzSnpUaTEwQ0xKNDFSWWd2dU54a3NUa1VEclBqOG1mQ2pZd0R3T29TRlM0OEk3QTZiaEVYN3Rhb1VFdVQzWDBN?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "4383",
+   "type": "News",
+   "tags": [],
+   "text": "Jaya Tiasa (4383): Jaya Tiasa's Fresh Fruit Output Tops 100,000 Metric Tonnes in October - www.marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVzZJMnJHZW51MUhtQXRBLTVOS0tkc1JXQ1VDZFgyVlI0TXdmRWhSSGEya2ZsbklTLXFnMERxRUcwUlNaaXB0aDdsWWtESHpocENiYi13M1ByU2YzTkdzXzV5QUEtRWxJMGZONTV5MGlsYWlaOU9hSUpXVDNRamZ3OWNiMllQNVc0aWpySGk1OXZEcTB5VWpMNUtDeWZDS3RBc19CWWRwX2VTX2QtaGlQWldDY3QxcUx4ZkxYYlQxVQ?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "9059",
+   "type": "News",
+   "tags": [],
+   "text": "TSH Resources (9059): TSH Resources Reports Share Buy-Back - TipRanks",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcm9kbjFwT19MNUk1T0tCVTFqMldIYVVPZjhJVldXWDRZZTZlTmxxUno2WlF5R3p4NzJaWU5TY1o5bnpJdzdmeTFUekVERnVhZDJrR2RkYUhLc1FmSEJ2aXBoSlloWE9ncmRLZ28tU09aUVNMVTA5ejdvRHBuZHpsYjJXSmxOd1JmbDNzaDIwZE95QQ?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "4863",
+   "type": "News",
+   "tags": [],
+   "text": "Telekom Malaysia (4863): Telekom Malaysia Berhad (KLSE:TM) Stock Price - Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMQkFFSzk3aUU4LWpfMmk4Szh6MHBzblJ4bk5Wc1NjWlROVzBxUVhTaEo4aHJmX2lRSVFwRk55cENzb3pKQ0xOSzRaRQ?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "4863",
+   "type": "News",
+   "tags": [],
+   "text": "Telekom Malaysia (4863): Telekom Malaysia FC - Transfermarkt",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSTh0eGZERXVhNS1hNkpOUmstZ2xXU29sZGJOMzBkc1hRRkhGMXl0eE9ma3B2M1M5d3JCcXdsbThUR2N5S2xRa2RXTm11bDNZVkVURXNqZi1reXJIajlvTUZxLXhkdTFSR3BkSkwyRWIyTUhHNkNXRVp4cWJCb0RCTVRTczBBTzdJ?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "6947",
+   "type": "News",
+   "tags": [],
+   "text": "CelcomDigi (6947): CelcomDigi lowers carbon footprint - NST Online",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWXZBZVJuazMyS3dZZmVjNlpwM2pGT1hLc2dwTkVrQ01EQV9OUUhjbFdrQkdGeThWTFR3VjZtVWhMUzlHZWxXQXQwWlVRT2xhNzQ0el84THBsdmJRdkZlRkZlb2lGemUxaE5ESFBYRjhfZ2ZvWkdXT1JkWTI3cnZIMlFPcXlITGotc3NVem83WXowLXZ60gGUAUFVX3lxTE1ZdkFlUm5rMzJLd1lmZWM2WnAzakZPWEtzZ3BORWtDTURBX05RSGNsV2tCR0Z5OFZMVHdWNm1VaExTOUdlbFdBdDBaVVFPbGE3NDR6XzhMcGx2YlF2RmVGRmVvaUZ6ZTFoTkRIUFhGOF9nZm9aR1dPUmRZMjdydkgyUU9xeUhMai1zc1V6bzdZejAtdno?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "6947",
+   "type": "News",
+   "tags": [],
+   "text": "CelcomDigi (6947): CelcomDigi To Give 300 Students Real-world Experience - Sarawak Tribune",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSDRpN05QVm1odDlPWF8wZ2lSMy1wSzEwaVZRa0ItNkUzY1BPR3g0bVZ2U3NqdFlTcjIxWWVNYUxfLTlqSmtjMEVoR3YzUFhZQlFUUjMtTHUxaUJUQm1aNTR0TllDaXl1MlBHcWMtRVlTM1ZZZzV6Ty1qSDBhZmYwWTFrUHdwV0xJSm12VG5R?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "6947",
+   "type": "News",
+   "tags": [],
+   "text": "CelcomDigi (6947): CelcomDigi Opens New Flagship Store at Merdeka 118 - www.techbarrista.com",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4c0NvaDM0TEJHZG1WYllub2pscFRtamRpZzFJYUJNZkdyc1Y5Wi15TVlpbVVmVXhYTk13bGpzTjNja1RLZEowMXNXZlZtdVhFQUdqYVZ3WFBGYWZSUU1HZHJn?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "6888",
+   "type": "News",
+   "tags": [],
+   "text": "Axiata (6888): KB PRASAC Bank, Smart Axiata Partner to Expand Digital Financial Services in Cambodia - Cambodianess",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObHN4dXhzRHRDZDlYLUhMMFkxOGpJa25rNXZyUTlvUEluZTFKcTctN0xRS0NqclJVeEE2a0JJS2hDNDBiaXlicjJlM0Y3TllodU5XWWh3Y194QjFkRklBN2M3OHZsVGxzMC1FUGtQeVNfRC1udzhmVHZPUlRWNDlId2NVSWxtV05DQ19SUUVQUnlGdkRmc014aVpNa3JoX1h0dDVDdURXcTJxQWhLVGZyOEF5VE44Y293?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "6888",
+   "type": "News",
+   "tags": [
+    "Results"
+   ],
+   "text": "Axiata (6888): Dialog Axiata's 9-month profit almost doubles as EBITDA rises 20% - Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdW16QXBGelNpX3I5RFpaUEMzaXJGdmdEd1FocUxfVUVYbWdUcEUxcUlSS0s0LVVhbUo1RWxPd1B4UDVsM1Z1Qm9HVjNwSDVPMncwTTRNMU5vRWZwSEV2WHdTY0ZUek5wUVJGUDRBV1A3eU5DUGhPZWNfMUJ5TzFheU43a056cFVvdFlNemdUMW9SZUFtSEFybzhmTkNncmVabW9KSUwtaE9EZw?oc=5"
+  },
+  {
+   "time_kl": "2026-11-12T16:09+08:00",
+   "code": "6888",
+   "type": "News",
+   "tags": [],
+   "text": "Axiata (6888): HIGHLIGHTS – Dialog Axiata vs Hayleys B | MCA Challengers League 2026 - ThePapare",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNTEzaXZ2dklVdjRWVUJfUXZFM1A1TXJnVV93cTBDT3dMTGg3LU5QQmJ4dmI1TUpIRE1iQXNPWnc5bV85RFZrZ3lqSXJlU0dUQWdrQmd5WXJ6d0RSNU1UR1Z2Z3UyNUJ4NkZDYzJWUW9sWnJVWXAwYWJuNmFaS1RQdWkxTFAzN2FhSHAzd0JDRFkzSThNeDdJ?oc=5"
+  },
+  {
+   "time_kl": "2026-11-11T15:40+08:00",
+   "code": "5255",
+   "type": "Volume",
+   "text": "Lianson Fleet (5255): volume 161,600 is 2.4x the normal pace for this time of day (20-day avg 81,390/day). Price -1.35%."
+  },
+  {
+   "time_kl": "2026-11-11T15:40+08:00",
+   "code": "5255",
+   "type": "News",
+   "tags": [],
+   "text": "Lianson Fleet (5255): Lianson adds DP2 heavy-lift vessel - NST Online",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPXzFfYUpid2hsX18xbkNqeWpHTlJVOXl4WEQtd1dfMUR6d3pFTHVOTjJMTGxUYURxQi1ic1pZUVZTcVFvUTFKdW1mYjBtRUVxdjk2YWl0Z3hZWjYzTThNMEs3UmZITENIYVFFWldrNkNxOVVBWmFQcktPMndIZzNrM2hwU1BhNEFiQ1Roa2hoZzVxUzZIRWtWWU9UMTHSAZwBQVVfeXFMT18xX2FKYndobF9fMW5DanlqR05SVTl5eFhELXdXXzFEend6RUx1Tk4yTExsVGFEcUItYnNaWVFWU3FRb1ExSnVtZmIwbUVFcXY5NmFpdGd4WVo2M004TTBLN1JmSExDSGFRRVpXazZDcTlVQVphUHJLTzJ3SGczazNocFNQYTRBYkNUaGtoaGc1cVM2SEVrVllPVDEx?oc=5"
+  },
+  {
+   "time_kl": "2026-11-11T15:40+08:00",
+   "code": "7293",
+   "type": "News",
+   "tags": [],
+   "text": "Yinson (7293): Yinson privatisation exposes MISC to higher risk - Free Malaysia Today",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdEp0SG5YX3dXUElIMnNLUTRDaXZTWHNzWmUyd2JGMzdrbGhBX2Zmc2I0R3AtSWV4Tk5BNkJjbm0tV3NYbUZtRWxtTFJnRFRiVV94aU1KcXVoNEIyd0hIQ3gwTXpsZDNBZmphRjBiWm1kUWNWLVNiYkw5THgzOGFUUFRDenI5djR1NTl6UGQwRW1ZUDJsWFpmUzVHUzZOWDBGb2pwMTNXbTBWeHRGOHJtUl93?oc=5"
+  },
+  {
+   "time_kl": "2026-11-11T15:40+08:00",
+   "code": "7293",
+   "type": "News",
+   "tags": [],
+   "text": "Yinson (7293): Yinson's board yet to respond to privatisation offer - The Star",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeUJfLWlxQk1lZDEyUUxkVHFfeTFvMnE1Zk5EMERXNEdpQlAtYUk4c3dzaWFtd0hpZkppdXRKb1JxaGJsMGZIMlgzandLZXJXMzFCdmVHNWpLNWdsTlF5aURNRGJQR1oxczg0UmFNWXlVdUR5bDBMbFp6NHFJZkRjcXN1WjlOREJtTHhyYTE5dGZYSlBhZ0VBNVg0cjFic2QzcDZyODlIUHpmT0ZSWE1ON3VLVk5wQQ?oc=5"
+  },
+  {
+   "time_kl": "2026-11-11T15:40+08:00",
+   "code": "5243",
+   "type": "News",
+   "tags": [],
+   "text": "Velesto (5243): Naga 3 likely to improve Velesto’s bottom line - The Star",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZGpSMEphSGFYUGthMmNIY1BKOWtOR2d3cmljRVFfUnNwSWxfMmpYdUczUVh4SkpTZE1Hai1LcldZcERHUzR2WE9QRHpKcTRWeUZ5OWo0bC1Ib1RSWUNseWtITWhubzFKOVoxZkZLNGhYOU94Y280dGk2dTd0a0dlVlFvWmc3a1djNVBLVUZ5X0RhMnBFM1ZoTno5UWVBVEhhbXZxM1ZnZzVNUQ?oc=5"
+  },
+  {
+   "time_kl": "2026-11-11T15:40+08:00",
+   "code": "1961",
+   "type": "News",
+   "tags": [],
+   "text": "IOI Corp (1961): IOI Corp Sees No Major EUDR Compliance Challenge, Expects Premium For European Sales - BernamaBiz",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UNk9CQVVxQW5EWVcxdnhVMHI4S19DYnZQc3VBVzJmRk1DOWN6OWRBaEUtWUZveWJTNjRfYzJOZ0FDVUMyRHRSNHU5YzRRdDkzUWZfSg?oc=5"
+  },
+  {
+   "time_kl": "2026-11-11T15:40+08:00",
+   "code": "1961",
+   "type": "News",
+   "tags": [],
+   "text": "IOI Corp (1961): IOI Corp to raise spending in pursuit of expansion - KLSE Screener",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV3lBZE5KUkxCVl94UFdWWEM2WXVlTmFvTGFUZTI2cjhPLU9RNlRzLTU1MmlYTFFuWERXOXUyUng2WU8tNTBGTzNuUHZVT3FJUjZZTW42STUtUDJBTWo4dk1XVXJHLUk1UkZZZTg3cXZjN2tQU2ltNm5uZmRuZ0xvTXVPajBCQWlTOWtfZDlkekV3S3BBZmUydWFpMVYyZFlfU0E?oc=5"
+  },
+  {
+   "time_kl": "2026-11-11T15:40+08:00",
+   "code": "1961",
+   "type": "News",
+   "tags": [],
+   "text": "IOI Corp (1961): Lee Yeow Seng steps down from IOI Corp board to focus on IOI Properties - EdgeProp",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMjUzcE56bFBTdnc0X0JpZXFUdUt4NURsQ2RjX005Z01CMnd1MkJVaDUwNGk0NjB6YTJXQURSajhRb0tYbzJkaTExZXVLdHJNcnJIeWM2djk1ZmlzWjk3NW9aWE5KMmRObk5FWmt4SWp3UV9UbmpwWG1DWG1rUlVlRkpSaFRGbVBscUhrYXNWb0pFaHlBZkU0ZEhlcVRMODdxQXc?oc=5"
+  },
+  {
+   "time_kl": "2026-11-11T15:40+08:00",
+   "code": "5126",
+   "type": "News",
+   "tags": [],
+   "text": "Sarawak Oil Palms (5126): Sarawak Oil Palms Reports October 2026 Palm Kernel Production Of 11,239 M.Tonnes - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYi1xNG5BcUJQNmNNRVMzbG94WGFEZFJNY0FaTFBDX2hYZ0lpaEhEMmdJc25ZQ0VBTUQ4WGVzaEM0U0FGWUpDNTM0c2V3anBxOXNPREZ4eHEwWUVUUjVlR1JGUldId2hoVTM5U2Y3Vm13aC11ZGV3bXE1RzIwM28xemN2dGlBYjhDV3hwTUZCV2dKYllNQmFpM0tOWk1XMWpnQy00bERyVTJXN01DLU51TlBCZlg5OUd5MmZfMUdfdWhKa18yY1JpbDJ6QWVQemlQekhDNDRSWkMtMWVPVTcxOFpSVFc?oc=5"
+  },
+  {
+   "time_kl": "2026-11-11T15:40+08:00",
+   "code": "5126",
+   "type": "News",
+   "tags": [],
+   "text": "Sarawak Oil Palms (5126): Sarawak Oil Palms Posts 127,129 MT FFB, 50,975 MT CPO for October 2026 - Minichart",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ01kQmRncFNPV1FZOGRsTk9vNnF6ZjdRVmJRRDBsUG9TeG9Db1plTDl5R2pVQ3h0Ulhfcl8wc0FUU2RYVHBncDI4RG1NT05nSm1mUXVSYmFscU85TW0wQWotOHNvdVlvOFA2eWIyWDlYbWs0M2k2alhiYVlFSlBucmRMQTdFMk96RU53RnZ5RWJTQzI1YWY2LXFYcUh1aFhtOEpESU5EeUUtR1ow?oc=5"
+  },
+  {
+   "time_kl": "2026-11-11T15:40+08:00",
+   "code": "9059",
+   "type": "News",
+   "tags": [],
+   "text": "TSH Resources (9059): TSH expected to post RM55mil to RM60mil Patami - The Star",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNckRtbC1Xazlrc2xYLWNJVVRuazVrdmtVVmtSRkRBUkgyZWl4LTVER3p0eWR6T054WEhrNW9HYTQ2WWhJeDgzTG8xcHNMakV1cVY1eWhDSzZGYWVGVG1HQ2pJNzE1SWZxS2V6M01CN3lfYzZiYVdra1B1Zkl6R29QcjVzb1hzU01jd2NjazFsUjlXUXBXVms4VjZVaEhZWHpWOTN2ZXhVSlkwM0E?oc=5"
+  },
+  {
+   "time_kl": "2026-11-11T15:40+08:00",
+   "code": "9059",
+   "type": "News",
+   "tags": [],
+   "text": "TSH Resources (9059): TSH expected to post RM55mil to RM60mil Patami - KLSE Screener",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYUVrc3BtRTJ2MkdMcTRqMl93MG56b2RSZkV5V2hpWUpsdXRIQUlpTVAwdmhQVnBjOWwzMFdobEdBNThTdmRPbDItRHF1dDNxNGM0VkpDTTh6VGE3cXJpWVNvV3pZZno1R21OLUZwUlJXbVRvNmVyV1B1dk0tazN6QV85eTBxRTFCZ0JUdTcxQjU4Mng3Y2hmczdRWVE?oc=5"
+  },
+  {
+   "time_kl": "2026-11-11T15:40+08:00",
+   "code": "5031",
+   "type": "News",
+   "tags": [
+    "Dividend",
+    "Analyst"
+   ],
+   "text": "TIME dotCom (5031): Time DotCom stock gets CIMB upgrade as dividend case holds - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY18xUnZLRGtYRkRpdDEydm9KWUZFRUtkRjZVOUlEVDJGUGNXZk5XR2w3LVJkbEloYWJOVWF4YTdoSEJVVEtlY1R1NmZab1RYSi0tOVpaYmxuS0wzNlVfSWFOVkRxdms2MGtqYlQzYmxfbEp2ckVnNWdGREx5V3d1TnZBVXg1RldfZTRYRHM5ZjF5M2pXcTc1QVh0OXdNRkY1eGNhYnZLb0tPMDdiTFVUc0pweEtaRk1M?oc=5"
+  },
+  {
+   "time_kl": "2026-11-11T15:40+08:00",
+   "code": "4863",
+   "type": "News",
+   "tags": [],
+   "text": "Telekom Malaysia (4863): TM expands digital growth across AI, cloud and cybersecurity - NST Online",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWXFvbnE0MHFwR0lObVplc1FuSU45d0ktVFV1RmVURF90SU9PUkg4bEZrclJYRUN3dGJwRl9oYUNsTHlodEwteWVzMktrbThza2xjUl9PY1lKTTBacXB6RlZPV3g4MkxTRWhXN0VkQUphcWw4X3NibHRCQzYzSWlkVUpJakh1VUo1ck9vUFh3MzFfdzQwNXZOZmZ2WUFSQUlEODFaSGpxb3hkOE5IbndybHJqWDdCSnhZXy1J0gG7AUFVX3lxTE5ZcW9ucTQwcXBHSU5tWmVzUW5JTjl3SS1UVXVGZVREX3RJT09SSDhsRmtyUlhFQ3d0YnBGX2hhQ2xMeWh0TC15ZXMyS2ttOHNrbGNSX09jWUpNMFpxcHpGVk9XeDgyTFNFaFc3RWRBSmFxbDhfc2JsdEJDNjNJaWRVSklqSHVVSjVyT29QWHczMV93NDA1dk5mZnZZQVJBSUQ4MVpIanFveGQ4Tkhud3JscmpYN0JKeFlfLUk?oc=5"
+  },
+  {
+   "time_kl": "2026-11-11T15:40+08:00",
+   "code": "6947",
+   "type": "News",
+   "tags": [],
+   "text": "CelcomDigi (6947): CelcomDigi lowers carbon footprint - NST Online",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaUxPbnQ0UmdzX2FkcHBqZWpfQUxfSEdwZjBnckVLUHQyMUdYdWF1OTZLM3h6cy1JM2VaZnZfUDV1MkpHMEdYRy1uYkxRTkpHS2QtZlIyRFZCY3Izc3FfT0wyNjAtZnJtZzB2eHZ6UVBjdEhoc21vSFRZM1hFaURWN1VDSnJNUnRnd3c5aDRaRdIBlAFBVV95cUxNWXZBZVJuazMyS3dZZmVjNlpwM2pGT1hLc2dwTkVrQ01EQV9OUUhjbFdrQkdGeThWTFR3VjZtVWhMUzlHZWxXQXQwWlVRT2xhNzQ0el84THBsdmJRdkZlRkZlb2lGemUxaE5ESFBYRjhfZ2ZvWkdXT1JkWTI3cnZIMlFPcXlITGotc3NVem83WXowLXZ6?oc=5"
+  },
+  {
+   "time_kl": "2026-11-11T15:40+08:00",
+   "code": "6947",
+   "type": "News",
+   "tags": [],
+   "text": "CelcomDigi (6947): Eyeing The Upcoming GTA 6? That’s Not The Only Deal CelcomDigi Has For You This Year-End - says.com",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQnZ6cTFaU1NjcjE5djdLV1REcFJrVzdPam1YVU1OQ0JJQkVGbHE2eTJnTms1T0JYa3ZDazNlM0kwcXVnZExLdjQ0bTRhRG1iaVk4bmRGX1ZlUEF4eFJKSVJsSlZQSnRoZXZhQWVFRk10TW1LWGItWDA2WWhuM0FKa2ljczFHV2pfRDc2ODFsdlpMZEpaRnZSUzZvNkxONlJURnNIemtoSjExdHRzbGNpd3NjZlZWajQ?oc=5"
+  },
+  {
+   "time_kl": "2026-11-11T15:40+08:00",
+   "code": "6888",
+   "type": "News",
+   "tags": [
+    "Results"
+   ],
+   "text": "Axiata (6888): Dialog Axiata : 2026 Q3 Media Release - www.marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa1MzUUlaaVItTzk4RjdRc0t4cDJDVHprOEJXN3lzTFk4bFJSNVRpM2NSQ082cHBpTjNWNXNKNXNVZUdGYW9rSVRhOF94M2lrU3hqZHNJU3ZPR2dTNU9lbmEtOVRmV28tdGhfZWM5QmQ2UU83bkVOM2FMbGhIQ2VpSWN1bG4zMXMzWGlULXpHVzVYUQ?oc=5"
+  },
+  {
+   "time_kl": "2026-11-10T16:15+08:00",
+   "code": "7277",
+   "type": "News",
+   "tags": [],
+   "text": "Dialog Group (7277): Dialog storage expansion to enhance income base - The Star",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUtsV1NibHVRTFlBQW90Sm1GS0VnczgwbXFKeFVBd05uM1dCdkhMakpDbWxYYzBtLVI2dWdIWmc5S2xLUlBucW5sNGl0U3RhZk9sbER2bDdPY1kwcE5UcDFpWTRoVG1zTUJxQkZPSV9UVC1TSlJHLVRtc2pKUGtMemcweVl0bndaMi1XbHVCVFZjcGp0RWJMT3FIQ2RsTE9ZYVBfdUt2VU9sdUlU?oc=5"
+  },
+  {
+   "time_kl": "2026-11-10T16:15+08:00",
+   "code": "7293",
+   "type": "Volume",
+   "text": "Yinson (7293): volume 13,770,500 is 4.0x the normal pace for this time of day (20-day avg 3,744,825/day). Price -0.88%."
+  },
+  {
+   "time_kl": "2026-11-10T16:15+08:00",
+   "code": "7293",
+   "type": "News",
+   "tags": [],
+   "text": "Yinson (7293): MISC’s RM3.03 bil bet to take Yinson private exposes shareholders to higher risks — CGS - The Edge Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyU3hUbnpfejNlT3BzZXZiVEtpTkhkVllPZ2JqMUx0c3J3YVhHeUdDaHhFaXQ5enhmTHpaZzB5WThzMWFQSk1nb2xoVTdKWnVC?oc=5"
+  },
+  {
+   "time_kl": "2026-11-10T16:15+08:00",
+   "code": "7293",
+   "type": "News",
+   "tags": [],
+   "text": "Yinson (7293): MISC-led consortium proposes to privatise Yinson for RM2.50 per share - The Star",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ3BUN25lelUwOVhHaXpTSWo0VWc0emdlSnJtV1BZYVdNNkFFSFJUUFhXODhFbGQ4dWR4TGducXFuVU5BdjBHVUlETG5UQnJvdEdYTXFibU1UbVF0Ti1VcG44VG9nenNBOVpzaGdodVl3eW9qV2txcFdIdFNERHdRMFBBLXYySjNyQ3ZMVE1NYll6LWNjOTZReTVNcmlvdlhVYUVSYXVaUmc4Sy1OSEliSUNkWFJ6Ry1hQkIydw?oc=5"
+  },
+  {
+   "time_kl": "2026-11-10T16:15+08:00",
+   "code": "5243",
+   "type": "News",
+   "tags": [],
+   "text": "Velesto (5243): Velesto Energy Berhad (KLSE:VELESTO) - Stock Analysis - Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTFRTUDA5RmRUN29OUkFxaUpNR183S2dWcmI4bEY1ZlNuajFkU0RnNHZDcXAwUkNrTDFwaXRZNm5LSmszLUhubkd2U2Q5aWE0NFBqY0xlVWlKWnh4VWQtMXBod3Z2b3I3YmYyQlhsZFdDSHg1WlBQaUpLS2owaUtMZGI4WUZqLWM?oc=5"
+  },
+  {
+   "time_kl": "2026-11-10T16:15+08:00",
+   "code": "5012",
+   "type": "Price",
+   "text": "Ta Ann (5012): -3.19% today, 3.4x its normal daily move (about 0.93%). Last RM 5.470."
+  },
+  {
+   "time_kl": "2026-11-10T16:15+08:00",
+   "code": "4383",
+   "type": "News",
+   "tags": [],
+   "text": "Jaya Tiasa (4383): Jaya Tiasa Posts October Logs Production Of 13,686 Cubic Metres - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT2Y4V0hxcUFQa2tKbVBGZHNuUk43dVp2OWNUNlZMNFZFWXl5MmhGQnJkb2g2VTYwMDNWX1RnT1B2QTgxQnBLZDBhN0NpVllRU3gzSEc2WVhMZjByWXJ0aGExbmttX3AzMENxU0NLQjR4QTYxc1JjNjA5OWVJZFY1dkIyQkRjb21NSkxzeEFVV21mRWk1cHpKXzFyTU14TEJMT2ROU19FVEFCRnJweG8yMGc5cUp4S3lzdG83NTcxdHNkbm5CeC1OdmVDMnBXZw?oc=5"
+  },
+  {
+   "time_kl": "2026-11-10T16:15+08:00",
+   "code": "4383",
+   "type": "News",
+   "tags": [],
+   "text": "Jaya Tiasa (4383): Jaya Tiasa October 2026 Output: 25,212 Tonnes CPO, 13,686 Cubic Metres Logs - Minichart",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnhYVDRoNHRqZExpelV3S3dzRVJwd3pHaFNfOEhpbmRJUG1hY253UFdneUNSR3dLTi0wWkRnNGRaWVJVVWN0bDVsRUZPcWphM2ZRXzFaZ0cwM1ljWVBOZDBjOVZuemZlQnRObzFXVmM2RHd4MkRZanhnU0tBSUt3VHYxRFp0MGtsUUN2NUNrZXBvMHg2UlBlTVphVFh0SW9IUW84M3lKMmR2OEpyOVRqb2ZR?oc=5"
+  },
+  {
+   "time_kl": "2026-11-10T16:15+08:00",
+   "code": "6012",
+   "type": "News",
+   "tags": [
+    "Deal/Contract"
+   ],
+   "text": "Maxis (6012): Brokers Digest: Local Equities - Plantations, Maxis Bhd, Coastal Contracts Bhd, Solarvest Holdings Bhd - The Edge Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yOTZXNmlFM1JfYl9UbUJlcDdRZ25TcDJuQ0dVNHBoTTRGNG1Bai1tQkVyb3dKV0lOLVNrd0lvUHFiTnZicVlvT3Z5eXVNOFI5?oc=5"
+  },
+  {
+   "time_kl": "2026-11-10T16:15+08:00",
+   "code": "6012",
+   "type": "News",
+   "tags": [],
+   "text": "Maxis (6012): Maxis registers 8.5% growth in Q3’26 PAT - The Sun Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ydERxQlhhbjY3bDQwczVZUXBFdjVSRjNvSEU2VzZKaVFwTUFZemtSbjBwTkxGMzVQNUhIOTJzZjZtUWhQeG1NNXNTb202M2JDWjF5eG5FLUMtbk9DYm9MaXNjU2RFaHlScGNmNEoyMFF3YTM3?oc=5"
+  },
+  {
+   "time_kl": "2026-11-10T16:15+08:00",
+   "code": "6012",
+   "type": "News",
+   "tags": [
+    "Results",
+    "Dividend"
+   ],
+   "text": "Maxis (6012): Maxis Q3 net profit rose 8.5pct, declared 4.5 sen dividend - NST Online",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm02aS12M3NwX0JFSDkzaTZNc2tZOFppc1hDb1JnSGJORGlMNGJuRkhhQjB6c1FjQzlWQ0U0b2lYSGg1bUJDWi1TZXZHVGJlUGltQzNmOXJBYjdLRHpMemJybVpLeDFiR19ETVN3MjVXdHNkYVNjclhlbnlGamplMTFnWHJqWDl3RjJBSHNKOUpRSnJhdURnLXNoejVLMjB6a2JRRmtKQ0JLX3hQbTNybmVoMlNjX2E3ZTJMX2phdzh6MDNlc1HSAbgBQVVfeXFMUDFucjFHeWtGd0I0NDF2eFp4YS1KUUJ0V2F5TEJDb2RjNTJNbmRCQlpYa3UzSG9MUEp3TWJKNzVrRUhsYy1FWktLRi02U3ZDVW0zQ214UDNpa2ZFRGNlQTIwVFNWakdpcXhNRjMySzcza2xrMXJZS2k3MDRmU3VsTk9TeVZVZ0NMX3k3MU91eGlEQXlPZXh6bTlpWXJSbTJjS0V3bEl0LTYyQzFsVmNqZDQ0c1llcFRicw?oc=5"
+  },
+  {
+   "time_kl": "2026-11-10T16:15+08:00",
+   "code": "6947",
+   "type": "News",
+   "tags": [],
+   "text": "CelcomDigi (6947): CelcomDigi flags 260mil scam calls, advances ESG roadmap - The Star",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcHdrZTJJZi1fQm5sSGxHWkhjYUt4clZsZ2JObFdRNkVZb1dOejdQVkk0RV9Jbmx6NnJ5TjhveHFLWm8xdkFIWFZLb1RJN1YxRG1SWEpYTi04T2R1by1XQUhhWlhnQ0tCRlJZek9rcExva3ZZZ194TDlob0x6dUhmano4M21aSUotZHB1d0YweHd3MG16elhhUFJiX2FwSkhhRk1kRHNRODVId1Ntd01CUEFWTTdvTGM?oc=5"
+  },
+  {
+   "time_kl": "2026-11-10T16:15+08:00",
+   "code": "6947",
+   "type": "News",
+   "tags": [],
+   "text": "CelcomDigi (6947): CelcomDigi Responsible Business Day 2026 Highlights AI Governance And Customer Data Protection - Pokde.Net",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX2hXWnRzcEV6RXdlaEs0ZjVzby1MZjI5THZuQXYyNXdJT2g2SzRlR3lzcy1vWUF6QjBLRzIzNk5sbnRoZ0ZFUWs2YTk2T21LbWtIb21kWkVJOWx4R2F4Uk9MRXV5UkNzSkxBVHVZNmZzbmhTS1F2ZkFCdndfN2FscWdmRVdTWEZhandN?oc=5"
+  },
+  {
+   "time_kl": "2026-11-10T16:15+08:00",
+   "code": "6888",
+   "type": "News",
+   "tags": [],
+   "text": "Axiata (6888): What Axiata Group Berhad Investors Missed Before The Fall - Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSUx0dklfckVqVTRYaHBrc2o5M3AyZDVGMXM1U2RzY251WmIzWUtuNmRIbHl2NDRUd0Y5X3JQN2lRUDhJMjluZUJNTDBFNTl3NGJTNTlydEhlbDJSLU5ObWdzTkJ1c1l0ckhrYWhEZ1c0bk5yc0VSX19ZRUxlOTZRTVMxS3Q4bmMwNTJYWEVveFp2UGduQTNkTVlEbkRoS2NEQXlqN1dwdmlGMnpOVEZ3OG1YaXJuTXh2WVhDdTVhVGtWbUVGN2k0Si01WXpxZ2FseFdMelFQT1ZWTXfSAeABQVVfeXFMTzhEbUUyMHNlYkkteEpGa29KN25WbDlkVjVwUVNGZzNsLVdfWUVKQThfcDB4dHRZQ2haVmxMS1Y5TEh3OW1RYUV5UWQyUlRKd2NkNF9Wd2pJNHRLVWc0Yk9XV2xhS0JaRjZQVjl3UTFCcHc3OUViWmpwRkozY2JNd0JFWmExbzFHalFRd2g4NncxcGdHTGJ2YXZrdjJzQVJLOEt0a19FbngyZS1aUm9GMU93QUNCZkl1R2ZuUnNtQXBzU0k0SUZiSk9XYUl2Qk40X2JtQndBSWJlQWNDRnpOU3o?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "5321",
+   "type": "News",
+   "tags": [],
+   "text": "Keyfield (5321): Keyfield International Berhad (KLSE:KEYFIELD) - Stock Analysis - Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeFljTDBERVJMNmYtT3hfdFNZMDlXMTVjWnFzWWk2UXBpeTBWUllIVkJPaFhUTTFMWXRzRkpZTl81Q2E4cXJxeVNNamI3dHZjYllMcDFERzJXVTJTWGU2OUJFRkR5T0F1WVE0cEFuS3o3cFJ4S09PN1phelZrb0xjeXpWZFJyUGYwMnpiUlJrSUtaakU?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "7277",
+   "type": "News",
+   "tags": [],
+   "text": "Dialog Group (7277): Dialog to expand Tanjung Langsat storage capacity by 100,000 cubic metres - NST Online",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYUFEUURKVTgtblhNRjFWei0yMEYtaXZnejRBSTEtLTFRci1YZ0dSSjRyYl83dnZlSXljYTFWdTRIdXZpM3BVdnF4YTJFaXE5dWNoR0Ywb0RhN0xHX0xTWWtya0JCWTcxS0N3Z0RQOGdJTXBmSmIxRFQtMG9Ya3lZdmw2bmxfVGtvcFdSYjVRQVllbUFXcmFrLW54WVM5dm5iRU1USzk4OGhyem1uV1JFdjkyWjRrSXVT0gG-AUFVX3lxTE9CRU5FVmVPVWpNMlQtNEp1LXE3LVlaZGNqa1N0SnpxdTlHWVpUcEhJVlVraWJBNURGNWppVTBzcWYwSVNjTVBmdHoteGdhdW1mOC1PTTlCSGJyTUNXS0wzejl1ajlId0dXMWc5ZVRVTUYybWEtTzZEZjZXUk9RR1QxLUVWQk0waTRRc29peXVaZlB0U1V1bmd2Ym9fdjV2dElkOVctWWJiRGItSWxvSUdxYjBnaTJKUXJjcVNncFE?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "7277",
+   "type": "News",
+   "tags": [],
+   "text": "Dialog Group (7277): Dialog expands Tanjung Langsat terminal capacity by 100,000 cu m - KLSE Screener",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdFN0Wk81SXdjaHozZnJ0Z25nRWdRbGtnVzZMVElYdnRKOUlQNkIyQ1ZLTG9UNU1CRUswaFJDcFU0THFLNlVXeVF6SVhPZmpZQmplcmU3eWJVMWc1dzJhV0puMXR6MTNNaGhKU0hTbEZtLVo3VXIyVDRhbDRlS1J1elhwODZmNWZGV2JVM3hKdVF3ZHljOWhtRUREOC1Gc3h5cXNzSkwxWVFEMGE3dmFyY0ZRQUQ?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "7277",
+   "type": "News",
+   "tags": [],
+   "text": "Dialog Group (7277): Trading ideas: Econpile, TT Vision, Signature Alliance Group, Dialog, Reservoir Link, Pekat Group, AirAsia, Northern Solar, EPMB, Infomina, ISF Group - The Star",
+   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPTFNsM0pvcUVOQ0NQS05oVm1pQTNFaUl0UUxMbVZMcWZyMlhUZWh1MXhZRExhNUYzdjgtWHEwM2NsQXdsZndib1Aya2t2b0F6cEs3Z0pTSmE0ck8xM2duTG9vd21Idlp6ZjlMTVJZZnVNYlNUbklzREZNSVRkNmdTMHpYYjU4eFBIY20xTlhKVXROS21fVVJBTGRlbVo1MjVWU25VanlTNUFTR3Z3TVZvdU5pQTZQSmtuSFBLd2lqVmt5WUZxYnZpRjd4aFNxbUV5dFdGSlJzampWTGZqRjg2OTduWWU1X19NcG1yVDBXaXduNmVhcmZUMFIxazlTT2NLNzFib2lTVlRRTjBQNHIyaUxOejJYTm1hTjBtWHI4OWdicEFUemc?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "7293",
+   "type": "News",
+   "tags": [],
+   "text": "Yinson (7293): MISC, Lim family, EPF make RM4 bil offer to take Yinson private at RM2.50 a share - The Edge Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80UnI1TS1nV2daQ0VwOVRUMFhWa0RGUmVENk50akp4ZmJSdVlCNnNnZDR2dEVCMDJJcXh1M2tGX2s0blJEc2FjVEZaNkRmenFy?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "7293",
+   "type": "News",
+   "tags": [],
+   "text": "Yinson (7293): Consortium mulls higher offer to privatise Yinson - The Star",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRHNDUWdnSThkZ2FpNEdKeEpqWkhzSjN5Nm9aTnhHYkt6N1dQcTVkMmxKY2k1Y2E2aVB0dlN6ZG5BR3lMS1ZMNlhQVl9CQ0U5UmNqWmNtcW5LdVdNaDBJWlZCNXo5Z0l4Ump6akpFOG16Y3BYdWM4dXUwd0J4RVZSNjF2c1VoWU40bmtIcThfTTZYeEd0MC1fbmdOa1hia0VwQWcyV1hrMjVUMDVfQkt3?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "7293",
+   "type": "News",
+   "tags": [],
+   "text": "Yinson (7293): MISC leads RM4bil joint bid with EPF, Yinson Legacy to privatise Yinson - NST Online",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUUFBU2lqbDJYM3J5dzRfRDhybko2eHJJaW1GM2ZOcGk3bzhVQTRQQ1MyMElheWl0alNzNXFJMEpyYThGeUZIT1pOWUJydllCS1hjZ3lodjlZbWNOMDhHcTlEVHpNNk1pYkR5TlpFVHhKTVY4T3dMbDZ2ampld1VsZnRqYS12R2I2bWJYVkh0RzRRa083Q2Y1cVo1bVYtMU8zV1hiZ2p5V056YnYxRHBKRnRZVVFGRHpJeGpaZdIBwgFBVV95cUxQWVhLQWhHem01Q3liQlc4a0ZsS21aX2I2b21QM1dQUGFTMUw1TE1BbGV2QmJKZVJsajVHYXJla2thdHZ2VmdjaF9raG5VUGZmU0xqc2RFY0V5Q2hkWDdCUUdkZE4wdkZJQlFzcnFBeGQxdnZkNVk1Nkx3UXNta01UZFM5cExDMDByd0lnSmthd1BDbVR5VExVTTZBeVFOSWNHRzJuRDlha0ViOVpRanZSalo0Z1NGbzBGdC1UZUdOUER3Zw?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "7293",
+   "type": "News",
+   "tags": [],
+   "text": "Yinson (7293): Malaysian Tycoon Lim Han Weng-Led Group Sweetens Offer To Take Yinson Private In $1.8 Billion Deal - Forbes",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORlE0M0RsZ3hYM05RLXE3N20tMGtpMXRfQUtkdjIxemZXaTA0d0lJcmdTQW12Z042M3lESHFNWkFnSkJuS0dRUnRwWk04Qk1Sc3FDQ1N0amJLdDg1Q21wRFZEU1dLa29yQTYyT2Z0MXVpYTZBUHZRMTlTSTYwVmpEcjhkM1dSMDB0bmhleTRpRy1NcEdHVU5zVkJ3Q0IxZ2FJUUtFOWFpUmpSOTZIX1VUQWFBeTRQN1gtYkM5RVFBalJTNUNpUkdRMk8yamg2YmRUU1FOQ3gxd3dkc3B3R2I1eA?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "7293",
+   "type": "News",
+   "tags": [],
+   "text": "Yinson (7293): MISC-led consortium offers to take Yinson Holdings private in RM4.03 billion deal - The Sun Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTHo1TDJwU0hKQ3dNWWI4ZmtpYm8yZzc3dDZVRU1hbkVRMTVtTVduQzNucGZsMFl2eXRQakR0bmxnR3lEMjNwQnQwRWw1WGJCLUY1c1VWMFZ0aTc2SUQ5VHhURC1CSWpZMEx4Nmg1eDF0c3dkSUdGM2llZ3RJLWRzYm42d1h3Zi1aX281S29OVWV6X0FtRGFPUTZkS0JCRUFNWTM3R1pkNVFRRGlqLUE?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "7293",
+   "type": "News",
+   "tags": [],
+   "text": "Yinson (7293): Yinson says yes to RM2.50-a-share buyout proposal valuing it at RM7.31b - The Malaysian Reserve",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVVNWb09PTUktUTh4TXhzMkdDbFhxNW42ZFdrX1dEdHJZS0Z4SUY3RnJFa3BiM3dNaWpEakNRS2R3eHh1VEs1dFdUaVhnNXMtOVluMVI5TExNWFl3UFAxWGdkdFJOOVFPaTlJanBFQVoxdy1NNF96UGUtUlY0aE5ETmdic25tY1A3OGp3cXhuT1ZkTzVudmtGWWVZS2t1UmxYWEZEelVwRDV1VnpEcnBRTk9rdldYUTRzWERN?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "5243",
+   "type": "News",
+   "tags": [],
+   "text": "Velesto (5243): Velesto’s Naga 3 rig still up for sale - The Star",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWhoVmVsSXFvQUNXZ3h5QzlibE0xRHdCZTdxTko2VzNuaTBCc2ZQb0ZhS0RoUk05V3FLTkd4YktfWjBMOThqNGIwTEY4aEVtU3BYVzhZOHN6SWp0U29TZUU4YWIyUmdObFBrRzc4T0dyTHhmWkFRVVliV1M4TFFZeGd3ZktycWNsdlJXMXBBUThyWlpKWlRjcmVncFltaFE?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "5243",
+   "type": "News",
+   "tags": [],
+   "text": "Velesto (5243): Velesto’s Jack-Up Rig Up for Drilling Job with Petronas - Offshore Engineer Magazine",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLUszaURpSjhlU3B6bVJFalktaWVxZWNNVHlmZjIwejc3bkpreGNuVnd6QTBPTTBjdGVBTHd2SC1VNml3MFFwRXR3RHc4OG1jRU11MmpsTzhCX0NpTERoY2dyRmpSZkdTSks1LUFrTFFsb25iSHhyTjVPampRTHFtbG91QS1XYkhBNXlTMU1aWnZjblg5cFdWRg?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "5243",
+   "type": "News",
+   "tags": [
+    "Deal/Contract"
+   ],
+   "text": "Velesto (5243): Velesto secures PETRONAS Carigali drilling contract to deploy Naga 3 - KLSE Screener",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUI1Vl8yejFDSkhROVNTN1BPMjllcUhBbThHY1M2eG1ieFRmU3p2YkZDdWI0azVuTk14TzZid1hBVkdzaVVjWHZlSnpIdENfVVJlMktMOVRIU0pLbW9WRHBHNEVaNjg3bU1ZU3FIb2dSRGI3cnJWeUhsVHlaaEJsX3ZwZTRhQUtJWkswYThMeFlvQ19KVU1SNkdVYTRYczlHR2VxZkswUGFtdFFJZFIwYlAzVkZBZUtGYXc?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "5199",
+   "type": "News",
+   "tags": [],
+   "text": "Hibiscus (5199): Hibiscus Petroleum Berhad Announces Resignation of Khoo Ming Siang as Company Secretary, Effective November 2, 2026 - www.marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeXVZSXMwX0RFUWVScTlEeEp0OEpVQXdTT3VMdEdkZjNWQWE3LUk0LTJTc0ppSUIxQ3BJQThTcHYzbGlKdVdoMTdacDNHYnFzWHJIS0xTQUJrem9wZEJsdlhJb2k3Q0xMWU9yYnpjV2FqT2ZPWWRVS01Pclg4OVE4Z1FMYVhIRUFWSk0tQ3JVUW9GWkRCSlpUYnhROGRLMDQ2VHAySlZwTU9KNlVpVG5KMldDM2J0d2hyTUVFTW9qTVF1bWxQUzI0WmpMOUZHc1VBd2NIZGY2YzNVQlAwSjNJOXBBd0owakU?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "5285",
+   "type": "News",
+   "tags": [],
+   "text": "SD Guthrie (5285): SD Guthrie calls for export duty waiver to resolve palm oil supply glut - The Edge Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHSTFQU05tYVBlaFFMcnN1UmZ0dmxEc1IwLU02VElMMnpFQlhIcU1DTWwzTUh0UDVqczczYlNNMDZVUUtheGdaU082Sk1Wbmdq?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "5285",
+   "type": "News",
+   "tags": [
+    "Results"
+   ],
+   "text": "SD Guthrie (5285): SD Guthrie nine-month profit rises - The Star",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNHMxdkJISUtZbWJLUFZTbmxCMG8tMFN6MFF6UUNva1BxMEs4cVk3ekkzQmJUWkdfMmpkQjZaeF9NeUc2WEE1N1VDck9yZWRsZl9mdS13SkN3djBzRnFvN1RBNl9vRG5aVk9vVzR5UEh5a0lrN2hyWUdVYTBzdTd6RGQ1SjhjSmsyMjNoclFzbHFSQnk2N05UNkRBcw?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "5285",
+   "type": "News",
+   "tags": [
+    "Results"
+   ],
+   "text": "SD Guthrie (5285): SD Guthrie's earnings rise for nine months, ease in Q3 - NST Online",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQODdXQk1pR0NnbHY5NEtpRnkyNWVNWnphOW5FOG5QLTZGTUlSaGk3Zk40c3NmU3NpV1l4cW9mTEZQekRyM1JjTFkwMG56Y3dsT3VFajFlbGJLcm5OSE55Slo5LUJhczlCY0Z4cW45ek0tRXh6RFFJamdfUDNxR0RsV0dlYkUwOGFQcXh0aXc4TG11Y2xiWmRaN191QkZyZG5GdU5VVmd30gGrAUFVX3lxTE03YXBuVWVlSDZvRlBkdWd4bDJQM0JtXy1GVHVTV0pSbm0wZXFac0dXYWJSeHJzZFI4MDJBaUFhVXBtdUZPeDVBZjJQbjhMMmVicW9UaXIyWVVsLWt5TGlDekctdTE4dkhJaDZIMkdkVWtULVBWbUlYanJ2dTl0ZjdPNnJXUWtaTVNraFAwMVFrRnhUY0hHb0xaRDBLVTcxUE5CUDFJamo4Z05SRQ?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "5285",
+   "type": "News",
+   "tags": [],
+   "text": "SD Guthrie (5285): SD Guthrie’s FY26 Inline With Guidance Despite Weaker Downstream Performance - BusinessToday Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWDVzZnBQekxQNDJKSk5ZQmd5NHlUUlhLM1Z0R1JKT21jSVVxaGxCOFFZNnpsTzF0MTFsNVhXSi12RTJxMGNuYVJ5cVRmME5lNFpCZVJmQm1NRGxmZTVvVHFvUEZLRTM2M0hEeVdkUldyRi1IM0hkclBELVBRbVlQTF9mSkYtdjZ0REdYakVXX1ZIVGlwY2tIV0ZJWmZYOFBta2NOV0kxUTFoWWY5QzRmcXBqZE94UW11YXFjSg?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "5285",
+   "type": "News",
+   "tags": [
+    "Results"
+   ],
+   "text": "SD Guthrie (5285): SD Guthrie’s 3Q net profit falls 17% on lower land disposal contributions, weaker margins - The Malaysian Reserve",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSlhVSHlHX05FbVk0N3hnQVJOcDhWSExyTVFCYkt1aGVsTkJhOHB4c082MERQVHJHUG5yb3V2VGZvdDlnYmlhMDZ3eXFNcmxfVHFXc1F3OWJRVWplMk1TS19zLXVjNE5FOXQ4cFg2UkVuTkdFeGtYR25HUURDS2pWcmlwMkhJdGpvVGQ5UzJLd3Z1S25tQ2lQLXJQWFlwcXdiVVMxampfS1RRLWc3aU1xTXlnV2tIWE5VOHF4Wi1wOFVCclRsdGFRcE1R?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "5285",
+   "type": "News",
+   "tags": [],
+   "text": "SD Guthrie (5285): Higher CPO prices to cushion SD Guthrie's weaker output - NST Online",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc3pHdXdSZXhsLURWcmhKX04tT3RFMDd6WFdsdDNucWdPV0lZaGZHUEJmQkN2MHpPSG1VeWxqdkJ5N2RmRHdoZENsX3JkMklCa1pqSGg5dFhHR2xRNmQxNXNDazFPVzFmMHFabTl1ZkpFNS1BQUpWNVhrWHF3NHZMZVJQTmpRWEFaOXpTcmRBbWx0dVZua1JNOEloMWF0aGpENFJWODRkM25DaTQyRVHSAbMBQVVfeXFMUGZld3FGVklHYk5EN0gzb0RnbTVuSnYxR0RiOXpsa0ZNaWlPOG84MVF6am1ER0hoWDdMNlZSTjdLYmdLd0t3SFdwOWxudW5VNU9qU0s3Q29xa0RZQUZCVGUxRDBRUHN1bTlkQUhLTUhOVXBaaDh0ZFdkXzNrWGNpNlRncmxncEVTb3N5cG56XzRLMDVlRm9aRFppMXpCWWRwb29rLVZnaV9DMXZpWmFzZVd1a0U?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "1961",
+   "type": "News",
+   "tags": [],
+   "text": "IOI Corp (1961): Lee Yeow Seng steps down from IOI Corp board to focus on leading IOI Properties - The Edge Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fbVRfSEdVUkRsMmVUMDVGMG1KeWhXd1RSVmNGdFZpeXEtZzkzdzRwdnBNc1hqeF8tMUxDTUNyenJMMk5tUm5GVkJfblY4a3h0?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "1961",
+   "type": "News",
+   "tags": [],
+   "text": "IOI Corp (1961): Lee Yeow Seng steps down from IOI to focus on IOI Properties - NST Online",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUXMxSFVNVVZEVTFST0VVQXprRjVMV25ZbTE5V3VTTHVDVEtVM0ozX0g5X25vUFNjOTVKQllWSzBNQnJwU01fZjB3R2JNSmc4bnllV2czeEotU2V6d3B1U01PU0NLZzFMcHpUc00xRk5WTWZwcXNuMXRxdzJMWDNCOUZmb0E2RDg1Q2txTEduaVJoWjJfVVpmM2ZHVGZ2RTRfT293YmJweTRGR2_SAbABQVVfeXFMTVZnaDUzWjZSMWV3cXdJOFRSeGNBblVQNW9feUh6RUVCS2szNldkUFk0YmR4ZTB3TDRpUlhXNTR4UnJjbjFid1gtS2RpU2VsbEpKMjJrREtpSVZVaW9aalNkNjBFNjFUZlJmOUhjVl9CeVlpT01oaHBFTll1bVNjYmtyMEtuX21YMFFZMzg5Q0h1N0txckZCa3o4QWpPeXRuVWxhLUlmT25OQWI1RXN5SzI?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "1961",
+   "type": "News",
+   "tags": [],
+   "text": "IOI Corp (1961): TNB and IOI team up for mega-solar project - The Star",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR1Z4N3BXN2VsUk9RQUZ0NE5CX1BsRmJ2TVJwbE1KVkFVS0ctbWtfLVhET0lBd3V6eUpwc0NLc1BfSFFhcmRJcm1zY1V6RXBZcWU0R05UeDdXZk5TejJJRG9iYlVkb0FhcDl0QjVCdHBfTWlsMGYxX0xQaHlSRUh5OExLSXpDVjUzODV1ajlOSWlfMWhUMlNsdmhlZnRadTI3ckN1cUpR?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "1961",
+   "type": "News",
+   "tags": [
+    "Dealings"
+   ],
+   "text": "IOI Corp (1961): IOI Corp Former CFO Dato Yeo How Rejoins As Independent Director - BusinessToday Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVF9oUHE0eFNub2E1bVFpOWdwbmVNYlBpNEd1ejRUODJZUWVXdzloR1BKLWg2ZEVBSnNjTzE0b2hZT0dmTndXeTlYcGREQ2ZCVUEyTWI3Z0ZxbkthYXJ0YXhtZzVjMU9Ed0RhQ1cwSDV0TmV1SVRjYndBMjdhdjRJYUpCbFNWdVQzUU1LcUhwNXpHNUUwYjBxNFpqdnBNTFgwRTFFTWNabGR5Nm1GUHc?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "1961",
+   "type": "News",
+   "tags": [],
+   "text": "IOI Corp (1961): Lee Yeow Seng leaves IOI Corp board to focus on IOI Properties ahead of REIT listing - The Malaysian Reserve",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZmdiU25HdWlyVWtRcjJBV1N2RV9CXzlMdmE4dFlsbkVxaTdmZlhlNDNiUGhWNFJfY3JDS2lpNEp5eW9lQmpkMlZfanhZaF9vdlU5S2VyOE05azRHM0F0SFlVZER0cUVHcGZ2MjVSanJvV3FtUTY1Y3NlT01mYmZDbGtVT1BfdFcwYXdpajU1VzJtRkJuUkdwbkdvU2JoXzlzaWpBMkRIdmFrd05RY1RjZmRYS0JjZlhxSjBFeFFyeFBzWUxYcVRZ?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "4383",
+   "type": "News",
+   "tags": [],
+   "text": "Jaya Tiasa (4383): Jaya Tiasa Holdings Berhad (KLSE:JTIASA) - Stock Analysis - Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObldvTVdsMU1jYzJRYnhIYUFVcHd1dWU4dlROeE1RNGR2alBfYnc1bDdfWnQ4RTJtZndXb2QzaTMtTlBqdDVwMFZ3dWJ5amk2U1NKZUF6VjJrOVdVOXdxTVlpejFLazZaSmh3Z0NiQXk2Y296QkFJNWF0NG9WdnlyaDFZRHItVzE3WHRKWXg4S0g?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "9059",
+   "type": "News",
+   "tags": [],
+   "text": "TSH Resources (9059): TSH Resources Granted Extension Till Nov 16 To Submit Documents To Singapore NEA - BusinessToday Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOTRfVWFZR0VaY0U5YjBjRHRXcm1nS1U4RnItZ3R3dUxqbGxUTGNVVFptRUwtUjVnSUhHREl2SDU2dmpSLW5YYWM2TEg0Y0tCdXRLanB1YjBUYkJhRUZJcUdjLXFnbjZKM29UVVF5OHh6TlRNOVoyNUhiNjd5UGJlZWdrczVVNERTXzZnMmZSOGR2bkpWOHo0S2VoSUZ2SXNwMGd5NG42czNrNmNiY3FsWW5jR3ZacHAyZkY1NjdDU2kwVG8?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "9059",
+   "type": "News",
+   "tags": [],
+   "text": "TSH Resources (9059): TSH Stock Price, Chart, and Forecast - Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOdTFVUk5oSG9pVTdvX3ZBTmxLblBvR25fcV9XN1ZyLV9kNDhGalptbmVaNTFQanY1enM5NWtTWVhWUU81RkpRSGRfeThJRVBEVG5raWVJRHh5b2I5cnBJcXYyWU5Db0hPMDJjeUFVNno3eVRMR0VpMVJYQmZRRk5vZUxJb1V6SUVXbEhlX19tbTFUQTJaS3RPeWZud08yS0p2b1BCNVZfRXFyNjNwYVd6aHptRVg3MVhtNUU5SjNjMkdHUGdYVkx6cW4wclY2VXpucmhnR1pEYmkyQlFxb0tYVm80ODBDS0w0U2dlY01BTUFYeTV3blpQUHQ3a0RHdmdVSmhzeFQ4RGFXMEFqSE03UDZld1JKcjNpdkdTdWNhNllBdjVoTUlYRjJzU3laX29MaTdNSmc2QzM?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "4863",
+   "type": "News",
+   "tags": [
+    "Deal/Contract"
+   ],
+   "text": "Telekom Malaysia (4863): TM eyes acquisitions as data centre demand surges - The Malaysian Reserve",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNExEb05BSGFITVpFaGs3YWFfMHk2M3JCMzNPaHc2V2tQeW5Od3QzN2dETTdEcnlxWEpGZUZWMDRsSTFDdzdaWVBBak1pQUd0eXJLelNZaHV6SFFtUllYcTAzSk5XNHdqYm1VN1lONlJSY0M0TUdFRVNwZDJHeUJuNV9HeDJRb1VWSU8tekl6S1pfRXF1ajlPMg?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "4863",
+   "type": "News",
+   "tags": [],
+   "text": "Telekom Malaysia (4863): Telekom Malaysia FC - Transfermarkt",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTEFhUlpBQlc3cFlNLWxOMksxTDdHMkRZRWlJYlZQQ3VLejliTGJTanplalNLVy1iMnY0Mkx1XzY3cEdrX1M1X0EyNzlBVjh4dThCVjRQRE8yb3didmZHQmhtVzhnZGNkX2g0S1JfWkh6cWRzbHRzQnRVRzVBbEdyWGVkdktnaG9HTTZySGxlUzI4R0xsYmR5T1VPY2tETzZVNXkxanNn?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "4863",
+   "type": "News",
+   "tags": [],
+   "text": "Telekom Malaysia (4863): Former Utusan Malaysia Photographer Receives Tabung Kasih@HAWANA X TM Contribution - HAWANA 2026",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tTU4tbTNuREptbEtQbzE1TkhrTldYM1k4Q25iNGRVOUVtU2R0TC1RQzRDbkE2cmZiTlFqR3JRUmJDU3JEbVVxbnpYV1NfbUNfdk5ZbA?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "6012",
+   "type": "News",
+   "tags": [],
+   "text": "Maxis (6012): Unisem, Frontken, Public Bank, Maxis, Zetrix AI, TRC Synergy, IOI Corp, IOI Property, MISC, Yinson, Microlink, APB Resources & Nestcon - The Edge Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BbHAyVDQ2TTkzSnpUaTEwQ0xKNDFSWWd2dU54a3NUa1VEclBqOG1mQ2pZd0R3T29TRlM0OEk3QTZiaEVYN3Rhb1VFdVQzWDBN?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "6012",
+   "type": "News",
+   "tags": [
+    "Results",
+    "Dividend"
+   ],
+   "text": "Maxis (6012): Maxis 3Q net profit rises 8.5% to RM447m, declares 4.5 sen dividend - The Malaysian Reserve",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaEJpNFNvUjl1YnlxMWQ1Y1lxV284RVdzSy1YRGJNTDJ6OG9leHhEZzdjYk9CbUlWZXpXeUQxOUZFcndGdmN2MXhjZndnenV0THVoZGVpSU5ldVgzNUxac1pzeUswTmEtSWJtU216VjJ4V0M0SXFCb3ZMYV9RMzB3VkZGZHhSTTl2dTlKU1VTSjlOYVIyQTJuQnZ3RnV3VG9YTGVYOW5EaUlrUDNGaHc?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "6012",
+   "type": "News",
+   "tags": [
+    "Results",
+    "Dividend"
+   ],
+   "text": "Maxis (6012): Maxis Q3 net profit rose 8.5pct, declared 4.5 sen dividend - KLSE Screener",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNVZkWGNCalBpQVlsSGtlTG1EN0NLNTBCeHlWT2NWOFNRaFppNG5tUjB2eldaS3hKR09HSW5rc1FkbF9Sb05fRVBSQTg3dHhmekFYMG5ub1pRWTMwMjJYTlNZeXVpUEsySU5HaFE1TmtTSS1rTXZHQS1ETWZ4RVV6VnNpLWFUUVVsRTEwREhoYTN4MmFWMTRvQVlEa013eC1JM1lTVVFaYzJyMm8?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "6012",
+   "type": "News",
+   "tags": [
+    "Results"
+   ],
+   "text": "Maxis (6012): Maxis profit jumps 8.5% in Q3 as fibre and enterprise services power revenue growth - Telecompaper",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdnBYdDY0aW0tZ0p3TEVKaE16UzZpcmlnUU5Uam9DNmUwM1BtbHNrTkE2MFZCcFlfSTdnTThfYmpsS0VXSUw1R3hiVllaX0NjdkkyRklFUXV6bVU0Q2JlVktOTlRnRWp5SFl4Zzg3VUhHS3lLMHJuSS10czlwZGdFWjJKeDFZUzAxblBkelJjb3Z0TlljcXh2cXNiUGt6VDJ6Ylc5d3VuVXMxSEhTMlR6eV9xQ3RETEdXTFk0MmE3cTVsUQ?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "6947",
+   "type": "News",
+   "tags": [],
+   "text": "CelcomDigi (6947): Huawei Malaysia partners CelcomDigi to accelerate talent development in future technologies - Huawei",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVHRHS0I2RWhWbUIzRVpqWkFCS3hFNlNNTzB2M0phTkliZi16cTZzWW14YWdQZ1JwcXMzOXlfMVRzMFZ4eFROazM3SzA0NDVmdXJ5YnpxYjU0cXRMU2c5WTR6TFJRTldDOFRndlpLUkVZUW5jVVkwOFo3RnEtTW9NTUZhdlplYlFIanlNblNJNWZpSXhyYmpuUE5YX0hxbjJuZjExU3EzU2syYVNQaVpjUE1xVjFrbEx2MWdtM1BHWQ?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "6947",
+   "type": "News",
+   "tags": [],
+   "text": "CelcomDigi (6947): Huawei, CelcomDigi join forces to upskill workforce - NST Online",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU19OeTVScmdSMzFGdzdLRWRTd3lnNTR2NjZHZlZoQVRWQTJuT3VicFFLenpSTG1YVDdaa1FRY3JqYnEwRnBrUHVnY0VSd2ZzUjJWaldRWlRZeG5oVzEzTmY4THl2NVNCcWlIUnNySGRHcUF1VjVmSGk1dEdQXzZCaGdsQk1XalJzUWFOVEg5R1RnQUJ3U204WndsZk9qZWFEV0laZ1l5WjPSAa4BQVVfeXFMTU91OHAtR0xRSzltMTFLN3ZNeEJDU1MtUUhiSFNBQ3g1N2FFcnRmLUJRaXlYdVpRTlBiTVFLR0lvTGpzRXNIM2dGOGk1bW1YbmY3SEJSQXBJbTA2NjVMTG1VdkE1LWlQdVQyMkY4YVhNX1R1YW4zYWw5RW1ESUJUc3g0MUNWaFBGNnVCckdKZ05hYmtKMDhpRy1mdFJiNmRrYlJ2TE1iU2p0Rk5hWXNn?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "6947",
+   "type": "News",
+   "tags": [],
+   "text": "CelcomDigi (6947): CelcomDigi and Huawei Malaysia Partner on Digital Upskilling - SoyaCincau",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRG9NcVBld0dGNE9jLXdLS29sQzJIOElvUmpudVJyWDRvckhEcGF0RlhfM1AxX2ZEdjNuanhKdjBMWEFDSEhqTzkwQ1dBSnNJdUlHVFR1WnYzZUJfMTBQazlKYjF4eWFfYjVrRlBmT2J1MXV2SWRwVkZ2dUprb09VQjZpMDJuYzg?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "6947",
+   "type": "News",
+   "tags": [],
+   "text": "CelcomDigi (6947): Huawei Malaysia partners CelcomDigi to accelerate digital talent development - Digital News Asia",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUkxPYkVJVE92SEdleEtnNzFSQ29RdmdIa05OdG9OODVyMU1fZzRpdTljNU9DN1BEam0zQmd6dU53V3RmaE5BcG9SSkhmdTBsRjdnVWsxVG0xM0V0VGVrcHFmLTFlZlluVE9HYmZ4ZExzNDE3S2JFN1RudDd1TzFXU3R4TnMwNWVGakpEVWc4bGlYelRJNjJsWkpvdkVqQlNuNGFsSHlRbDVvZGZ0VEZtbFktamM?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "6947",
+   "type": "News",
+   "tags": [],
+   "text": "CelcomDigi (6947): CelcomDigi Opens Flagship Store at Merdeka 118 and Launches Nationwide \"Play Deals\" Year-End Campaign - TechNave",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU0RzVEw5YXI1S2x2Z3cweDRqWlRXLVpsbDRleGdNcE5STWptOXBNWEpzczJ2ZjZVTV9kVmVtbjZ5cUctbmVGbnktdXNib0w4U0QyeUhNZmlPVlotY0doVWhaQzRlbzlQVU9ER2JOeGxRVDhCbFY5SmhlYXdyejl6WnpycGZtZkNlMWlGM1JncnFXOXpWM0xhalRBTk9YeGQ0MG9wNmdwdHRMd3BRaDVxaDdUa0R1NXlHYjNsRVUzQ014bXBTbFE1cjFsQ2JiUVB6RkVYMw?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "6947",
+   "type": "News",
+   "tags": [],
+   "text": "CelcomDigi (6947): CelcomDigi flags 260mil scam calls, advances ESG roadmap - KLSE Screener",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN1FXSmMwWnFYdU5fMGU0X25TTFZFMGlsZ001RkpEWk1wTmR6OEZNbjhYMXRSX2J4a3NoeUE0bjFmR1VjMHlvRXN6S1hkX0ctS0ROX2Z1Sy1GMHRHLWVnSUtmcmVmbHA2Y0VQVzdHSG9WSmM3Mk5JTWN4aVhfcVg0QWc0SjJGcTNWNHd0NW80UDZCdDlXWDM1MmwzM2tlX08wdm41dHFtUGQ?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "6947",
+   "type": "News",
+   "tags": [],
+   "text": "CelcomDigi (6947): CelcomDigi spotlights connectivity and family traditions in new Deepavali campaign - marketech apac",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSnJEMEd4RGtzUVF3MzExZE1FcGxBN1d1WTdTVkluMWdUbnc3dDN0ZUQ5YjdrMUwzdEFLQzRlQVdRbWN1M2lvS29RSmdGVjMtWUxSem43N09BdnZUVWVqY3pZZlM2Yzd4VXFRRklIRERUeHV5YlJyblRQelo5WkxMZFZWaGpnVDRXTHNneFdNVTI2YlJwcEdDU1NUUFBxR21XYlZ4V3NGMjhodnFiZVVv?oc=5"
+  },
+  {
+   "time_kl": "2026-11-09T15:50+08:00",
+   "code": "6888",
+   "type": "News",
+   "tags": [],
+   "text": "Axiata (6888): Photos - Colombo Dockyard vs Dialog Axiata - MCA Challengers League 50 0ver Cricket Tournament 2026 - ThePapare",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOWd6MG9PQm1HTThvbzZpMWlJYVVzODBuWjRuOVN6MDE2MnBoelR2SFM5dUEwNWlwUTlWV2w3VTlsNk5TdkVJOGdKaFc3WjJCRXZNT0lSX1Q0TG0yQVpGWVFZVExJQ2RBa1NwelRiTV9uVHdXNDljbEFodXRDd0o2RFJIZjVyb2ZLQ3dCSndmdGlKd0dpQzYzaG1xakhjNElfZTRzVU1SVm12a0FwNDg0UFdwbmZJeU9PQjJ5Tm1Jaw?oc=5"
+  }
+ ]
+}

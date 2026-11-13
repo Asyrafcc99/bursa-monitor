@@ -1,0 +1,2303 @@
+{
+ "collected_at_kl": "2026-11-13T15:45+08:00",
+ "stocks": [
+  {
+   "code": "5321",
+   "name": "KEYFIELD INTERNATIONAL BHD",
+   "short": "Keyfield",
+   "sector": "OIL & GAS",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5321",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 342990,
+    "daily_move_sd_pct": 2.07,
+    "as_of": "2026-11-13"
+   },
+   "quote": {
+    "price": 1.36,
+    "prev_close": 1.36,
+    "change_pct": 0.0,
+    "day_high": 1.36,
+    "day_low": 1.36,
+    "volume": 13600,
+    "price_time_kl": "2026-11-13T15:20+08:00",
+    "currency": "MYR",
+    "spark": [
+     1.36,
+     1.36,
+     1.36,
+     1.36,
+     1.36
+    ],
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "Keyfield International’s 3Q earnings hold steady at RM41.4mil - The Star",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORkRpelZlLXB5NW9FaWJ5YndsNjd0b3NraVBMbGJKdjlPNk5Ia1BtTnh2RjdRWTB2WmJfenR1VFlzTnZqaHpYcW5rdW40di1sSmRZYXZxak9uUFpydzlxU3pOVUd6LVBtMlhRVGRfLVlURUdTVEZ1a0VtY1gwRzdSSVQ1MW9hZGF5a19veS1XSlRVZDN4Rl8tOW85am5fa0VxWHZGRkE4RnFlSnkwWkRBTWtjM1pYQ3dKeGdRNg?oc=5",
+     "published": "Thu, 12 Nov 2026 10:46:00 GMT",
+     "source": "The Star",
+     "tags": [
+      "Results"
+     ]
+    },
+    {
+     "title": "Keyfield to keep AWB charter rates moderated into 2027 to boost utilisation - The Edge Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNMHhyUVBwdjVTZnlqMEtJUklfU19XU3pqUUo0OXU2a2RyUVNkNmRKTWhXWEZwRURhNkR6T3luSXNDRU1FbzZtV0Rsd3NDbUk1?oc=5",
+     "published": "Thu, 12 Nov 2026 12:32:08 GMT",
+     "source": "The Edge Malaysia",
+     "tags": []
+    },
+    {
+     "title": "Keyfield’s 9M26 PATAMI Falls To RM120.6 Million, Declares 2 Sen Dividend - BusinessToday Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWnR0WHlEdTFKS092WGpROTBrcGxZVTk3bkVRTGpaV1BYVDlZR08yWk5jUGFBamVTaEx2Qk1Pb0cyWWRsZy1SUmZraDRKblV0VFNuc05oYllHWmhDemtra0RzUThZOTVRcUxDbmV2ZWR0UlNzd3BMQ1E5emwwdE5ra1FHaktUT2VQZmc1T2tKb1hjWDIyQTJXQ21TNEhVb25QTW4wR1poRWN2Vy1CMWhQZVRIZXpZZw?oc=5",
+     "published": "Thu, 12 Nov 2026 10:46:47 GMT",
+     "source": "BusinessToday Malaysia",
+     "tags": [
+      "Dividend"
+     ]
+    },
+    {
+     "title": "Keyfield profit flat in 3Q as lower charter rates offset utilisation gains - KLSE Screener",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT3BvZEhPSXBjYmlPbEsxa0lXeHdNcXo3TXdfN05ScjFlUWhmRGdIVHVSUUxLOWlLV0NrNVRaaTJEbkROZkV0M0xWNUVsRGxHQWZhcWItQ1FsVl9VWGVmMU5Ra2hZc2JubUVjekxhSFFkbGsxcUFxOEVhTjMzVHBnX1JxVU53NmFRQXREREZfaV82ODgyN29yZzhfZWZ1RWVGVlpNSHZpVDNzVEp4WUlSN18yRWVoVmlEaGhsNmxCTk9sdw?oc=5",
+     "published": "Thu, 12 Nov 2026 10:26:50 GMT",
+     "source": "KLSE Screener",
+     "tags": [
+      "Results"
+     ]
+    },
+    {
+     "title": "Keyfield quarterly revenue rises - The Star",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaEZmR1ZDeFJKSlJMWldoTmU1S2NCbEFIRlhSblFfeUdSd25tbDV0dzFTSnNGZ25HWk42cTZ2ZUhzOUFONWFpbGhfOEt1aHZRWjB0TGFURkJxamZiZm9HVThldEQ3aS1CY3l3N1NuRUd3NjQ3NWFfRWxqM1BPVGJZc19ZaC1SUktrSlFwVGFZZTFMSHNZamZjVg?oc=5",
+     "published": "Thu, 12 Nov 2026 22:01:18 GMT",
+     "source": "The Star",
+     "tags": [
+      "Results"
+     ]
+    },
+    {
+     "title": "Keyfield keeps AWB charter rates moderate to boost vessel utilisation - Traders Union",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQREVncEt6elFsNkhWRU9pSEVHWkhtQi0ybzNKVnRnRVBaNTg2XzlSWUxWN0RNTXYtbWR2bWU2SEowS2NkOFBEdXBzWFQzSTZXR2RjN0lCV3JWdmR4NWdidUJncHNKYnprRGFpWG1DeE1RYTZYZHVIQkdJcmxESFVNLWdmbWpNazdwS2xfTWE0UGM1QQ?oc=5",
+     "published": "Thu, 12 Nov 2026 12:41:47 GMT",
+     "source": "Traders Union",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "code": "5255",
+   "name": "LIANSON FLEET GROUP BHD",
+   "short": "Lianson Fleet",
+   "sector": "OIL & GAS",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5255",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 84015,
+    "daily_move_sd_pct": 1.14,
+    "as_of": "2026-11-13"
+   },
+   "quote": {
+    "price": 1.48,
+    "prev_close": 1.48,
+    "change_pct": 0.0,
+    "day_high": 1.48,
+    "day_low": 1.47,
+    "volume": 1500,
+    "price_time_kl": "2026-11-13T14:46+08:00",
+    "currency": "MYR",
+    "spark": [
+     1.48,
+     1.48
+    ],
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "Lianson adds DP2 heavy-lift vessel - NST Online",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd0ROQ0tZcjNZbjVPXzN0MHZ1SlEyeGVMWmFoS2hjTEdoeVUzS29FS0VReDZVbHZkNURoaU1WWEFDemFiZ09xdHB1cXRmTnotTXdfdEk5VDdHdk5mMURGLWFiTHlZazI5dW9hR3FZc0doV1VpQkoyUXFTTTYwWS1UdDhab25vclQzX01DUVA5RVczRE1ZbkpR0gGcAUFVX3lxTE9fMV9hSmJ3aGxfXzFuQ2p5akdOUlU5eXhYRC13V18xRHp3ekVMdU5OMkxMbFRhRHFCLWJzWllRVlNxUW9RMUp1bWZiMG1FRXF2OTZhaXRneFlaNjNNOE0wSzdSZkhMQ0hhUUVaV2s2Q3E5VUFaYVByS08yd0hnM2szaHBTUGE0QWJDVGhraGhnNXFTNkhFa1ZZT1QxMQ?oc=5",
+     "published": "Tue, 10 Nov 2026 10:01:13 GMT",
+     "source": "NST Online",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "code": "5141",
+   "name": "DAYANG ENTERPRISE HLDGS BHD",
+   "short": "Dayang",
+   "sector": "OIL & GAS",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5141",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 2647635,
+    "daily_move_sd_pct": 2.54,
+    "as_of": "2026-11-13"
+   },
+   "quote": {
+    "price": 1.23,
+    "prev_close": 1.24,
+    "change_pct": -0.81,
+    "day_high": 1.24,
+    "day_low": 1.21,
+    "volume": 622100,
+    "price_time_kl": "2026-11-13T15:27+08:00",
+    "currency": "MYR",
+    "spark": [
+     1.22,
+     1.22,
+     1.23,
+     1.23,
+     1.23,
+     1.23,
+     1.23,
+     1.23,
+     1.22,
+     1.22,
+     1.23,
+     1.22,
+     1.22,
+     1.24,
+     1.24,
+     1.24,
+     1.24,
+     1.24,
+     1.23,
+     1.22,
+     1.23,
+     1.21,
+     1.21,
+     1.21,
+     1.21,
+     1.21,
+     1.22,
+     1.21,
+     1.22,
+     1.21,
+     1.22,
+     1.22,
+     1.21,
+     1.22,
+     1.21,
+     1.22,
+     1.23
+    ],
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": []
+  },
+  {
+   "code": "5132",
+   "name": "DELEUM BERHAD",
+   "short": "Deleum",
+   "sector": "OIL & GAS",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5132",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 252210,
+    "daily_move_sd_pct": 1.27,
+    "as_of": "2026-11-13"
+   },
+   "quote": {
+    "price": 0.905,
+    "prev_close": 0.905,
+    "change_pct": 0.0,
+    "day_high": 0.905,
+    "day_low": 0.905,
+    "volume": 4100,
+    "price_time_kl": "2026-11-13T10:31+08:00",
+    "currency": "MYR",
+    "spark": [
+     0.905,
+     0.905,
+     0.905
+    ],
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": []
+  },
+  {
+   "code": "7277",
+   "name": "DIALOG GROUP BHD",
+   "short": "Dialog Group",
+   "sector": "OIL & GAS",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/7277",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 7013315,
+    "daily_move_sd_pct": 2.36,
+    "as_of": "2026-11-13"
+   },
+   "quote": {
+    "price": 1.91,
+    "prev_close": 1.91,
+    "change_pct": 0.0,
+    "day_high": 1.92,
+    "day_low": 1.88,
+    "volume": 2267100,
+    "price_time_kl": "2026-11-13T15:31+08:00",
+    "currency": "MYR",
+    "spark": [
+     1.92,
+     1.92,
+     1.91,
+     1.91,
+     1.9,
+     1.9,
+     1.9,
+     1.89,
+     1.89,
+     1.9,
+     1.89,
+     1.9,
+     1.9,
+     1.9,
+     1.89,
+     1.89,
+     1.9,
+     1.9,
+     1.9,
+     1.9,
+     1.9,
+     1.91,
+     1.91,
+     1.91,
+     1.9,
+     1.9,
+     1.9,
+     1.9,
+     1.9,
+     1.9,
+     1.89,
+     1.89,
+     1.89,
+     1.89,
+     1.88,
+     1.88,
+     1.89,
+     1.89,
+     1.89,
+     1.89,
+     1.9,
+     1.9,
+     1.89,
+     1.9,
+     1.89,
+     1.9,
+     1.89,
+     1.89,
+     1.9,
+     1.91,
+     1.9,
+     1.91,
+     1.91,
+     1.91,
+     1.91,
+     1.91
+    ],
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "Dialog to invest RM860mil in Fatimah gas field ops - The Star",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMWo5YjE4am80SXMwQWlkcEVIa1RwRzBDdFM1bzJMTkJTQW41NzRpZk0wNkRZd1JVeGhtN1Y5MC1vVHctajd1MUlzOVhzWDFYdFZQeFd2UGJ6Tkg1b0VZM3dIMGtJT1EwVThfTWV1Zkg1NkJhYzkzQmVmQllkUF9mX0U3ejhZLVZnY0NsWEdTLVRUYTYzbjZwTWhMNjd0VXBwZzIwYmZ2cm1FSGFwcVFLUg?oc=5",
+     "published": "Wed, 11 Nov 2026 21:58:26 GMT",
+     "source": "The Star",
+     "tags": []
+    },
+    {
+     "title": "Dialog starts Salbiah gas production, invests US$211m in Fatimah field - The Sun Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS0t3WXFGSi0zMFp1TEc5eVl0a1ZYSEpNUDJsMWJscmNtLTBqbklMMFFna1hhdnZseEh5YkZyZTB0NUJKSUJTT1JlbWhtdTE0VzV0aE5qZVN0bHpVY3BNTFJOMm1ObWFvdnJKNk01TENvWWhOYmF1NEpNbTJ5WldqbEo2dEtJQ25aTWNNdlpUa2Fva054T2xHVkR0cFk?oc=5",
+     "published": "Wed, 11 Nov 2026 12:41:35 GMT",
+     "source": "The Sun Malaysia",
+     "tags": []
+    },
+    {
+     "title": "Dialog to invest US$211mil in Fatimah gas field development - KLSE Screener",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMzZ1ZDZRNG5fUEhZRUxQOVE0LVlwU1F2X0lPTTF4UFdxZmEwRFR0NUZpekFWVkNqSktnS01GOFJNVFhGYkY1RW5heU5yT0k3dzdwaHNBdjZwUjNPblhmRjhjOGIwZnpxVmdyTlV0MlRWcnN6QTFfWFNpQS12OGw4WS1HZFRFREhZYnhKa2pJUk80WDNwV0FYd2ZlNXNHRWVYRmxTVlM4cFF3VklEYkE?oc=5",
+     "published": "Wed, 11 Nov 2026 11:11:42 GMT",
+     "source": "KLSE Screener",
+     "tags": []
+    },
+    {
+     "title": "Dialog to invest US$211mil in Fatimah gas field development - The Star",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX1VOd3JWR09IODBtWjREVndsVFRWekFYSEdUSVFjZl9HdHZaWlBkVUIwMGdCTGpDNmxKNXlmalhDYnlnM3UtTEJxNW5XR1VReGlYMnQ4WWhuWEI0eGdZUDBxenItckNYMW5tMjBOU1JTRDNwblYzcENCU2NBTGZIYVFjam1mYnFGNDBlbXM1NkFwNWpRM1FKcHVkUm9ZbHp4MmVMM0RuejJ5QjhrX2FTcmN5dFZqU2dqbVFZ?oc=5",
+     "published": "Wed, 11 Nov 2026 10:57:00 GMT",
+     "source": "The Star",
+     "tags": []
+    },
+    {
+     "title": "Dialog to invest RM860mil in Fatimah gas field ops - KLSE Screener",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUW9YT2VmQk1vRVZlelp3bGZ3UUU1RDdLZGhRclhJLS1qdlRrRllYT09kYnNFNzNNSkRQWkowQUZPTU5GNjRzSEpxa2dfcGszbHBxMVhRVktaRUwyMi1fUnl4WWtoRjExbFprZm5HMlA2RnNKendvYWhKbEZfSTFNWFR1dGIyWVlIUUF0U05jRTYweXlyNzhZSUVLWGRxNlNNaGc?oc=5",
+     "published": "Wed, 11 Nov 2026 23:08:47 GMT",
+     "source": "KLSE Screener",
+     "tags": []
+    },
+    {
+     "title": "Dialog hits first gas at Salbiah, takes USD211m FID on Fatimah field - Minichart",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNREtUMHNBMzBtcUE2czA0RXZ0S1VWTldGOW9naEtVZ1FmdEx2ZW1NRzVPTXJuSk5zRDB0dVhKRVVNOEVPYzJ0OGUyTnZEVHc2cFJGbVFxd0hmZm5oZ1NDSmZBTjJhbGpNaUNkWWgwUUlfT0JpakdUX1YxRHJxYV8tZXNSYUZIdEFJNlRTczNsaDYyUzdVU3d1T0xvZllEQngxdWZiNmh2azVKb2hR?oc=5",
+     "published": "Wed, 11 Nov 2026 11:28:00 GMT",
+     "source": "Minichart",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "code": "7293",
+   "name": "YINSON HOLDINGS BHD",
+   "short": "Yinson",
+   "sector": "OIL & GAS",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/7293",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 4737825,
+    "daily_move_sd_pct": 1.45,
+    "as_of": "2026-11-13"
+   },
+   "quote": {
+    "price": 2.2,
+    "prev_close": 2.19,
+    "change_pct": 0.46,
+    "day_high": 2.2,
+    "day_low": 2.19,
+    "volume": 1462100,
+    "price_time_kl": "2026-11-13T15:29+08:00",
+    "currency": "MYR",
+    "spark": [
+     2.2,
+     2.19,
+     2.2,
+     2.2,
+     2.2,
+     2.2,
+     2.2,
+     2.2,
+     2.2,
+     2.19,
+     2.2,
+     2.2,
+     2.2,
+     2.19,
+     2.2,
+     2.2,
+     2.2,
+     2.2,
+     2.19,
+     2.2,
+     2.2,
+     2.2,
+     2.2,
+     2.2,
+     2.2,
+     2.2,
+     2.2,
+     2.2,
+     2.2,
+     2.2,
+     2.2,
+     2.2,
+     2.2,
+     2.2,
+     2.2,
+     2.2,
+     2.2,
+     2.2,
+     2.2,
+     2.2,
+     2.2,
+     2.2,
+     2.2,
+     2.2
+    ],
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "MISC’s RM3.03 bil bet to take Yinson private exposes shareholders to higher risks — CGS - The Edge Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyU3hUbnpfejNlT3BzZXZiVEtpTkhkVllPZ2JqMUx0c3J3YVhHeUdDaHhFaXQ5enhmTHpaZzB5WThzMWFQSk1nb2xoVTdKWnVC?oc=5",
+     "published": "Tue, 10 Nov 2026 02:51:05 GMT",
+     "source": "The Edge Malaysia",
+     "tags": []
+    },
+    {
+     "title": "From Scholarship Recipients to Young Professionals - Yinson Holdings Berhad",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMDdZQW9CemZydFR1b016TW1GenlHSVczTndmMVhua25ocFZXZU9kaEJwMURIWHBuMkQzYlJkaG5QLWxidVV2dW0yNXVSdWdMbWdxSlZTRzVsN3l0UGJMWTRmMVZIa3pjb0V0U0FFUkZ6S0NBU0pzNnZNNkJCU0Z3ZjBZQVNXUQ?oc=5",
+     "published": "Thu, 12 Nov 2026 08:23:55 GMT",
+     "source": "Yinson Holdings Berhad",
+     "tags": []
+    },
+    {
+     "title": "MISC's RM7.31bil Yinson deal offers offshore expansion but comes at a cost - NST Online",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbUNxQVo4Z3FoVFJSMDJsVWhWUUNxZjVoWjdsSmdWcVhWMGsxY0Y2a1pZWnZDQnY2cjAyVEZ4OGM0b3VzUWZ5RTVTZnFPdVYwUHd1R3ZaSHFucUxJcXUxSm5Pd2k3dWw5dXc3VUhWM3dfVEh6YWJRcDlzRl92S1M1YW1nWjNLZ1NsTndRVlY3UDZtOHdLOWJodWV6a1VNcXRPd0hFMWNZUFFQWXZ0SzBoX0lIOXJNdWYxaTJjWEtn0gHDAUFVX3lxTE5ZS0VzUkh4MHBBR01RYkZsc1JvMUFLWk5TclFOZjk2T3dTSG5uMnhtb1ROZ0UwbkJUZmtGMjhhWG1FYVFsMEtYSVVjOEt4bGJGdXVGcVhuSGFZeGVNNkVhbjE3a0FUQmtWdFowQXhIaEJqR0lvb1dfU2w4Q3dOMDhZY0JKdUl4MHRUWFcxT2E3M2VVeVZ4d1ZpdnBGQzFnaml3UkZQWmV0X21XQnFvajBvUGhfMW1hSGEyMThCVk9teFZQdw?oc=5",
+     "published": "Wed, 11 Nov 2026 04:14:53 GMT",
+     "source": "NST Online",
+     "tags": []
+    },
+    {
+     "title": "Yinson's board yet to respond to privatisation offer - The Star",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeUJfLWlxQk1lZDEyUUxkVHFfeTFvMnE1Zk5EMERXNEdpQlAtYUk4c3dzaWFtd0hpZkppdXRKb1JxaGJsMGZIMlgzandLZXJXMzFCdmVHNWpLNWdsTlF5aURNRGJQR1oxczg0UmFNWXlVdUR5bDBMbFp6NHFJZkRjcXN1WjlOREJtTHhyYTE5dGZYSlBhZ0VBNVg0cjFic2QzcDZyODlIUHpmT0ZSWE1ON3VLVk5wQQ?oc=5",
+     "published": "Tue, 10 Nov 2026 05:15:00 GMT",
+     "source": "The Star",
+     "tags": []
+    },
+    {
+     "title": "MISC, Lim family, EPF make RM4 bil offer to take Yinson private at RM2.50 a share - The Edge Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80UnI1TS1nV2daQ0VwOVRUMFhWa0RGUmVENk50akp4ZmJSdVlCNnNnZDR2dEVCMDJJcXh1M2tGX2s0blJEc2FjVEZaNkRmenFy?oc=5",
+     "published": "Fri, 06 Nov 2026 10:58:50 GMT",
+     "source": "The Edge Malaysia",
+     "tags": []
+    },
+    {
+     "title": "Malaysian Tycoon Lim Han Weng-Led Group Sweetens Offer To Take Yinson Private In $1.8 Billion Deal - Forbes",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORlE0M0RsZ3hYM05RLXE3N20tMGtpMXRfQUtkdjIxemZXaTA0d0lJcmdTQW12Z042M3lESHFNWkFnSkJuS0dRUnRwWk04Qk1Sc3FDQ1N0amJLdDg1Q21wRFZEU1dLa29yQTYyT2Z0MXVpYTZBUHZRMTlTSTYwVmpEcjhkM1dSMDB0bmhleTRpRy1NcEdHVU5zVkJ3Q0IxZ2FJUUtFOWFpUmpSOTZIX1VUQWFBeTRQN1gtYkM5RVFBalJTNUNpUkdRMk8yamg2YmRUU1FOQ3gxd3dkc3B3R2I1eA?oc=5",
+     "published": "Sat, 07 Nov 2026 07:20:31 GMT",
+     "source": "Forbes",
+     "tags": []
+    },
+    {
+     "title": "Yinson privatisation exposes MISC to higher risk - Free Malaysia Today",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdEp0SG5YX3dXUElIMnNLUTRDaXZTWHNzWmUyd2JGMzdrbGhBX2Zmc2I0R3AtSWV4Tk5BNkJjbm0tV3NYbUZtRWxtTFJnRFRiVV94aU1KcXVoNEIyd0hIQ3gwTXpsZDNBZmphRjBiWm1kUWNWLVNiYkw5THgzOGFUUFRDenI5djR1NTl6UGQwRW1ZUDJsWFpmUzVHUzZOWDBGb2pwMTNXbTBWeHRGOHJtUl93?oc=5",
+     "published": "Tue, 10 Nov 2026 11:05:00 GMT",
+     "source": "Free Malaysia Today",
+     "tags": []
+    },
+    {
+     "title": "MISC-led consortium offers to take Yinson Holdings private in RM4.03 billion deal - The Sun Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTHo1TDJwU0hKQ3dNWWI4ZmtpYm8yZzc3dDZVRU1hbkVRMTVtTVduQzNucGZsMFl2eXRQakR0bmxnR3lEMjNwQnQwRWw1WGJCLUY1c1VWMFZ0aTc2SUQ5VHhURC1CSWpZMEx4Nmg1eDF0c3dkSUdGM2llZ3RJLWRzYm42d1h3Zi1aX281S29OVWV6X0FtRGFPUTZkS0JCRUFNWTM3R1pkNVFRRGlqLUE?oc=5",
+     "published": "Sun, 08 Nov 2026 18:19:22 GMT",
+     "source": "The Sun Malaysia",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "code": "5243",
+   "name": "VELESTO ENERGY BHD",
+   "short": "Velesto",
+   "sector": "OIL & GAS",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5243",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 24003600,
+    "daily_move_sd_pct": 3.81,
+    "as_of": "2026-11-13"
+   },
+   "quote": {
+    "price": 0.175,
+    "prev_close": 0.175,
+    "change_pct": 0.0,
+    "day_high": 0.18,
+    "day_low": 0.175,
+    "volume": 774600,
+    "price_time_kl": "2026-11-13T15:27+08:00",
+    "currency": "MYR",
+    "spark": [
+     0.175,
+     0.18,
+     0.18,
+     0.18,
+     0.18,
+     0.18,
+     0.18,
+     0.18,
+     0.175,
+     0.18,
+     0.18,
+     0.18,
+     0.18,
+     0.175,
+     0.175,
+     0.18,
+     0.18,
+     0.175,
+     0.175,
+     0.18,
+     0.18,
+     0.18,
+     0.175,
+     0.18,
+     0.175
+    ],
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "Velesto’s Naga 3 rig still up for sale - The Star",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWhoVmVsSXFvQUNXZ3h5QzlibE0xRHdCZTdxTko2VzNuaTBCc2ZQb0ZhS0RoUk05V3FLTkd4YktfWjBMOThqNGIwTEY4aEVtU3BYVzhZOHN6SWp0U29TZUU4YWIyUmdObFBrRzc4T0dyTHhmWkFRVVliV1M4TFFZeGd3ZktycWNsdlJXMXBBUThyWlpKWlRjcmVncFltaFE?oc=5",
+     "published": "Sun, 08 Nov 2026 23:49:49 GMT",
+     "source": "The Star",
+     "tags": []
+    },
+    {
+     "title": "$VELESTO (5243.MY)$ - Moomoo",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40d0FmTDlUY1V3ajZ4ZHh5YmVOMklOaFNSWEI3UVVrcTh2WFEzR2dwN0FyRHpIalJfU3FDMk5MS0ltanBGd3haTHlCSGx5T3NhdnZDeHFjcGRaazdWaHhleVAwQVZDZ1JoaVpiN2hKQjVrZTUyeEhhNQ?oc=5",
+     "published": "Wed, 11 Nov 2026 14:15:05 GMT",
+     "source": "Moomoo",
+     "tags": []
+    },
+    {
+     "title": "Velesto secures PETRONAS Carigali contract for NAGA 3 - Cyprus Shipping News",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbTEyMm9oQU41SnNxWUtrdXNoQXpfbU1tTFJnbTFJaVRmMHFtM0FpdXN2NENSSGdERjRZOU5IT0hXN0hBTVgyZHpsWmxsZHlSS0V1U005WFRsOW04Ny1uTW1yRUVwbmJnVkl0eWxuV3ROeVFEYmpLVWp0TVVENU5scU10MWIzTl91TUlxbXEyZDZmdF9NblVaWjM5S0E?oc=5",
+     "published": "Wed, 11 Nov 2026 03:47:06 GMT",
+     "source": "Cyprus Shipping News",
+     "tags": [
+      "Deal/Contract"
+     ]
+    },
+    {
+     "title": "$VELESTO (5243.MY)$ : THE TROUBLE WITH ME IS ... I WANT A BULL RUN THIS MATCH ., BUT THESE HICCUP BUMPS JUST KEEP INTERFERING .....!! - Moomoo",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMWxBaGVaNmdYRlR5bFA5SXNUbkdycTBjM2ZUWWhOWHpRTHB4bW9ORmdDM2w2dWMxbjJweU9YcnBkRVgwblcxbks5LUlZLXBRRWRsNzhCbThZLVViRk5zVWRScXRUeTk1ZHlFOEI3WTlha1NCQVhxQTVoNW5zdi1pM2RseUVoVmVENlNjdHU2azNfRTBicWVVR24wNU10Vk5h?oc=5",
+     "published": "Thu, 12 Nov 2026 08:00:00 GMT",
+     "source": "Moomoo",
+     "tags": []
+    },
+    {
+     "title": "Velesto’s Jack-Up Rig Up for Drilling Job with Petronas - Asian Oil and Gas News",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR1BRV2FFUEJBQUlLdk43U3JraTVyWDBmcVVkS2VydXVWRnp2UE1nVHdrSWVSY0tESU8xU09HQzE4ZFMzaU1wNjJiTTJreFlfQmxhS3hDVHpOejl1Z1p6b2d3VUZTRzlMa29SZVVGdFRwOG9jNV9Temh2ZlFXb0lCbUdTVWN6WnZzQkdTMUh0VFhOQQ?oc=5",
+     "published": "Fri, 06 Nov 2026 12:09:33 GMT",
+     "source": "Asian Oil and Gas News",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "code": "5199",
+   "name": "HIBISCUS PETROLEUM BHD",
+   "short": "Hibiscus",
+   "sector": "OIL & GAS",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5199",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 4769070,
+    "daily_move_sd_pct": 2.87,
+    "as_of": "2026-11-13"
+   },
+   "quote": {
+    "price": 1.89,
+    "prev_close": 1.9,
+    "change_pct": -0.53,
+    "day_high": 1.92,
+    "day_low": 1.88,
+    "volume": 1085000,
+    "price_time_kl": "2026-11-13T15:30+08:00",
+    "currency": "MYR",
+    "spark": [
+     1.89,
+     1.89,
+     1.88,
+     1.89,
+     1.89,
+     1.89,
+     1.89,
+     1.88,
+     1.89,
+     1.88,
+     1.9,
+     1.89,
+     1.9,
+     1.9,
+     1.91,
+     1.91,
+     1.91,
+     1.91,
+     1.91,
+     1.92,
+     1.91,
+     1.91,
+     1.91,
+     1.9,
+     1.91,
+     1.91,
+     1.91,
+     1.89,
+     1.89,
+     1.89,
+     1.88,
+     1.9,
+     1.9,
+     1.9,
+     1.9,
+     1.89,
+     1.89,
+     1.9,
+     1.9,
+     1.91,
+     1.89,
+     1.89,
+     1.9,
+     1.9,
+     1.89
+    ],
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": []
+  },
+  {
+   "code": "5218",
+   "name": "VANTRIS ENERGY BHD",
+   "short": "Vantris Energy",
+   "sector": "OIL & GAS",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5218",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 1401085,
+    "daily_move_sd_pct": 2.72,
+    "as_of": "2026-11-13"
+   },
+   "quote": {
+    "price": 0.25,
+    "prev_close": 0.25,
+    "change_pct": 0.0,
+    "day_high": 0.255,
+    "day_low": 0.25,
+    "volume": 482900,
+    "price_time_kl": "2026-11-13T15:30+08:00",
+    "currency": "MYR",
+    "spark": [
+     0.25,
+     0.25,
+     0.255,
+     0.255,
+     0.255,
+     0.25,
+     0.255,
+     0.25,
+     0.255,
+     0.255,
+     0.25,
+     0.25,
+     0.25,
+     0.25,
+     0.25,
+     0.25,
+     0.255,
+     0.25,
+     0.255,
+     0.25,
+     0.25,
+     0.25,
+     0.25
+    ],
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": []
+  },
+  {
+   "code": "5012",
+   "name": "TA ANN HOLDINGS BERHAD",
+   "short": "Ta Ann",
+   "sector": "PLANTATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5012",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 193860,
+    "daily_move_sd_pct": 1.39,
+    "as_of": "2026-11-13"
+   },
+   "quote": {
+    "price": 5.48,
+    "prev_close": 5.56,
+    "change_pct": -1.44,
+    "day_high": 5.54,
+    "day_low": 5.45,
+    "volume": 367800,
+    "price_time_kl": "2026-11-13T15:29+08:00",
+    "currency": "MYR",
+    "spark": [
+     5.5,
+     5.5,
+     5.51,
+     5.51,
+     5.5,
+     5.5,
+     5.5,
+     5.5,
+     5.5,
+     5.5,
+     5.5,
+     5.49,
+     5.45,
+     5.47,
+     5.5,
+     5.5,
+     5.5,
+     5.5,
+     5.5,
+     5.5,
+     5.5,
+     5.49,
+     5.5,
+     5.49,
+     5.5,
+     5.5,
+     5.5,
+     5.5,
+     5.5,
+     5.5,
+     5.47,
+     5.47,
+     5.48
+    ],
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": []
+  },
+  {
+   "code": "5138",
+   "name": "HAP SENG PLANTATIONS HLDGS",
+   "short": "Hap Seng Plantations",
+   "sector": "PLANTATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5138",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 217670,
+    "daily_move_sd_pct": 1.11,
+    "as_of": "2026-11-13"
+   },
+   "quote": {
+    "price": 2.23,
+    "prev_close": 2.25,
+    "change_pct": -0.89,
+    "day_high": 2.24,
+    "day_low": 2.23,
+    "volume": 241800,
+    "price_time_kl": "2026-11-13T15:30+08:00",
+    "currency": "MYR",
+    "spark": [
+     2.23,
+     2.23,
+     2.24,
+     2.23,
+     2.24,
+     2.24,
+     2.24,
+     2.24,
+     2.23,
+     2.23,
+     2.23,
+     2.23,
+     2.23,
+     2.23,
+     2.23,
+     2.23,
+     2.23,
+     2.23,
+     2.23,
+     2.23,
+     2.24,
+     2.23,
+     2.23,
+     2.23,
+     2.23,
+     2.23
+    ],
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": []
+  },
+  {
+   "code": "5285",
+   "name": "SD GUTHRIE BHD",
+   "short": "SD Guthrie",
+   "sector": "PLANTATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5285",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 7551140,
+    "daily_move_sd_pct": 1.37,
+    "as_of": "2026-11-13"
+   },
+   "quote": {
+    "price": 6.11,
+    "prev_close": 6.15,
+    "change_pct": -0.65,
+    "day_high": 6.17,
+    "day_low": 6.03,
+    "volume": 5125200,
+    "price_time_kl": "2026-11-13T15:32+08:00",
+    "currency": "MYR",
+    "spark": [
+     6.14,
+     6.13,
+     6.13,
+     6.15,
+     6.14,
+     6.15,
+     6.16,
+     6.15,
+     6.15,
+     6.15,
+     6.15,
+     6.15,
+     6.15,
+     6.15,
+     6.15,
+     6.15,
+     6.15,
+     6.15,
+     6.15,
+     6.15,
+     6.16,
+     6.16,
+     6.16,
+     6.16,
+     6.15,
+     6.15,
+     6.16,
+     6.16,
+     6.16,
+     6.15,
+     6.16,
+     6.16,
+     6.16,
+     6.15,
+     6.15,
+     6.15,
+     6.14,
+     6.14,
+     6.13,
+     6.12,
+     6.12,
+     6.12,
+     6.11,
+     6.08,
+     6.1,
+     6.13,
+     6.12,
+     6.13,
+     6.12,
+     6.13,
+     6.13,
+     6.11,
+     6.11,
+     6.11
+    ],
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "SD Guthrie’s growth goes beyond palm oil - The Star",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbWFjZGhnMksxNEc4WVZKUjJpUEdKMU44YjBJME5KaEotVWM0dUIwSWFaZXlCZ2pqVEZ6c2g3d3htWE5sUllEYWFQNzNzdFg3N2N4RWRWb2ZLNFVSaEV6OU1iRVdXYWRva0M0aDZwaFpQX3M0UHNTNFEtOHk4Qi04VnpHVEw1dnBVOFBUSE03VU9idEhqUlkySndIODhFVlQ5RGc?oc=5",
+     "published": "Mon, 09 Nov 2026 23:40:33 GMT",
+     "source": "The Star",
+     "tags": []
+    },
+    {
+     "title": "ASB Raises Stake In SD Guthrie To 35% After Acquiring 16.6 Million Shares - BusinessToday Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMWJ1QzJrcGNucHhLTmtSQTZDYVNGQThybWtFNGJNY3ZPczU2anhseC1QTDl3a0xjanpMTWtaNTBzeV9yc3FSdGlPRTJIUHJQQmxONFVoMl9mZDZaSWo3UjU1MHlib283cjM3anBocm81VUV5S1FmdnY1Z0VuZnNMWERpMnpTeVJRTEZycDh5eFFSMXNoVVV2WWxndUZVUmVzNTE4elFzdURBY01YbTM2RzdVd2ZvTnVI?oc=5",
+     "published": "Thu, 12 Nov 2026 10:13:52 GMT",
+     "source": "BusinessToday Malaysia",
+     "tags": [
+      "Dealings",
+      "Analyst"
+     ]
+    },
+    {
+     "title": "SD Guthrie’s growth goes beyond palm oil - KLSE Screener",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT29UNndYQTNsMklZeWZiRVRVVzFEQ1hTaDV0U3dQakp4dVlISEJ4Mm1nMFkxMmRJYmh2WUd6UG5hblBSWW9PTVlsSWEyTlV1R0YxQlphXzFfWGRZTmQ4dlFhM0ZSWmNnYU9qSGY2YzdqRlgwcjYtY0F4RXo1WldtSjNVQzBQdmhpTVZpR1NyWlZoWGNF?oc=5",
+     "published": "Mon, 09 Nov 2026 23:42:12 GMT",
+     "source": "KLSE Screener",
+     "tags": []
+    },
+    {
+     "title": "SD Guthrie expands midstream operations while maintaining its agribusiness focus in Malaysia - Traders Union",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRURkc3ZfakNFQU0wS0tQdnlwNWx6V3lvV2p1Q2FtbkNObVMzMVVNOXZtZjZPQkhOWDN0c0w5aGc3WExlQUc2NkV3QVluT2k5cmYzUWFqa21Wa3JDQ1MxeDV2c0xCbWExdFN4SnBaTE91NXZCVzBZUVpYSnA2NWRlcjFkNzZ2c2JsRnpOb1dXWmh1czVaY3FKMTJn?oc=5",
+     "published": "Thu, 12 Nov 2026 06:27:45 GMT",
+     "source": "Traders Union",
+     "tags": [
+      "Analyst"
+     ]
+    },
+    {
+     "title": "Concerns Surrounding SD Guthrie Berhad's (KLSE:SDG) Performance - Simply Wall St",
+     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMndjSjJHNkp5dzNBRElreVowTnZSSHJJb09KV1RyYm9SRkpyLVdkUl9Gejg1QXFOU2w0VGxjU1N5dmhIVnRqUzNheEFsaDNrV0N0VlpIVlFzV1l4d2dEclRCNHRlWFJuMDF0MEt5em1jVC12dXo3SkN4R1JpRWttd3QzMEJtRmdSZFhjR2ZSaU9adUNBamZLSUVQRFVFdGhZbUdaWWNSeFQ4bTFVTkhjYVhnektwR2dEejdEa3VsMTJrajVjdTVqNWhmZ19DLTR1RUk1RnZLcXJCSFhtSlV3dDB1aFNGa1XSAewBQVVfeXFMT3ZUQUl3aktqbU5CQUdnbW5jd1hzQ3VjMUtFNjNodlRaeUk3MTJlT2dESWFaN3ZRMHZ1Z3RPQWZuWkthZnJXUVg0enhDWUN2c3N4R0NHTW5PRF9vRGwwRzktRzJGdlg2ZmRCU2F2RzRwN2hyTkl4ZnRkX3pzVXFYbDZ2Nmc5TXhKNHpPaGdXanhpaXdVZ2ZxV2hnSDBzR3l6MjlEZGt3NkQzTnBqTktoRTB1OVhueUt4N1pCby0zM1YyQjEyeVZJTmJfS1FyNnplbTZ1Sk1fT25hSm5VX1UxSW8tVE9tcXJYNG5rRHI?oc=5",
+     "published": "Thu, 12 Nov 2026 22:59:43 GMT",
+     "source": "Simply Wall St",
+     "tags": []
+    },
+    {
+     "title": "SD Guthrie remains focused on Indonesia amid land risks, haze and El Niño - Traders Union",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWXZLSTVLXzdJTHZzeXhmX0M3ZGJ4bnJfaWVKTnEyaGhnbDFZQzlkbkJqbTJIbHEyc0hOSGIxX2NHZTdUVlFodmZpc244cXpfTFlzRzQtc3dDMnpyMHlNVkhubmlkb2U3QW1LeEtEc1hoQ25VZC0yRkZ5QmNRY3ZrZXlIY19YaFZoZ015ekkxSWJOQ0RGNVJF?oc=5",
+     "published": "Thu, 12 Nov 2026 06:27:41 GMT",
+     "source": "Traders Union",
+     "tags": []
+    },
+    {
+     "title": "SD Guthrie targets top-quartile shareholder returns by 2032 - Traders Union",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX2tZVVdScVlOSUJzRlFWdzRORjE1TmZncjZEVGFrSmJVVlZyS1A1NGZveUlsUmd6d0RfRDFUQ3R4VHVfWGJUZVhDNnFIUjdQZi0wUGFZMTZzOVpJZUtjZnBnbDFWQ1I4MTdFMUE1eVNOY0xBbnVMNjRzZExEOG1vWDZyVUJLZi1hck9zVnkxSllPMG9TLUF4cA?oc=5",
+     "published": "Thu, 12 Nov 2026 06:12:33 GMT",
+     "source": "Traders Union",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "code": "2089",
+   "name": "UNITED PLANTATIONS BHD",
+   "short": "United Plantations",
+   "sector": "PLANTATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/2089",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 416760,
+    "daily_move_sd_pct": 1.31,
+    "as_of": "2026-11-13"
+   },
+   "quote": {
+    "price": 31.74,
+    "prev_close": 31.6,
+    "change_pct": 0.44,
+    "day_high": 32.0,
+    "day_low": 31.3,
+    "volume": 154900,
+    "price_time_kl": "2026-11-13T15:30+08:00",
+    "currency": "MYR",
+    "spark": [
+     31.3,
+     31.46,
+     31.46,
+     31.62,
+     31.8,
+     31.94,
+     31.92,
+     31.94,
+     31.9,
+     31.9,
+     31.96,
+     31.98,
+     31.72,
+     31.76,
+     31.76,
+     31.78,
+     31.72,
+     31.74,
+     31.74,
+     31.74,
+     31.76,
+     31.76,
+     31.76,
+     31.72,
+     31.74,
+     31.74,
+     31.76,
+     31.74,
+     31.76,
+     31.9,
+     31.84,
+     31.72,
+     31.74,
+     31.76,
+     31.74,
+     31.74,
+     31.76,
+     31.76,
+     31.76,
+     31.74,
+     31.76,
+     31.74
+    ],
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "United Plantations posts record 3Q profit, declares 45 sen dividend - The Edge Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IdWF0MUoyU0ZMbUswbl9icUo4NFZLVXpHUWdhdWt2VWVsR0Q2RWFWcmRmVGFKc2l2bDF1akNYdURrZXIyRjF3cjhmVG42Z1Bf?oc=5",
+     "published": "Wed, 11 Nov 2026 10:36:12 GMT",
+     "source": "The Edge Malaysia",
+     "tags": [
+      "Results",
+      "Dividend"
+     ]
+    },
+    {
+     "title": "United Plantations’ 3Q net profit jumps to RM290.93mil - The Star",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYmVnRjlhLTVndTJjUmlXVnZEYmN1VnlteTNjN0R2ektXYUhmZlRNbzk5bFNrOHFmYWtCTzRzOVVWZ292dkdSV3BHRzVvX0R2VUNyckI5bU1obEpDWURPX0x3dE1SV1d3VWJYQi1oVzJuUEVnRWVndnlqOXRmdlVtdHBpYnNrdHgxOEZidG5IRDZ3UGdFaHJhVVZ5aHFpb0J3M01mQWw0bl9SYzdwMkZMNUpVVQ?oc=5",
+     "published": "Wed, 11 Nov 2026 10:44:00 GMT",
+     "source": "The Star",
+     "tags": [
+      "Results"
+     ]
+    },
+    {
+     "title": "United Plantations posts record 3Q profit of RM291m, declares 45 sen dividend - The Malaysian Reserve",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMHdaUEJaM20zd05SUkVZRVFpcU5jaUJiSXZ3RmE5bnFrMVF4d3NVUG9fY3JLQmVBeXVQYUtwbEk5RkJZbUpHdDNFRkloYU1Pb2F3QUV3VVZ5VHpONTFoSlFZM3NaSGRIUWZTMDN2Mjl6ZkhjaHZVamVKNXdzU3hDeGZlSkNsRHpvZGo1eGlPNGlCbHA0SWhiWkw0QnFRZEtISS1uZEhuVDhKeWhBMTVldHJIZ0tUdUpQNHhySQ?oc=5",
+     "published": "Wed, 11 Nov 2026 12:16:03 GMT",
+     "source": "The Malaysian Reserve",
+     "tags": [
+      "Results",
+      "Dividend"
+     ]
+    },
+    {
+     "title": "United Plantations Record Profit Surge Prompts Outperform Call With RM37 TP - BusinessToday Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQm5jcjVUMERPSXVoZTVBcFVOVHRWWWF5aVExU1NWMjZwdUNiZUtFMjdmU00yTTRxTWpuRlFxTWZoelo5T21nUERURVI2SUszZDk5ZnVjRnZKNUpncldiVklTMnhZa2pCTnBtVlRJbUFnQ0QtZGxYV2NwQlRaSUNSYS1kZVpMWV9xOW1GczQxTHlEMC1jRDFHQjBfOGlDak1aVTlXazk1NEVMaXFtRGV5UzFYX0xRQms4d0Ywag?oc=5",
+     "published": "Thu, 12 Nov 2026 03:15:30 GMT",
+     "source": "BusinessToday Malaysia",
+     "tags": [
+      "Results",
+      "Analyst"
+     ]
+    },
+    {
+     "title": "United Plantations reports 43pct higher net profits in Q3; warns of workers shortages - NST Online",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdER5bUVJdEl6cFo0eVNHM2dINXJqSXlmWkNUS3p0RzFPX1M3NElVeEtqcEw5N3h3QXZwSFJOWUQtSGpXYmtSOF9rVkNIdUwxUTg0TFJpaGdiSDVTSmVvMjV4UU1SMjVvMXJlMWEyaVdMQi0zYTIxdkk4bnYzYi0yOFRpSXotaXprbFQ2aGdyZ0RJRE9rVVRzOXExY0JkSnRudlNiMmNmU1FISVZmWTN4a0U1OVFfMnMxQkHSAb8BQVVfeXFMT0gzZEx2SldSSWhGdC1xWDIxdXN5RURXNE01cWdfSEFEUFg2MjQzbHFlWU94SlQ3cnRjNG40TjM3YUZGaFpvSi1MRHVEcm9fNkZScHNnUnFydmFZR1A0aURmRW5YcVowamdKbDN5UHVQS0hZY1NfMTdNZnVfREgtOHRONlo0MXFnbHNnRmFWYVNHTkx0SEIzVWVKTTBIUGhOVmJSb1puVEZvQUFhVUhaSXlBejRWS3RDS0RneVlsVGM?oc=5",
+     "published": "Wed, 11 Nov 2026 10:13:56 GMT",
+     "source": "NST Online",
+     "tags": [
+      "Results"
+     ]
+    },
+    {
+     "title": "United Plantations 3Q profit improves - KLSE Screener",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbUt0OHg2LW9BZFQyejl0S3RZMC1kQWExbTgzQzE3ZUVjS3pJLXc1dEtST2wzTDV3Mm92N1o0UUhFV0VMbVZJam1HX2YtdFpWTndBcXg1U0lCenF5bE90Uk1kQzlwcExMLW5pV1VheGNuZXh1ZTlIZnE3RF9qRF9jbGtUOENUa2haOE5iSWlXaHI?oc=5",
+     "published": "Thu, 12 Nov 2026 02:24:47 GMT",
+     "source": "KLSE Screener",
+     "tags": [
+      "Results"
+     ]
+    },
+    {
+     "title": "Zetrix AI, Dialog, United Plantations, Heineken Malaysia, S P Setia, MMAG, Southern Score, L&P Global - The Edge Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE01cmYxUXNLQWRMYUVnc3E1YzY0b2IwTDJjMnYweVkzVVJZVUtmMHJvMGlmUzJZSnZLNXpJSW1CbnBfMjF4cUREWEVoU1oxM0gy?oc=5",
+     "published": "Wed, 11 Nov 2026 14:24:54 GMT",
+     "source": "The Edge Malaysia",
+     "tags": []
+    },
+    {
+     "title": "United Plantations Berhad Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTWVMaUVnaFd4NDgtSGVsNVVBYXUyZDZhVkJhclk4YU93QkZKLUlzX2VPemJpbU1taVFYVjlWZFRlMFVuS2NpOHpmRkJaNS1PS2xzMDhWbUlVcnBfU2o2OC1TVXRkaGVkTUNUcDB4aTdpcXBzckU1Y2hmT21IYS1pdnRQYzhNQThDVGNYT2V0cFZxT2Z0bzRQeUdhby1UcElQVlBZTjlJY1lpd3BkTW15VGxDNE5lNThjclhxV2VsUWd4VGpKYkxtTDE2bXFYQ3F4ZGc4SDBZWWpOWUxOdTlEcnExb1E4d3B6?oc=5",
+     "published": "Wed, 11 Nov 2026 15:36:15 GMT",
+     "source": "www.marketscreener.com",
+     "tags": [
+      "Results"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "5323",
+   "name": "JOHOR PLANTATIONS GROUP BHD",
+   "short": "Johor Plantations",
+   "sector": "PLANTATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5323",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 2419610,
+    "daily_move_sd_pct": 1.31,
+    "as_of": "2026-11-13"
+   },
+   "quote": {
+    "price": 1.79,
+    "prev_close": 1.8,
+    "change_pct": -0.56,
+    "day_high": 1.81,
+    "day_low": 1.77,
+    "volume": 2168500,
+    "price_time_kl": "2026-11-13T15:32+08:00",
+    "currency": "MYR",
+    "spark": [
+     1.8,
+     1.8,
+     1.78,
+     1.79,
+     1.79,
+     1.8,
+     1.8,
+     1.8,
+     1.8,
+     1.79,
+     1.8,
+     1.8,
+     1.78,
+     1.78,
+     1.8,
+     1.8,
+     1.79,
+     1.8,
+     1.8,
+     1.8,
+     1.8,
+     1.8,
+     1.8,
+     1.78,
+     1.78,
+     1.8,
+     1.79,
+     1.79,
+     1.8,
+     1.8,
+     1.79,
+     1.79,
+     1.79,
+     1.79,
+     1.79,
+     1.79,
+     1.79,
+     1.79,
+     1.79,
+     1.79,
+     1.8,
+     1.8,
+     1.79,
+     1.79,
+     1.8,
+     1.8,
+     1.78,
+     1.79,
+     1.78,
+     1.79,
+     1.78,
+     1.79,
+     1.79,
+     1.79
+    ],
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "Johor Plantations 3Q net profit slips 5% on lower delivery volumes - The Edge Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81YzRUZzhxekhSZnBEYndDeXJBazhZSFFmVjRsenVTVGZoME56azZZV3FnS3FuX3JBRi0wb0x5dFR5Q2xtbGlCUk5qd3ItbXRp?oc=5",
+     "published": "Thu, 12 Nov 2026 09:47:40 GMT",
+     "source": "The Edge Malaysia",
+     "tags": [
+      "Results"
+     ]
+    },
+    {
+     "title": "Johor Plantations profit doubles in third quarter - The Star",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb2J2aG85Ym1DVF9UUk5BRG1wY2Q3Sk1UZFo0OF9kdGZVVGFQb2JaNlQ0WHZibF9ZWnNFQ1FQd2VvRnJXb1NpZ2tNRk9VYjljM1FuQ1dyOE5xRVJiS0VSTXNzOGNreU81UjRBZDY3REFoZWVaSHJqY0hNRmRRcE5hWjZlTGRUUEd2TFlSbjZoamxOR2p1dDAyaVZtaWlVZ1czQ2h2V1JCT0J1WHNiOEFN?oc=5",
+     "published": "Thu, 12 Nov 2026 22:04:15 GMT",
+     "source": "The Star",
+     "tags": [
+      "Results"
+     ]
+    },
+    {
+     "title": "Johor Plantations Posts Lower Net Profit Of RM100.26 Mln In 3Q - BernamaBiz",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwcXN3Xy1HeG9ScHdJWXlJWkFlWG1FY3hsUjQzVjlNYXhhMjhtMXF6U0RSNjRtRDIyRWlsTVczaWU3VS11M3J6NE4xY2ZubEV2S1drYg?oc=5",
+     "published": "Thu, 12 Nov 2026 11:59:05 GMT",
+     "source": "BernamaBiz",
+     "tags": [
+      "Results"
+     ]
+    },
+    {
+     "title": "Johor Plantations’ 3Q26 Falls Below Market Consensus - BusinessToday Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWlJXNl9tLUt1cXFjRDBhTXl0YW1JRDNHZGdtejNwM2YzX096dllIU0paVzNWUTVwN01JaWFIaFpMVTZCNjJZWWNhU3BKUlBYQ1VPMTJtak9zbFVQZTdMZ0dwOUVXLVB3VDU1bVR3T1gwZC1EY2JpbzZJRWt6SjlqZHNJV0d6cFdwN0lFZU5XWDcxM2dLQzlZVUNPbW8?oc=5",
+     "published": "Fri, 13 Nov 2026 03:54:36 GMT",
+     "source": "BusinessToday Malaysia",
+     "tags": [
+      "Results"
+     ]
+    },
+    {
+     "title": "Johor Plantations Posts Quarterly Profit Attributable Of 100.3 Million RGT - TradingView",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaEFyX052elg1ZTJPZU5zeUxWSUZQTTcyalFYZy11N25IQlk5SXU3cERUcmdMNjM3SEtKckFOWF9oSC1INFFiaG1EMDdmNzhxOFh4MTBZckN1S2JtTXFlb3E0a19BU1hILXdIS2FkY2hhelc3akNPMEpUcjl4OUlXd01ZQ0tMbnk4eU9sdGhPbjh6R1pCdmFRQlYza2Q2OEZpbFpJR2lZX3psejdBSnJ2ZkhLUXNhTGNSRXBHajdHYUstTVQteEdINUJQRy1Pci1MdFZsUXFITUxUUWFh?oc=5",
+     "published": "Thu, 12 Nov 2026 10:23:31 GMT",
+     "source": "TradingView",
+     "tags": [
+      "Results"
+     ]
+    },
+    {
+     "title": "Johor Plantations profit doubles in third quarter - KLSE Screener",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeDdLdnNQUnhhWFhCbHdRbkNuU2QxdU40STZhWGFVSjU3TEFBc2ZiS0dEVDRmTmZBYTVxRUtTZkplMkpjWTdJNmd3MV9TeHRBOHpnbG5iYTdsb0dHZkxnTksyM29tWGV1ZzBLRGtsVkc0enRxbXpXZnRPVzI0ZVFHV3dobUFPYXVMcmg0RW11RGF1c3lkUVZUbThGcWxJYS1V?oc=5",
+     "published": "Fri, 13 Nov 2026 02:47:37 GMT",
+     "source": "KLSE Screener",
+     "tags": [
+      "Results"
+     ]
+    },
+    {
+     "title": "RHB keeps \"Buy\" on Johor Plantations, cuts target price to RM2.00 - NST Online",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY2dwc05aUlN5bTZqemRCZDlmSU9uTFZQN1JJOUozY3hJR2pZRWxrdnBuaHNqeXVGUXZaNHpCeHFzODVYYmIzLURqOGtmTUZlVEs0eXY4YzRoUDhKZm81VEtTTzdTZHZHRnk5ajhoakY4d0lKeGlSLWhwa0hZSzJhSjU0dktBaDZ5QzU0YS1ibEp1NnN0R2NLLTdyWHRKb3Y5Q2hJdEUwdTlzQk5IQ2Y3VEVfVlBpNGxHV2dlSFpReWtDaTN5RWfSAbgBQVVfeXFMTXVUN3ZaWVBobHZzSHZQZ1ZraXRVSFZXN292YmU2OUI4YVROOGRVZGxvTDF0QkZiZ3BKa1ZHM3VWVWtUWERjckF3Q3FiTThnNFJmV2ZKSWoydkxpS3pWWlIyT3BaVkZWM0RTdnlVRnFKZ2xuMDNZTnZCZ2ZLSjNuWnhIZEc4R1pQd0Z3VDM4aXg1YnZkVHIwdEVnMm5MTS1hbGVCUlNVZlVhM3JBOGxrWjl2dzNpczVGUw?oc=5",
+     "published": "Fri, 13 Nov 2026 02:42:20 GMT",
+     "source": "NST Online",
+     "tags": [
+      "Analyst"
+     ]
+    },
+    {
+     "title": "Johor Plantations posts lower third-quarter profit as delivery volumes decline - Traders Union",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd2k2b2ZPMFRiVVlPaTR2eHhwanoxd1ZSMDlDT3lFWktQU2t4TVQzdFNMVGhXclVZUDB0MEFDYmhNNVN5Ui1YZVhmZmJzTDhsVEhUb3N3QTJZc3lHbTAyV1NzU1VxalVDQlhEeEFHZXFiSHlyaXM4VWJ6UHBDaTBvekY3U1ZzQkIzM3RuS2lIZw?oc=5",
+     "published": "Thu, 12 Nov 2026 09:55:33 GMT",
+     "source": "Traders Union",
+     "tags": [
+      "Results"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "1961",
+   "name": "IOI CORP BHD",
+   "short": "IOI Corp",
+   "sector": "PLANTATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/1961",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 9222240,
+    "daily_move_sd_pct": 1.16,
+    "as_of": "2026-11-13"
+   },
+   "quote": {
+    "price": 4.49,
+    "prev_close": 4.51,
+    "change_pct": -0.44,
+    "day_high": 4.52,
+    "day_low": 4.44,
+    "volume": 3212500,
+    "price_time_kl": "2026-11-13T15:32+08:00",
+    "currency": "MYR",
+    "spark": [
+     4.48,
+     4.48,
+     4.45,
+     4.49,
+     4.51,
+     4.51,
+     4.49,
+     4.51,
+     4.51,
+     4.52,
+     4.52,
+     4.5,
+     4.51,
+     4.51,
+     4.51,
+     4.51,
+     4.51,
+     4.5,
+     4.51,
+     4.5,
+     4.5,
+     4.5,
+     4.5,
+     4.51,
+     4.5,
+     4.5,
+     4.5,
+     4.48,
+     4.49,
+     4.48,
+     4.49,
+     4.49,
+     4.48,
+     4.49,
+     4.46,
+     4.48,
+     4.49,
+     4.49,
+     4.49,
+     4.48,
+     4.49,
+     4.5,
+     4.49,
+     4.48,
+     4.47,
+     4.47,
+     4.48,
+     4.49,
+     4.49,
+     4.49,
+     4.49,
+     4.49,
+     4.49,
+     4.49,
+     4.49,
+     4.49
+    ],
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "Lee Yeow Seng steps down from IOI Corp board to focus on leading IOI Properties - The Edge Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fbVRfSEdVUkRsMmVUMDVGMG1KeWhXd1RSVmNGdFZpeXEtZzkzdzRwdnBNc1hqeF8tMUxDTUNyenJMMk5tUm5GVkJfblY4a3h0?oc=5",
+     "published": "Fri, 06 Nov 2026 10:35:32 GMT",
+     "source": "The Edge Malaysia",
+     "tags": []
+    },
+    {
+     "title": "Lee Yeow Seng steps down from IOI to focus on IOI Properties - NST Online",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUXMxSFVNVVZEVTFST0VVQXprRjVMV25ZbTE5V3VTTHVDVEtVM0ozX0g5X25vUFNjOTVKQllWSzBNQnJwU01fZjB3R2JNSmc4bnllV2czeEotU2V6d3B1U01PU0NLZzFMcHpUc00xRk5WTWZwcXNuMXRxdzJMWDNCOUZmb0E2RDg1Q2txTEduaVJoWjJfVVpmM2ZHVGZ2RTRfT293YmJweTRGR2_SAbABQVVfeXFMTVZnaDUzWjZSMWV3cXdJOFRSeGNBblVQNW9feUh6RUVCS2szNldkUFk0YmR4ZTB3TDRpUlhXNTR4UnJjbjFid1gtS2RpU2VsbEpKMjJrREtpSVZVaW9aalNkNjBFNjFUZlJmOUhjVl9CeVlpT01oaHBFTll1bVNjYmtyMEtuX21YMFFZMzg5Q0h1N0txckZCa3o4QWpPeXRuVWxhLUlmT25OQWI1RXN5SzI?oc=5",
+     "published": "Fri, 06 Nov 2026 11:24:37 GMT",
+     "source": "NST Online",
+     "tags": []
+    },
+    {
+     "title": "IOI Corp Sees No Major EUDR Compliance Challenge, Expects Premium For European Sales - BernamaBiz",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UNk9CQVVxQW5EWVcxdnhVMHI4S19DYnZQc3VBVzJmRk1DOWN6OWRBaEUtWUZveWJTNjRfYzJOZ0FDVUMyRHRSNHU5YzRRdDkzUWZfSg?oc=5",
+     "published": "Tue, 10 Nov 2026 12:07:44 GMT",
+     "source": "BernamaBiz",
+     "tags": []
+    },
+    {
+     "title": "IOI Corp Former CFO Dato Yeo How Rejoins As Independent Director - BusinessToday Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVF9oUHE0eFNub2E1bVFpOWdwbmVNYlBpNEd1ejRUODJZUWVXdzloR1BKLWg2ZEVBSnNjTzE0b2hZT0dmTndXeTlYcGREQ2ZCVUEyTWI3Z0ZxbkthYXJ0YXhtZzVjMU9Ed0RhQ1cwSDV0TmV1SVRjYndBMjdhdjRJYUpCbFNWdVQzUU1LcUhwNXpHNUUwYjBxNFpqdnBNTFgwRTFFTWNabGR5Nm1GUHc?oc=5",
+     "published": "Mon, 09 Nov 2026 04:28:54 GMT",
+     "source": "BusinessToday Malaysia",
+     "tags": [
+      "Dealings"
+     ]
+    },
+    {
+     "title": "Lee Yeow Seng leaves IOI Corp board to focus on IOI Properties ahead of REIT listing - The Malaysian Reserve",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZmdiU25HdWlyVWtRcjJBV1N2RV9CXzlMdmE4dFlsbkVxaTdmZlhlNDNiUGhWNFJfY3JDS2lpNEp5eW9lQmpkMlZfanhZaF9vdlU5S2VyOE05azRHM0F0SFlVZER0cUVHcGZ2MjVSanJvV3FtUTY1Y3NlT01mYmZDbGtVT1BfdFcwYXdpajU1VzJtRkJuUkdwbkdvU2JoXzlzaWpBMkRIdmFrd05RY1RjZmRYS0JjZlhxSjBFeFFyeFBzWUxYcVRZ?oc=5",
+     "published": "Fri, 06 Nov 2026 12:57:52 GMT",
+     "source": "The Malaysian Reserve",
+     "tags": []
+    },
+    {
+     "title": "Lee Yeow Seng steps down from IOI Corp board to focus on IOI Properties - EdgeProp",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMjUzcE56bFBTdnc0X0JpZXFUdUt4NURsQ2RjX005Z01CMnd1MkJVaDUwNGk0NjB6YTJXQURSajhRb0tYbzJkaTExZXVLdHJNcnJIeWM2djk1ZmlzWjk3NW9aWE5KMmRObk5FWmt4SWp3UV9UbmpwWG1DWG1rUlVlRkpSaFRGbVBscUhrYXNWb0pFaHlBZkU0ZEhlcVRMODdxQXc?oc=5",
+     "published": "Fri, 06 Nov 2026 11:15:34 GMT",
+     "source": "EdgeProp",
+     "tags": []
+    },
+    {
+     "title": "Tenaga, IOI to jointly develop 500-MW hybrid solar project in Malaysia - Renewables Now",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOXdqbFA2cU1JYTRsZFhDWEFQaVl3WDhtZXpWdFZOTXFPYmEyVDJwNzZqa0p2REg1MDRUaUZndXY1UTNDNS0za09relNZTlJ1YWduOHRYeWpXLVpnLVlCOGxlSXFtOUlCWDB0OXZfcGtWYjF6SzY4cEJtcHU3MVFCLXdhU1ZZUFZzRW1YVmUwSWY4bGl6WGU0SFk4cno4NU45d0ZWal9kNThMclJvS1E?oc=5",
+     "published": "Mon, 09 Nov 2026 07:52:38 GMT",
+     "source": "Renewables Now",
+     "tags": []
+    },
+    {
+     "title": "IOI Corp reshuffles board as Lee Yeow Seng focuses on IOI Properties REIT listing - Traders Union",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUWNWamFCdnVxUGRSUkItM3hob2JseVZtX0xxRy1XcHhxTXFjOWJzUGpYTWhrMzVIV2loajFBZzA4enNRTzUwV1VNYjN5bmxiQzNyamN6cFV4TlNvZXFIMWxnRzJyN04yVDN5M2U5TXhSV0lmZWxfWjFWblhpN3FaSmE4QU5jb1VXZ3RrVXNKcw?oc=5",
+     "published": "Fri, 06 Nov 2026 20:29:41 GMT",
+     "source": "Traders Union",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "code": "2445",
+   "name": "KUALA LUMPUR KEPONG BHD",
+   "short": "KLK",
+   "sector": "PLANTATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/2445",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 735940,
+    "daily_move_sd_pct": 1.5,
+    "as_of": "2026-11-13"
+   },
+   "quote": {
+    "price": 21.1,
+    "prev_close": 21.38,
+    "change_pct": -1.31,
+    "day_high": 21.32,
+    "day_low": 21.04,
+    "volume": 332100,
+    "price_time_kl": "2026-11-13T15:32+08:00",
+    "currency": "MYR",
+    "spark": [
+     21.22,
+     21.24,
+     21.04,
+     21.08,
+     21.08,
+     21.16,
+     21.06,
+     21.18,
+     21.16,
+     21.2,
+     21.2,
+     21.2,
+     21.18,
+     21.18,
+     21.18,
+     21.14,
+     21.1,
+     21.12,
+     21.12,
+     21.14,
+     21.14,
+     21.16,
+     21.14,
+     21.1,
+     21.08,
+     21.1,
+     21.12,
+     21.1,
+     21.1,
+     21.08,
+     21.08,
+     21.12,
+     21.1,
+     21.1,
+     21.1
+    ],
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": []
+  },
+  {
+   "code": "4383",
+   "name": "JAYA TIASA HOLDINGS BHD",
+   "short": "Jaya Tiasa",
+   "sector": "PLANTATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/4383",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 1084120,
+    "daily_move_sd_pct": 1.46,
+    "as_of": "2026-11-13"
+   },
+   "quote": {
+    "price": 0.84,
+    "prev_close": 0.855,
+    "change_pct": -1.75,
+    "day_high": 0.865,
+    "day_low": 0.84,
+    "volume": 397600,
+    "price_time_kl": "2026-11-13T15:25+08:00",
+    "currency": "MYR",
+    "spark": [
+     0.865,
+     0.855,
+     0.86,
+     0.855,
+     0.855,
+     0.855,
+     0.845,
+     0.845,
+     0.845,
+     0.845,
+     0.845,
+     0.845,
+     0.845,
+     0.845,
+     0.845,
+     0.845,
+     0.845,
+     0.84,
+     0.85,
+     0.845,
+     0.84,
+     0.84,
+     0.85,
+     0.84,
+     0.84,
+     0.84,
+     0.84,
+     0.84,
+     0.845,
+     0.845,
+     0.845,
+     0.845,
+     0.84
+    ],
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "Jaya Tiasa Holdings Berhad (KLSE:JTIASA) - Stock Analysis - Simply Wall St",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObldvTVdsMU1jYzJRYnhIYUFVcHd1dWU4dlROeE1RNGR2alBfYnc1bDdfWnQ4RTJtZndXb2QzaTMtTlBqdDVwMFZ3dWJ5amk2U1NKZUF6VjJrOVdVOXdxTVlpejFLazZaSmh3Z0NiQXk2Y296QkFJNWF0NG9WdnlyaDFZRHItVzE3WHRKWXg4S0g?oc=5",
+     "published": "Mon, 09 Nov 2026 08:00:00 GMT",
+     "source": "Simply Wall St",
+     "tags": []
+    },
+    {
+     "title": "Jaya Tiasa's Fresh Fruit Output Tops 100,000 Metric Tonnes in October - www.marketscreener.com",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVzZJMnJHZW51MUhtQXRBLTVOS0tkc1JXQ1VDZFgyVlI0TXdmRWhSSGEya2ZsbklTLXFnMERxRUcwUlNaaXB0aDdsWWtESHpocENiYi13M1ByU2YzTkdzXzV5QUEtRWxJMGZONTV5MGlsYWlaOU9hSUpXVDNRamZ3OWNiMllQNVc0aWpySGk1OXZEcTB5VWpMNUtDeWZDS3RBc19CWWRwX2VTX2QtaGlQWldDY3QxcUx4ZkxYYlQxVQ?oc=5",
+     "published": "Tue, 10 Nov 2026 05:51:23 GMT",
+     "source": "www.marketscreener.com",
+     "tags": []
+    },
+    {
+     "title": "Jaya Tiasa Posts October Logs Production Of 13,686 Cubic Metres - TradingView",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT2Y4V0hxcUFQa2tKbVBGZHNuUk43dVp2OWNUNlZMNFZFWXl5MmhGQnJkb2g2VTYwMDNWX1RnT1B2QTgxQnBLZDBhN0NpVllRU3gzSEc2WVhMZjByWXJ0aGExbmttX3AzMENxU0NLQjR4QTYxc1JjNjA5OWVJZFY1dkIyQkRjb21NSkxzeEFVV21mRWk1cHpKXzFyTU14TEJMT2ROU19FVEFCRnJweG8yMGc5cUp4S3lzdG83NTcxdHNkbm5CeC1OdmVDMnBXZw?oc=5",
+     "published": "Tue, 10 Nov 2026 04:57:00 GMT",
+     "source": "TradingView",
+     "tags": []
+    },
+    {
+     "title": "Jaya Tiasa October 2026 Output: 25,212 Tonnes CPO, 13,686 Cubic Metres Logs - Minichart",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnhYVDRoNHRqZExpelV3S3dzRVJwd3pHaFNfOEhpbmRJUG1hY253UFdneUNSR3dLTi0wWkRnNGRaWVJVVWN0bDVsRUZPcWphM2ZRXzFaZ0cwM1ljWVBOZDBjOVZuemZlQnRObzFXVmM2RHd4MkRZanhnU0tBSUt3VHYxRFp0MGtsUUN2NUNrZXBvMHg2UlBlTVphVFh0SW9IUW84M3lKMmR2OEpyOVRqb2ZR?oc=5",
+     "published": "Tue, 10 Nov 2026 05:27:00 GMT",
+     "source": "Minichart",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "code": "5126",
+   "name": "SARAWAK OIL PALMS BERHAD",
+   "short": "Sarawak Oil Palms",
+   "sector": "PLANTATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5126",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 274785,
+    "daily_move_sd_pct": 1.85,
+    "as_of": "2026-11-13"
+   },
+   "quote": {
+    "price": 5.48,
+    "prev_close": 5.31,
+    "change_pct": 3.2,
+    "day_high": 5.49,
+    "day_low": 5.28,
+    "volume": 315500,
+    "price_time_kl": "2026-11-13T15:32+08:00",
+    "currency": "MYR",
+    "spark": [
+     5.28,
+     5.29,
+     5.29,
+     5.36,
+     5.37,
+     5.37,
+     5.39,
+     5.38,
+     5.38,
+     5.41,
+     5.44,
+     5.44,
+     5.45,
+     5.45,
+     5.45,
+     5.44,
+     5.43,
+     5.43,
+     5.42,
+     5.43,
+     5.46,
+     5.46,
+     5.45,
+     5.45,
+     5.45,
+     5.44,
+     5.42,
+     5.41,
+     5.42,
+     5.45,
+     5.49,
+     5.48,
+     5.49,
+     5.49,
+     5.48,
+     5.48,
+     5.48,
+     5.48,
+     5.48
+    ],
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "Stock Picks: CTOS Digital And Sarawak Oil Palms - BusinessToday Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOU42Z2FRd0FtWTMtVVRDX0RJVEpidTQwSUlDN3BnaXlRMUFVbkx5N090Z2tSQ3kxbThKb01uVFVxWlMzaDFMUFZOdF9fdlQ4Q0xFdzFOZzVucW12b2lzM2FOUmJWUllmN2JWal9uQjlBRTFJTDVhNVFWSDl0Z2hKR2l3ellrUHhMaVNmdzBUYUpKbEJqanc?oc=5",
+     "published": "Fri, 13 Nov 2026 00:39:10 GMT",
+     "source": "BusinessToday Malaysia",
+     "tags": []
+    },
+    {
+     "title": "Sarawak Oil Palms Reports October 2026 Palm Kernel Production Of 11,239 M.Tonnes - TradingView",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYi1xNG5BcUJQNmNNRVMzbG94WGFEZFJNY0FaTFBDX2hYZ0lpaEhEMmdJc25ZQ0VBTUQ4WGVzaEM0U0FGWUpDNTM0c2V3anBxOXNPREZ4eHEwWUVUUjVlR1JGUldId2hoVTM5U2Y3Vm13aC11ZGV3bXE1RzIwM28xemN2dGlBYjhDV3hwTUZCV2dKYllNQmFpM0tOWk1XMWpnQy00bERyVTJXN01DLU51TlBCZlg5OUd5MmZfMUdfdWhKa18yY1JpbDJ6QWVQemlQekhDNDRSWkMtMWVPVTcxOFpSVFc?oc=5",
+     "published": "Tue, 10 Nov 2026 09:57:05 GMT",
+     "source": "TradingView",
+     "tags": []
+    },
+    {
+     "title": "Sarawak Oil Palms Posts 127,129 MT FFB, 50,975 MT CPO for October 2026 - Minichart",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ01kQmRncFNPV1FZOGRsTk9vNnF6ZjdRVmJRRDBsUG9TeG9Db1plTDl5R2pVQ3h0Ulhfcl8wc0FUU2RYVHBncDI4RG1NT05nSm1mUXVSYmFscU85TW0wQWotOHNvdVlvOFA2eWIyWDlYbWs0M2k2alhiYVlFSlBucmRMQTdFMk96RU53RnZ5RWJTQzI1YWY2LXFYcUh1aFhtOEpESU5EeUUtR1ow?oc=5",
+     "published": "Tue, 10 Nov 2026 12:12:00 GMT",
+     "source": "Minichart",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "code": "9059",
+   "name": "TSH RESOURCES BHD",
+   "short": "TSH Resources",
+   "sector": "PLANTATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/9059",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 1188250,
+    "daily_move_sd_pct": 2.27,
+    "as_of": "2026-11-13"
+   },
+   "quote": {
+    "price": 1.13,
+    "prev_close": 1.13,
+    "change_pct": 0.0,
+    "day_high": 1.14,
+    "day_low": 1.12,
+    "volume": 205600,
+    "price_time_kl": "2026-11-13T15:28+08:00",
+    "currency": "MYR",
+    "spark": [
+     1.13,
+     1.13,
+     1.12,
+     1.12,
+     1.12,
+     1.12,
+     1.12,
+     1.12,
+     1.12,
+     1.12,
+     1.13
+    ],
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "TSH expected to post RM55mil to RM60mil Patami - The Star",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNckRtbC1Xazlrc2xYLWNJVVRuazVrdmtVVmtSRkRBUkgyZWl4LTVER3p0eWR6T054WEhrNW9HYTQ2WWhJeDgzTG8xcHNMakV1cVY1eWhDSzZGYWVGVG1HQ2pJNzE1SWZxS2V6M01CN3lfYzZiYVdra1B1Zkl6R29QcjVzb1hzU01jd2NjazFsUjlXUXBXVms4VjZVaEhZWHpWOTN2ZXhVSlkwM0E?oc=5",
+     "published": "Tue, 10 Nov 2026 22:05:42 GMT",
+     "source": "The Star",
+     "tags": []
+    },
+    {
+     "title": "TSH expected to post RM55mil to RM60mil Patami - KLSE Screener",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYUVrc3BtRTJ2MkdMcTRqMl93MG56b2RSZkV5V2hpWUpsdXRIQUlpTVAwdmhQVnBjOWwzMFdobEdBNThTdmRPbDItRHF1dDNxNGM0VkpDTTh6VGE3cXJpWVNvV3pZZno1R21OLUZwUlJXbVRvNmVyV1B1dk0tazN6QV85eTBxRTFCZ0JUdTcxQjU4Mng3Y2hmczdRWVE?oc=5",
+     "published": "Wed, 11 Nov 2026 04:09:29 GMT",
+     "source": "KLSE Screener",
+     "tags": []
+    },
+    {
+     "title": "TSH Resources Reports Share Buy-Back - TipRanks",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcm9kbjFwT19MNUk1T0tCVTFqMldIYVVPZjhJVldXWDRZZTZlTmxxUno2WlF5R3p4NzJaWU5TY1o5bnpJdzdmeTFUekVERnVhZDJrR2RkYUhLc1FmSEJ2aXBoSlloWE9ncmRLZ28tU09aUVNMVTA5ejdvRHBuZHpsYjJXSmxOd1JmbDNzaDIwZE95QQ?oc=5",
+     "published": "Wed, 11 Nov 2026 12:57:11 GMT",
+     "source": "TipRanks",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "code": "5031",
+   "name": "TIME DOTCOM BHD",
+   "short": "TIME dotCom",
+   "sector": "TELECOMMUNICATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/5031",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 2535320,
+    "daily_move_sd_pct": 1.16,
+    "as_of": "2026-11-13"
+   },
+   "quote": {
+    "price": 5.39,
+    "prev_close": 5.4,
+    "change_pct": -0.19,
+    "day_high": 5.44,
+    "day_low": 5.36,
+    "volume": 229000,
+    "price_time_kl": "2026-11-13T15:30+08:00",
+    "currency": "MYR",
+    "spark": [
+     5.41,
+     5.37,
+     5.43,
+     5.42,
+     5.4,
+     5.36,
+     5.4,
+     5.39,
+     5.38,
+     5.4,
+     5.39,
+     5.39,
+     5.39,
+     5.39,
+     5.39,
+     5.39,
+     5.39,
+     5.4,
+     5.39,
+     5.39,
+     5.39,
+     5.39,
+     5.39,
+     5.39,
+     5.39,
+     5.4,
+     5.39,
+     5.39,
+     5.39,
+     5.38,
+     5.38,
+     5.38,
+     5.39,
+     5.4,
+     5.39,
+     5.39
+    ],
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "Time DotCom stock gets CIMB upgrade as dividend case holds - ad-hoc-news.de",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY18xUnZLRGtYRkRpdDEydm9KWUZFRUtkRjZVOUlEVDJGUGNXZk5XR2w3LVJkbEloYWJOVWF4YTdoSEJVVEtlY1R1NmZab1RYSi0tOVpaYmxuS0wzNlVfSWFOVkRxdms2MGtqYlQzYmxfbEp2ckVnNWdGREx5V3d1TnZBVXg1RldfZTRYRHM5ZjF5M2pXcTc1QVh0OXdNRkY1eGNhYnZLb0tPMDdiTFVUc0pweEtaRk1M?oc=5",
+     "published": "Wed, 11 Nov 2026 02:09:04 GMT",
+     "source": "ad-hoc-news.de",
+     "tags": [
+      "Dividend",
+      "Analyst"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "4863",
+   "name": "TELEKOM MALAYSIA BHD",
+   "short": "Telekom Malaysia",
+   "sector": "TELECOMMUNICATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/4863",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 3480380,
+    "daily_move_sd_pct": 0.88,
+    "as_of": "2026-11-13"
+   },
+   "quote": {
+    "price": 7.89,
+    "prev_close": 7.8,
+    "change_pct": 1.15,
+    "day_high": 7.89,
+    "day_low": 7.73,
+    "volume": 2074100,
+    "price_time_kl": "2026-11-13T15:33+08:00",
+    "currency": "MYR",
+    "spark": [
+     7.73,
+     7.79,
+     7.77,
+     7.81,
+     7.75,
+     7.79,
+     7.79,
+     7.79,
+     7.79,
+     7.78,
+     7.78,
+     7.8,
+     7.8,
+     7.79,
+     7.79,
+     7.79,
+     7.79,
+     7.8,
+     7.8,
+     7.79,
+     7.8,
+     7.8,
+     7.8,
+     7.8,
+     7.8,
+     7.8,
+     7.8,
+     7.8,
+     7.8,
+     7.8,
+     7.8,
+     7.79,
+     7.8,
+     7.79,
+     7.8,
+     7.8,
+     7.8,
+     7.8,
+     7.8,
+     7.8,
+     7.8,
+     7.8,
+     7.8,
+     7.83,
+     7.85,
+     7.87,
+     7.86,
+     7.88,
+     7.89
+    ],
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "TM eyes acquisitions as data centre demand surges - The Malaysian Reserve",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNExEb05BSGFITVpFaGs3YWFfMHk2M3JCMzNPaHc2V2tQeW5Od3QzN2dETTdEcnlxWEpGZUZWMDRsSTFDdzdaWVBBak1pQUd0eXJLelNZaHV6SFFtUllYcTAzSk5XNHdqYm1VN1lONlJSY0M0TUdFRVNwZDJHeUJuNV9HeDJRb1VWSU8tekl6S1pfRXF1ajlPMg?oc=5",
+     "published": "Mon, 09 Nov 2026 02:14:20 GMT",
+     "source": "The Malaysian Reserve",
+     "tags": [
+      "Deal/Contract"
+     ]
+    },
+    {
+     "title": "Telekom Malaysia Berhad (KLSE:TM) Stock Price - Simply Wall St",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMQkFFSzk3aUU4LWpfMmk4Szh6MHBzblJ4bk5Wc1NjWlROVzBxUVhTaEo4aHJmX2lRSVFwRk55cENzb3pKQ0xOSzRaRQ?oc=5",
+     "published": "Mon, 09 Nov 2026 22:09:06 GMT",
+     "source": "Simply Wall St",
+     "tags": []
+    },
+    {
+     "title": "TM expands digital growth across AI, cloud and cybersecurity - NST Online",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWXFvbnE0MHFwR0lObVplc1FuSU45d0ktVFV1RmVURF90SU9PUkg4bEZrclJYRUN3dGJwRl9oYUNsTHlodEwteWVzMktrbThza2xjUl9PY1lKTTBacXB6RlZPV3g4MkxTRWhXN0VkQUphcWw4X3NibHRCQzYzSWlkVUpJakh1VUo1ck9vUFh3MzFfdzQwNXZOZmZ2WUFSQUlEODFaSGpxb3hkOE5IbndybHJqWDdCSnhZXy1J0gG7AUFVX3lxTE5ZcW9ucTQwcXBHSU5tWmVzUW5JTjl3SS1UVXVGZVREX3RJT09SSDhsRmtyUlhFQ3d0YnBGX2hhQ2xMeWh0TC15ZXMyS2ttOHNrbGNSX09jWUpNMFpxcHpGVk9XeDgyTFNFaFc3RWRBSmFxbDhfc2JsdEJDNjNJaWRVSklqSHVVSjVyT29QWHczMV93NDA1dk5mZnZZQVJBSUQ4MVpIanFveGQ4Tkhud3JscmpYN0JKeFlfLUk?oc=5",
+     "published": "Tue, 10 Nov 2026 04:06:19 GMT",
+     "source": "NST Online",
+     "tags": []
+    },
+    {
+     "title": "Telekom Malaysia FC - Transfermarkt",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSTh0eGZERXVhNS1hNkpOUmstZ2xXU29sZGJOMzBkc1hRRkhGMXl0eE9ma3B2M1M5d3JCcXdsbThUR2N5S2xRa2RXTm11bDNZVkVURXNqZi1reXJIajlvTUZxLXhkdTFSR3BkSkwyRWIyTUhHNkNXRVp4cWJCb0RCTVRTczBBTzdJ?oc=5",
+     "published": "Sat, 07 Nov 2026 14:15:51 GMT",
+     "source": "Transfermarkt",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "code": "6012",
+   "name": "MAXIS BHD",
+   "short": "Maxis",
+   "sector": "TELECOMMUNICATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/6012",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 1748825,
+    "daily_move_sd_pct": 1.44,
+    "as_of": "2026-11-13"
+   },
+   "quote": {
+    "price": 3.55,
+    "prev_close": 3.54,
+    "change_pct": 0.28,
+    "day_high": 3.58,
+    "day_low": 3.52,
+    "volume": 373200,
+    "price_time_kl": "2026-11-13T15:30+08:00",
+    "currency": "MYR",
+    "spark": [
+     3.54,
+     3.55,
+     3.54,
+     3.53,
+     3.56,
+     3.57,
+     3.57,
+     3.57,
+     3.57,
+     3.57,
+     3.57,
+     3.57,
+     3.57,
+     3.57,
+     3.57,
+     3.58,
+     3.57,
+     3.56,
+     3.56,
+     3.56,
+     3.56,
+     3.57,
+     3.56,
+     3.57,
+     3.56,
+     3.56,
+     3.56,
+     3.56,
+     3.57,
+     3.57,
+     3.57,
+     3.56,
+     3.55,
+     3.55
+    ],
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "Brokers Digest: Local Equities - Plantations, Maxis Bhd, Coastal Contracts Bhd, Solarvest Holdings Bhd - The Edge Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yOTZXNmlFM1JfYl9UbUJlcDdRZ25TcDJuQ0dVNHBoTTRGNG1Bai1tQkVyb3dKV0lOLVNrd0lvUHFiTnZicVlvT3Z5eXVNOFI5?oc=5",
+     "published": "Tue, 10 Nov 2026 06:30:00 GMT",
+     "source": "The Edge Malaysia",
+     "tags": [
+      "Deal/Contract"
+     ]
+    },
+    {
+     "title": "Maxis fundamentals remain intact amid dip - The Star",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNXzk2S0o5dW0wMlYyVkQ1ZGMzaExzbFJHclFGY1UtZEtKaW42MEdSLWQxZUlMRThFSVRoWC1qd1RXQ2V5cVZ0RUx3VzhsdXR1TEp6dmowZllMdkNJdWdRRmVSYWFtMGR2anBpWHFrSDRTcExoQkRCODI3aFBFNml1NUtjQUduVFRCYUtwMmhybjhwdjJNaFNYOTNNbFpGb25IX1BGbg?oc=5",
+     "published": "Tue, 10 Nov 2026 23:31:03 GMT",
+     "source": "The Star",
+     "tags": []
+    },
+    {
+     "title": "Maxis registers 8.5% growth in Q3’26 PAT - The Sun Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ydERxQlhhbjY3bDQwczVZUXBFdjVSRjNvSEU2VzZKaVFwTUFZemtSbjBwTkxGMzVQNUhIOTJzZjZtUWhQeG1NNXNTb202M2JDWjF5eG5FLUMtbk9DYm9MaXNjU2RFaHlScGNmNEoyMFF3YTM3?oc=5",
+     "published": "Mon, 09 Nov 2026 08:40:55 GMT",
+     "source": "The Sun Malaysia",
+     "tags": []
+    },
+    {
+     "title": "Unisem, Frontken, Public Bank, Maxis, Zetrix AI, TRC Synergy, IOI Corp, IOI Property, MISC, Yinson, Microlink, APB Resources & Nestcon - The Edge Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BbHAyVDQ2TTkzSnpUaTEwQ0xKNDFSWWd2dU54a3NUa1VEclBqOG1mQ2pZd0R3T29TRlM0OEk3QTZiaEVYN3Rhb1VFdVQzWDBN?oc=5",
+     "published": "Fri, 06 Nov 2026 14:27:23 GMT",
+     "source": "The Edge Malaysia",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "code": "6947",
+   "name": "CELCOMDIGI BHD",
+   "short": "CelcomDigi",
+   "sector": "TELECOMMUNICATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/6947",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 2376810,
+    "daily_move_sd_pct": 2.3,
+    "as_of": "2026-11-13"
+   },
+   "quote": {
+    "price": 2.44,
+    "prev_close": 2.45,
+    "change_pct": -0.41,
+    "day_high": 2.51,
+    "day_low": 2.43,
+    "volume": 1675500,
+    "price_time_kl": "2026-11-13T15:32+08:00",
+    "currency": "MYR",
+    "spark": [
+     2.46,
+     2.47,
+     2.49,
+     2.49,
+     2.48,
+     2.49,
+     2.5,
+     2.49,
+     2.5,
+     2.5,
+     2.5,
+     2.51,
+     2.48,
+     2.48,
+     2.48,
+     2.48,
+     2.48,
+     2.47,
+     2.47,
+     2.46,
+     2.46,
+     2.46,
+     2.46,
+     2.46,
+     2.46,
+     2.46,
+     2.45,
+     2.45,
+     2.45,
+     2.45,
+     2.46,
+     2.45,
+     2.45,
+     2.45,
+     2.45,
+     2.45,
+     2.45,
+     2.45,
+     2.44,
+     2.44,
+     2.44,
+     2.44,
+     2.44,
+     2.44,
+     2.44,
+     2.44,
+     2.44,
+     2.44,
+     2.44
+    ],
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "CelcomDigi introduces streaming passes from RM1 for prepaid customers - The Star",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQalNmMC1SRFlNZGc2dHI0TW1jaW94Njg2LUtJVGRSdTllZ20yWmhjVEtNY25BRHdpOFR6NDhCaHlTdFFla3dlcWVmdWlOSFh1MGYza0dYSE9tV2xRMDZydWYwRTBoWUEwd1JHWm94eHRIdWNtUmVoT3NGaTNmSm5YT213dURoaWxlNW92OHdUUi1rbGpaUjN2Qk03QUpOMy1ZZzdQcy1vaUxkR2FKZnJIYlZXTi1kNWV1TUUzNUhqSmJKc0VDbXB6QUhn?oc=5",
+     "published": "Fri, 13 Nov 2026 07:20:00 GMT",
+     "source": "The Star",
+     "tags": []
+    },
+    {
+     "title": "CelcomDigi steps up cyber and climate safeguards - NST Online",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNFI5V1RFRU54elAtMnU0QVg4TzNXMXpyOTFjRU5uTV9XWllIZHRlTlRkby1Gd1hLUEMyXzFRX3BkbkJnbEwtQzNja0tMYmtHLV85ZzM4ODZnRFJBVnhmYjhPWm40WnRISmszVjk2b2R5eEQtQ1d4UTVXOWFMenNvcFMybTkxdWpIc1pkM1F4TVEyeVdZYnU4RWJIMS1mT2labDdPTFpn0gGrAUFVX3lxTE44dmhScDRfM2JkcHdYNDBzUzlLZ09admptTlBvY3ZiTG9FbjRBZHJNVjViNGVJblM5TVNLSlM0ZnhSV0hsbUFFUy1Eb3JNT1ZESC1STWVxeFc1T0VpY1V1dFZpekRadW5uSFgyZWhSOUpIY0JfbjJuZ1RYN0hrUUpra1NtN1pBeHE3SFlWbjBCejljSzhhZUppazZfblBuVDREZXRHNWdqTmJoUQ?oc=5",
+     "published": "Thu, 12 Nov 2026 02:43:13 GMT",
+     "source": "NST Online",
+     "tags": []
+    },
+    {
+     "title": "Eyeing The Upcoming GTA 6? That’s Not The Only Deal CelcomDigi Has For You This Year-End - SAYS",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQnZ6cTFaU1NjcjE5djdLV1REcFJrVzdPam1YVU1OQ0JJQkVGbHE2eTJnTms1T0JYa3ZDazNlM0kwcXVnZExLdjQ0bTRhRG1iaVk4bmRGX1ZlUEF4eFJKSVJsSlZQSnRoZXZhQWVFRk10TW1LWGItWDA2WWhuM0FKa2ljczFHV2pfRDc2ODFsdlpMZEpaRnZSUzZvNkxONlJURnNIemtoSjExdHRzbGNpd3NjZlZWajQ?oc=5",
+     "published": "Wed, 11 Nov 2026 06:56:00 GMT",
+     "source": "SAYS",
+     "tags": []
+    },
+    {
+     "title": "CelcomDigi Opens Flagship Store at Merdeka 118 and Launches Nationwide \"Play Deals\" Year-End Campaign - TechNave",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU0RzVEw5YXI1S2x2Z3cweDRqWlRXLVpsbDRleGdNcE5STWptOXBNWEpzczJ2ZjZVTV9kVmVtbjZ5cUctbmVGbnktdXNib0w4U0QyeUhNZmlPVlotY0doVWhaQzRlbzlQVU9ER2JOeGxRVDhCbFY5SmhlYXdyejl6WnpycGZtZkNlMWlGM1JncnFXOXpWM0xhalRBTk9YeGQ0MG9wNmdwdHRMd3BRaDVxaDdUa0R1NXlHYjNsRVUzQ014bXBTbFE1cjFsQ2JiUVB6RkVYMw?oc=5",
+     "published": "Fri, 06 Nov 2026 07:55:38 GMT",
+     "source": "TechNave",
+     "tags": []
+    },
+    {
+     "title": "CelcomDigi Opens Third Flagship Store At 118 Mall With Year-End Play Deals Campaign - Pokde.Net",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SV0NaeFB5SXZxeTJ1VXZHcS1sbEtnb0J0a0Q5YUF0S2tERHJwNU9HN2h0N2c2TTUzRmI5Ql9mWi1MQW9DaXFOTDdxMFZaOEhrSUg1OG91YXg2b25hWjRTQVlMbWEyTTlCTHZrXzR2ajhRdXZ6bnhRdWZ2SDk5Zw?oc=5",
+     "published": "Sat, 07 Nov 2026 18:19:16 GMT",
+     "source": "Pokde.Net",
+     "tags": []
+    },
+    {
+     "title": "CelcomDigi Opens New Flagship Store at Merdeka 118 - www.techbarrista.com",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4c0NvaDM0TEJHZG1WYllub2pscFRtamRpZzFJYUJNZkdyc1Y5Wi15TVlpbVVmVXhYTk13bGpzTjNja1RLZEowMXNXZlZtdVhFQUdqYVZ3WFBGYWZSUU1HZHJn?oc=5",
+     "published": "Mon, 09 Nov 2026 00:00:00 GMT",
+     "source": "www.techbarrista.com",
+     "tags": []
+    },
+    {
+     "title": "HUAWEI Malaysia signs new 3-year MoU with CelcomDigi to train the telco's workforce for the AI era - Nasi Lemak Tech",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOGItRThRMWMwaG5DOURra1RiY2w0SkcwNWJyc1g0NzZEcGxHQ2FabjRSRVFSbHVpM3lQOVhrbDNxVXV6SG9CVHl2VnBlMjZGSFBxSWVSTk14ZlFwQ0hKR2JFSW5ZTGRHTjVDbkxxUEZCaUM3R2Z6UkpaNXRxaHpOV0VQRHEyd1E3ZkJ6MA?oc=5",
+     "published": "Sat, 07 Nov 2026 06:11:23 GMT",
+     "source": "Nasi Lemak Tech",
+     "tags": [
+      "Deal/Contract"
+     ]
+    },
+    {
+     "title": "CelcomDigi lowers carbon footprint - NST Online",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaUxPbnQ0UmdzX2FkcHBqZWpfQUxfSEdwZjBnckVLUHQyMUdYdWF1OTZLM3h6cy1JM2VaZnZfUDV1MkpHMEdYRy1uYkxRTkpHS2QtZlIyRFZCY3Izc3FfT0wyNjAtZnJtZzB2eHZ6UVBjdEhoc21vSFRZM1hFaURWN1VDSnJNUnRnd3c5aDRaRdIBlAFBVV95cUxNWXZBZVJuazMyS3dZZmVjNlpwM2pGT1hLc2dwTkVrQ01EQV9OUUhjbFdrQkdGeThWTFR3VjZtVWhMUzlHZWxXQXQwWlVRT2xhNzQ0el84THBsdmJRdkZlRkZlb2lGemUxaE5ESFBYRjhfZ2ZvWkdXT1JkWTI3cnZIMlFPcXlITGotc3NVem83WXowLXZ6?oc=5",
+     "published": "Fri, 06 Nov 2026 07:52:40 GMT",
+     "source": "NST Online",
+     "tags": []
+    }
+   ]
+  },
+  {
+   "code": "6888",
+   "name": "AXIATA GROUP BERHAD",
+   "short": "Axiata",
+   "sector": "TELECOMMUNICATION",
+   "klsescreener_url": "https://www.klsescreener.com/v2/stocks/view/6888",
+   "stats": {
+    "days": 20,
+    "avg_volume_20d": 10338530,
+    "daily_move_sd_pct": 1.87,
+    "as_of": "2026-11-13"
+   },
+   "quote": {
+    "price": 1.66,
+    "prev_close": 1.67,
+    "change_pct": -0.6,
+    "day_high": 1.67,
+    "day_low": 1.65,
+    "volume": 1916300,
+    "price_time_kl": "2026-11-13T15:33+08:00",
+    "currency": "MYR",
+    "spark": [
+     1.67,
+     1.67,
+     1.67,
+     1.67,
+     1.67,
+     1.66,
+     1.66,
+     1.66,
+     1.66,
+     1.67,
+     1.66,
+     1.67,
+     1.66,
+     1.66,
+     1.66,
+     1.66,
+     1.66,
+     1.67,
+     1.66,
+     1.66,
+     1.66,
+     1.66,
+     1.66,
+     1.66,
+     1.66,
+     1.66,
+     1.66,
+     1.66,
+     1.66,
+     1.66,
+     1.66
+    ],
+    "source": "Yahoo Finance",
+    "delayed": "Delayed about 15 min"
+   },
+   "news": [
+    {
+     "title": "Malaysia Closing Bell on Nov 11 | AXIATA Was the Top Gainer of FBM KLCI - Moomoo",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ3pUSTFHSVp3WHJheDQ5SGFBSV94ZS1DY01FVkF5QjhZZWxFbkNPS2wteFNDOExlcHQ1Ri1BbzNGUlEyLU9Ka1Z0ckl2Q2xJMXBlRXdLTmtGeDVFdTY3elBnMThySGdaaHFZbzIzdE9oNlNUUkFPY0g2ZUg4OXVJSk9fXzUzN1kyOVlRb2VwR3lXM0JyNnBzRGp3?oc=5",
+     "published": "Wed, 11 Nov 2026 09:20:00 GMT",
+     "source": "Moomoo",
+     "tags": []
+    },
+    {
+     "title": "What Axiata Group Berhad Investors Missed Before The Fall - Simply Wall St",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSUx0dklfckVqVTRYaHBrc2o5M3AyZDVGMXM1U2RzY251WmIzWUtuNmRIbHl2NDRUd0Y5X3JQN2lRUDhJMjluZUJNTDBFNTl3NGJTNTlydEhlbDJSLU5ObWdzTkJ1c1l0ckhrYWhEZ1c0bk5yc0VSX19ZRUxlOTZRTVMxS3Q4bmMwNTJYWEVveFp2UGduQTNkTVlEbkRoS2NEQXlqN1dwdmlGMnpOVEZ3OG1YaXJuTXh2WVhDdTVhVGtWbUVGN2k0Si01WXpxZ2FseFdMelFQT1ZWTXfSAeABQVVfeXFMTzhEbUUyMHNlYkkteEpGa29KN25WbDlkVjVwUVNGZzNsLVdfWUVKQThfcDB4dHRZQ2haVmxMS1Y5TEh3OW1RYUV5UWQyUlRKd2NkNF9Wd2pJNHRLVWc0Yk9XV2xhS0JaRjZQVjl3UTFCcHc3OUViWmpwRkozY2JNd0JFWmExbzFHalFRd2g4NncxcGdHTGJ2YXZrdjJzQVJLOEt0a19FbngyZS1aUm9GMU93QUNCZkl1R2ZuUnNtQXBzU0k0SUZiSk9XYUl2Qk40X2JtQndBSWJlQWNDRnpOU3o?oc=5",
+     "published": "Mon, 09 Nov 2026 09:29:36 GMT",
+     "source": "Simply Wall St",
+     "tags": []
+    },
+    {
+     "title": "Dialog Axiata : 2026 Q3 Media Release - www.marketscreener.com",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa1MzUUlaaVItTzk4RjdRc0t4cDJDVHprOEJXN3lzTFk4bFJSNVRpM2NSQ082cHBpTjNWNXNKNXNVZUdGYW9rSVRhOF94M2lrU3hqZHNJU3ZPR2dTNU9lbmEtOVRmV28tdGhfZWM5QmQ2UU83bkVOM2FMbGhIQ2VpSWN1bG4zMXMzWGlULXpHVzVYUQ?oc=5",
+     "published": "Wed, 11 Nov 2026 03:56:03 GMT",
+     "source": "www.marketscreener.com",
+     "tags": [
+      "Results"
+     ]
+    },
+    {
+     "title": "KB PRASAC Bank, Smart Axiata Partner to Expand Digital Financial Services in Cambodia - Cambodianess",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObHN4dXhzRHRDZDlYLUhMMFkxOGpJa25rNXZyUTlvUEluZTFKcTctN0xRS0NqclJVeEE2a0JJS2hDNDBiaXlicjJlM0Y3TllodU5XWWh3Y194QjFkRklBN2M3OHZsVGxzMC1FUGtQeVNfRC1udzhmVHZPUlRWNDlId2NVSWxtV05DQ19SUUVQUnlGdkRmc014aVpNa3JoX1h0dDVDdURXcTJxQWhLVGZyOEF5VE44Y293?oc=5",
+     "published": "Wed, 11 Nov 2026 12:07:45 GMT",
+     "source": "Cambodianess",
+     "tags": []
+    },
+    {
+     "title": "Dialog Axiata's 9-month profit almost doubles as EBITDA rises 20% - Telecompaper",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdW16QXBGelNpX3I5RFpaUEMzaXJGdmdEd1FocUxfVUVYbWdUcEUxcUlSS0s0LVVhbUo1RWxPd1B4UDVsM1Z1Qm9HVjNwSDVPMncwTTRNMU5vRWZwSEV2WHdTY0ZUek5wUVJGUDRBV1A3eU5DUGhPZWNfMUJ5TzFheU43a056cFVvdFlNemdUMW9SZUFtSEFybzhmTkNncmVabW9KSUwtaE9EZw?oc=5",
+     "published": "Thu, 12 Nov 2026 04:02:35 GMT",
+     "source": "Telecompaper",
+     "tags": [
+      "Results"
+     ]
+    },
+    {
+     "title": "Photos - Colombo Dockyard vs Dialog Axiata - MCA Challengers League 50 0ver Cricket Tournament 2026 - ThePapare",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOWd6MG9PQm1HTThvbzZpMWlJYVVzODBuWjRuOVN6MDE2MnBoelR2SFM5dUEwNWlwUTlWV2w3VTlsNk5TdkVJOGdKaFc3WjJCRXZNT0lSX1Q0TG0yQVpGWVFZVExJQ2RBa1NwelRiTV9uVHdXNDljbEFodXRDd0o2RFJIZjVyb2ZLQ3dCSndmdGlKd0dpQzYzaG1xakhjNElfZTRzVU1SVm12a0FwNDg0UFdwbmZJeU9PQjJ5Tm1Jaw?oc=5",
+     "published": "Sun, 08 Nov 2026 17:12:26 GMT",
+     "source": "ThePapare",
+     "tags": []
+    }
+   ]
+  }
+ ],
+ "index": {
+  "name": "FBM KLCI",
+  "price": 1582.45,
+  "prev_close": 1595.19,
+  "change_pct": -0.8,
+  "day_high": 1588.1,
+  "day_low": 1581.35,
+  "volume": 0,
+  "price_time_kl": "2026-11-13T15:30+08:00",
+  "currency": "MYR",
+  "spark": [
+   1585.48,
+   1585.63,
+   1584.15,
+   1585.54,
+   1585.24,
+   1584.67,
+   1585.24,
+   1585.9399,
+   1586.6899,
+   1587.1,
+   1588.04,
+   1586.74,
+   1587.34,
+   1586.6,
+   1585.65,
+   1585.66,
+   1585.73,
+   1585.92,
+   1586.08,
+   1586.34,
+   1585.91,
+   1586.48,
+   1586.55,
+   1586.7,
+   1586.67,
+   1586.6899,
+   1586.22,
+   1584.75,
+   1584.98,
+   1584.91,
+   1584.67,
+   1583.59,
+   1584.21,
+   1582.1801,
+   1583.05,
+   1583.65,
+   1581.87,
+   1582.4301,
+   1582.17,
+   1582.6801,
+   1583.24,
+   1582.28,
+   1582.5601,
+   1582.5601,
+   1582.5601,
+   1582.5601,
+   1582.5601,
+   1582.5601,
+   1582.5601,
+   1582.5601,
+   1582.5601,
+   1582.5601,
+   1582.5601,
+   1582.5601,
+   1582.5601,
+   1582.5601,
+   1582.5601,
+   1582.5601,
+   1582.5601,
+   1582.5601,
+   1582.5601,
+   1582.5601,
+   1582.5601,
+   1582.5601,
+   1582.5601,
+   1582.5601,
+   1583.9399,
+   1582.9,
+   1582.08,
+   1582.29,
+   1583.36,
+   1583.61,
+   1583.9,
+   1583.79,
+   1583.7,
+   1583.97,
+   1583.47,
+   1583.0601,
+   1582.45
+  ],
+  "source": "Yahoo Finance",
+  "delayed": "Delayed about 15 min"
+ }
+}
